@@ -1,14 +1,15 @@
 <template>
-  <Test />
+  <MainPage />
 </template>
 
 <script>
   // import HelloWorld from '../components/HelloWorld'
-  import Test from '../components/test'
+  // import Test from '../components/test'
+  import MainPage from '../components/MainPage'
  
   export default {
     components: {
-      Test
+      MainPage
     }
   }
 </script>
