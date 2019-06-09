@@ -1,5 +1,8 @@
 # server
 
+Projeto final de PRC usando vue e vuetify
+
+
 ## Project setup
 ```
 npm install
