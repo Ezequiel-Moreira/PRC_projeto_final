@@ -21,7 +21,8 @@ module.exports = {
     'keyword-spacing':'off',
     'arrow-spacing':'off',
     'comma-spacing':'off',
-    'no-trailing-spaces':'off'
+    'no-trailing-spaces':'off',
+    'no-unused-vars':'off'
   },
   parserOptions: {
     parser: 'babel-eslint'
