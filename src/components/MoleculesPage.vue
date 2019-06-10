@@ -1,8 +1,6 @@
 <template>
 	<v-container >
-    <v-flex xs6>
-      Molecules page beeing redisigned, please await warmly
-    </v-flex>
+    Molecules page beeing redisigned, please await warmly
   </v-container>
 </template>
 

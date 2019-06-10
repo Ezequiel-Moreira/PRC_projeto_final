@@ -1,8 +1,6 @@
 <template>
 	<v-container >
-    <v-flex xs6>
-      Elements page beeing redisigned, please await warmly
-    </v-flex>
+    Elements page beeing redisigned, please await warmly
   </v-container>
 </template>
 
