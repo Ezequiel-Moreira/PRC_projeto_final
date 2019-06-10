@@ -1,15 +1,18 @@
 <template>
-  <MainPage />
+  <v-container>
+    <Toolbar />
+    <MainPage />
+  </v-container>
 </template>
 
 <script>
-  // import HelloWorld from '../components/HelloWorld'
-  // import Test from '../components/test'
   import MainPage from '../components/MainPage'
+  import Toolbar from '../components/Toolbar'
  
   export default {
     components: {
-      MainPage
+      MainPage,
+      Toolbar
     }
   }
 </script>

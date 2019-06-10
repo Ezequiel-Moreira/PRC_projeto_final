@@ -9,8 +9,6 @@
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld' 
-import Test from './components/test'
 
 export default {
   name: 'App',
