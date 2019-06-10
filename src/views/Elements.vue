@@ -1,17 +1,19 @@
 <template>
   <v-container>   
     <Toolbar />
-    <p>Elements page(WIP)</p>
+    <ElementsPage />
   </v-container>
 </template>
 
 
 <script>
   import Toolbar from '../components/Toolbar'
+  import ElementsPage from '../components/ElementsPage'
  
   export default {
     components: {
-      Toolbar
+      Toolbar,
+      ElementsPage
     }
   }
 </script>

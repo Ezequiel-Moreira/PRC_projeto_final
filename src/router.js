@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from './views/Home.vue'
+import Home from './views/Homepage.vue'
 import Elems from './views/Elements.vue'
 import Mols from './views/Molecules.vue'
 
