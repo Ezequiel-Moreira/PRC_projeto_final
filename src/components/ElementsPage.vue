@@ -7,7 +7,7 @@
     >
 
       <template v-slot:no-data>
-        <v-alert :value="true" icon="fas fa-circle-notch fa-spin">
+        <v-alert :value="true" color="blue" icon="fas fa-circle-notch fa-spin">
           Retreving data from ontology
         </v-alert>
       </template>
@@ -27,24 +27,18 @@
 
 <script>
   import axios from 'axios'
-  const ontologyLink = "http://http://localhost:7200/repositories/"
+  
+  const ontologyLink = "http://localhost:7200/repositories/Projeto-Final-elements-molecules"
 
   var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
-              "select * where {\n" + 
-              "?s a :Element .\n" +
+              "select ?symbol ?name ?atm_number where {\n" + 
+              "  ?s a :Element .\n" +
+              "  ?s :elemental_symbol ?symbol;\n" +
+              "  :elemental_name ?name;\n" +
+              "  :elemental_atomic_number_Z ?atm_number\n" +
               "}"
-  
-  var query2 = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
-                "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\n" +
-                "PREFIX owl: <http://www.w3.org/2002/07/owl#>\n" +
-                "select distinct * where {\n" 
-  var query3 = " :elemental_symbol ?symbol;\n " +
-                 " :elemental_name ?name;\n" +
-                 " :elemental_atomic_number_Z ?atm_number;\n" +
-                 "}"
 
-
-  var encoded1 = encodeURIComponent(query)
+  var encoded = encodeURIComponent(query)
 
 	export default {
     data:() =>({
@@ -53,21 +47,14 @@
         {text:'Name',align:'left',sortable:true,value:'name',class:'title'},
         {text:'Atomic Number',align:'left',sortable:false,value:'atm_number',class:'title'}
       ],
-      elementsList: [],
-      elements:[]
+      elements: []
     }),
     mounted: async function() {
       try {
-        var response = await axios.get(ontologyLink + '?query=' + encoded1)
-        this.elementsList = response.data
-        for(var element in this.elementsList){
-          var fullquery2 = query2 + element + query3
-          var encoded2 = encodeURIComponent(fullquery2)
-          var elemResp = await axios.get(ontologyLink + '?query=' + encoded2)
-          var data = elemResp.data
-          this.elements.append(data)
-        }
+        var response = await axios.get(ontologyLink + '?query=' + encoded)
+        this.elements = response.data
       } catch (error) {
+        alert(error)
         return error
       }
     },

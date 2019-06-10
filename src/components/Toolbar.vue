@@ -3,7 +3,6 @@
     <div>
         <vue-headful
             title="Ontology Explorer"
-            description="Description from vue-headful"
         />
     </div>
     <nav>
