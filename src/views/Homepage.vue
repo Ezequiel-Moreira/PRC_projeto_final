@@ -1,18 +1,17 @@
 <template>
   <v-container>
     <Toolbar />
-    <ElementPage />
+    <MainPage />
   </v-container>
 </template>
 
 <script>
-  import ElementPage from '../components/ElementPage'
-  // import MainPage from '../components/MainPage'
+  import MainPage from '../components/MainPage'
   import Toolbar from '../components/Toolbar'
  
   export default {
     components: {
-      ElementPage,
+      MainPage,
       Toolbar
     }
   }

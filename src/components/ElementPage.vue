@@ -107,7 +107,7 @@
         <template v-slot:items="props">
           <tr @click="rowClicked(props.item)">
             <td class="subheading">
-              {{ props.item.name.replace('/___/g',props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
+              {{ props.item.mol.split("#")[1].replace('/___/g',props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
             </td>
           </tr>
         </template>
@@ -201,6 +201,10 @@
         return error
       }
     },
-    methods: {}
+    methods: {
+      rowClicked: function(item){
+        this.$router.push('/molecules/' + item.mol.split('#')[1])
+      }
+    }
 	}
 </script>

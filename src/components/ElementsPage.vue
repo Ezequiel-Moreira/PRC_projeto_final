@@ -31,7 +31,7 @@
   const ontologyLink = "http://localhost:7200/repositories/Projeto-Final-elements-molecules"
 
   var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
-              "select ?symbol ?name ?atm_number where {\n" + 
+              "select ?s ?symbol ?name ?atm_number where {\n" + 
               "  ?s a :Element .\n" +
               "  ?s :elemental_symbol ?symbol;\n" +
               "  :elemental_name ?name;\n" +
@@ -58,6 +58,10 @@
         return error
       }
     },
-    methods: {}
+    methods: {
+      rowClicked: function(item){
+        this.$router.push('/elements/' + item.s.split('#')[1])
+      }
+    }
 	}
 </script>
