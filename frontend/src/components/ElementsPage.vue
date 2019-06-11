@@ -15,7 +15,6 @@
       :headers="headers"
       :items="filteredElements"
       class="elevation-1"
-      rows-per-page-items=[15,25,50]
     >
 
       <template v-slot:no-data>
@@ -48,7 +47,7 @@
         {text:'Atomic Number',align:'left',sortable:true,value:'atm_number',class:'title'}
       ],
       elements: [],
-	search: ""
+	    search: ""
     }),
     mounted: async function() {
       try {

@@ -3,7 +3,7 @@ var express = require('express')
 var path = require('path') 
 var cookieParser = require('cookie-parser') 
 var logger = require('morgan') 
-
+const nocache = require('nocache')
 
 //routers
 //NOTE: these are all API for the frontend
@@ -31,6 +31,8 @@ app.use((req,res,next)=>{
   next()
 })
 
+//remove cache because of 304 "error"
+app.use(nocache())
 
 app.use(express.json()) 
 app.use(express.urlencoded({ extended: false })) 

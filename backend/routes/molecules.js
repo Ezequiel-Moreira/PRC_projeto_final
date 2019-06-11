@@ -10,13 +10,14 @@ router.get('/', function(req, res) {
   var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" + 
               "select *  where {\n" +
               "  ?s a :Molecule .\n" +
-              "  ?s :molecule_name ?name\n" +
+              "  ?s :molecule_name ?name;\n" +
               "     :molecule_number ?number;\n" +
               "     :molecule_formula ?formula;\n" +
               "     :molecule_dot-val ?dot_val;\n" +
               "}"
   
   var encoded = encodeURIComponent(query)
+
 
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {
