@@ -1,7 +1,7 @@
 <template>
   <v-container>   
     <Toolbar />
-    <MoleculePage />
+    <MoleculePage :idMolecule="$route.params.id"/>
   </v-container>
 </template>
 
