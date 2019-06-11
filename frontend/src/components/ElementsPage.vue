@@ -1,19 +1,21 @@
 <template>
 	<v-container >
-	<v-flex xs3>
-
-	  <div class="search-wrapper">
-            <v-icon>search</v-icon>
-	    <input type="text" v-model="search" placeholder="Search element name"/>
-	  </div>
-	</v-flex>
-	<h1>
-		Results from search
-	</h1>
+    <v-card>
+      <v-flex xs3>
+        <div class="search-wrapper">
+          <v-icon>search</v-icon>
+          <input type="text" v-model="search" placeholder="Search element name"/>
+        </div>
+      </v-flex>
+    </v-card>
+    <h1>
+      Results from search
+    </h1> 
     <v-data-table
       :headers="headers"
       :items="filteredElements"
       class="elevation-1"
+      rows-per-page-items=[15,25,50]
     >
 
       <template v-slot:no-data>
@@ -63,9 +65,9 @@
       }
     },
     computed:{
-	filteredElements(){
-		return this.elements.filter(elem => { return elem.name.toLowerCase().includes(this.search.toLowerCase()) })
-	}
+      filteredElements(){
+        return this.elements.filter(elem => { return elem.name.toLowerCase().includes(this.search.toLowerCase()) })
+      }
     }
 }
 </script>

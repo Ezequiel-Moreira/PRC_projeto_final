@@ -19,25 +19,25 @@ router.get('/', function(req, res) {
 
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {
-	//make data presentable
-	var data = response.data
-	var keys = data.head.vars
-	var results = data.results.bindings
-	//
-	for(var i in results){
-		var result = results[i]
-		var tempResult = {}
-		for(var j in keys){
-			var key = keys[j]
-			if(result[key].value){
-				tempResult[key] = results[i][key].value
-			}else{
-				tempResult[key] = 'undefined'
-			}
-		}
-		results[i]=tempResult
-	}	
-       	res.json(results)
+          //make data presentable
+          var data = response.data
+          var keys = data.head.vars
+          var results = data.results.bindings
+          //
+          for(var i in results){
+            var result = results[i]
+            var tempResult = {}
+            for(var j in keys){
+              var key = keys[j]
+              if(result[key].value){
+                tempResult[key] = results[i][key].value
+              }else{
+                tempResult[key] = 'undefined'
+              }
+            }
+            results[i]=tempResult
+          }	
+          res.json(results)
        })
        .catch(err => {
          res.status(500).json('error: ' + err)
@@ -74,25 +74,25 @@ router.get('/:id', function(req, res) {
   
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {
-	//make data presentable
-	var data = response.data
-	var keys = data.head.vars
-	var results = data.results.bindings
-	//
-	for(var i in results){
-		var result = results[i]
-		var tempResult = {}
-		for(var j in keys){
-			var key = keys[j]
-			if(result[key].value){
-				tempResult[key] = results[i][key].value
-			}else{
-				tempResult[key] = 'undefined'
-			}
-		}
-		results[i]=tempResult
-	}	
-       	res.json(results)
+          //make data presentable
+          var data = response.data
+          var keys = data.head.vars
+          var results = data.results.bindings
+          //
+          for(var i in results){
+            var result = results[i]
+            var tempResult = {}
+            for(var j in keys){
+              var key = keys[j]
+              if(result[key].value){
+                tempResult[key] = results[i][key].value
+              }else{
+                tempResult[key] = 'undefined'
+              }
+            }
+            results[i]=tempResult
+          }	
+          res.json(results)
        })
        .catch(err => {
          res.status(500).json('error: ' + err)
@@ -120,25 +120,25 @@ router.get('/:id/moleculeList',function(req,res){
   
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {
-	//make data presentable
-	var data = response.data
-	var keys = data.head.vars
-	var results = data.results.bindings
-	//
-	for(var i in results){
-		var result = results[i]
-		var tempResult = {}
-		for(var j in keys){
-			var key = keys[j]
-			if(result[key].value){
-				tempResult[key] = results[i][key].value
-			}else{
-				tempResult[key] = 'undefined'
-			}
-		}
-		results[i]=tempResult
-	}	
-       	res.json(results)
+        //make data presentable
+        var data = response.data
+        var keys = data.head.vars
+        var results = data.results.bindings
+        //
+        for(var i in results){
+          var result = results[i]
+          var tempResult = {}
+          for(var j in keys){
+            var key = keys[j]
+            if(result[key].value){
+              tempResult[key] = results[i][key].value
+            }else{
+              tempResult[key] = 'undefined'
+            }
+          }
+          results[i]=tempResult
+        }	
+        res.json(results)
        })
        .catch(err => {
          res.status(500).json('error: ' + err)

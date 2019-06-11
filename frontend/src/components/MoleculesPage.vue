@@ -15,8 +15,10 @@
       <template v-slot:items="props">
         <tr @click="rowClicked(props.item)">
           <td class="subheading">
-            {{ props.item.name.replace('/___/g',props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
+            {{ props.item.name.replace('/___/g',"" + props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
           </td>
+          <td class="subheading">{{ props.item.formula }}</td>
+          <td class="subheading">{{ props.item.number }}</td>
         </tr>
       </template>
 
@@ -33,7 +35,9 @@
 	export default {
     data:() =>({
       headers:[
-        {text:'Name',align:'left',sortable:true,value:'name',class:'title'}
+        {text:'Name',align:'left',sortable:true,value:'name',class:'title'},
+        {text:'Formula',align:'left',sortable:false,value:'form',class:'title'},
+        {text:'Number',align:'left',sortable:false,value:'num',class:'title'}
       ],
       molecules:[]
     }),
