@@ -1,8 +1,18 @@
 <template>
 	<v-container >
+	<v-flex xs3>
+
+	  <div class="search-wrapper">
+            <v-icon>search</v-icon>
+	    <input type="text" v-model="search" placeholder="Search element name"/>
+	  </div>
+	</v-flex>
+	<h1>
+		Results from search
+	</h1>
     <v-data-table
       :headers="headers"
-      :items="elements"
+      :items="filteredElements"
       class="elevation-1"
     >
 
@@ -28,30 +38,19 @@
 <script>
   import axios from 'axios'
   
-  const ontologyLink = "http://localhost:7200/repositories/Projeto-Final-elements-molecules"
-
-  var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
-              "select ?s ?symbol ?name ?atm_number where {\n" + 
-              "  ?s a :Element .\n" +
-              "  ?s :elemental_symbol ?symbol;\n" +
-              "  :elemental_name ?name;\n" +
-              "  :elemental_atomic_number_Z ?atm_number\n" +
-              "}"
-
-  var encoded = encodeURIComponent(query)
-
 	export default {
     data:() =>({
       headers:[
-        {text:'Symbol',align:'left',sortable:true,value:'symbol',class:'title'},
+        {text:'Symbol',align:'left',sortable:false,value:'symbol',class:'title'},
         {text:'Name',align:'left',sortable:true,value:'name',class:'title'},
-        {text:'Atomic Number',align:'left',sortable:false,value:'atm_number',class:'title'}
+        {text:'Atomic Number',align:'left',sortable:true,value:'atm_number',class:'title'}
       ],
-      elements: []
+      elements: [],
+	search: ""
     }),
     mounted: async function() {
       try {
-        var response = await axios.get(ontologyLink + '?query=' + encoded)
+        var response = await axios.get('http://localhost:8000/api/elements')
         this.elements = response.data
       } catch (error) {
         alert(error)
@@ -62,6 +61,11 @@
       rowClicked: function(item){
         this.$router.push('/elements/' + item.s.split('#')[1])
       }
-    }
+    },
+    computed:{
+	filteredElements(){
+		return this.elements.filter(elem => { return elem.name.toLowerCase().includes(this.search.toLowerCase()) })
 	}
+    }
+}
 </script>

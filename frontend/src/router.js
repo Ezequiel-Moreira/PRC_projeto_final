@@ -35,7 +35,7 @@ export default new Router({
     },
     {
       path: '/molecules/:id',
-      name: 'molecules',
+      name: 'molecule',
       component: Molecule
     }
   ]

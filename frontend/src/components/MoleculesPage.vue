@@ -30,16 +30,6 @@
   
   const ontologyLink = "http://localhost:7200/repositories/Projeto-Final-elements-molecules"
 
-  var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" + 
-              "select ?s ?name ?dot_val  where {\n" +
-              "  ?s a :Molecule .\n" +
-              "  ?s :molecule_name ?name\n" +
-              "  ?s :molecule_dot-val ?dot_val;\n" +
-              "}"
-
-
-  var encoded = encodeURIComponent(query)
-
 	export default {
     data:() =>({
       headers:[
@@ -49,7 +39,7 @@
     }),
     mounted: async function() {
       try {
-        var response = await axios.get(ontologyLink + '?query=' + encoded)
+        var response = await axios.get('http://localhost:8000/api/molecules')
         this.molecules = response.data
       } catch (error) {
         alert(error)

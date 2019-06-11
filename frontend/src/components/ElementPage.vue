@@ -49,11 +49,11 @@
                 </v-list-tile>
                 <v-list-tile>
                   <v-list-tile-content>Group:</v-list-tile-content>
-                  <v-list-tile-content class="align-end">{{ props.item.group }}</v-list-tile-content>
+                  <v-list-tile-content class="align-end">{{ props.item.group.split("#g_")[1] }}</v-list-tile-content>
                 </v-list-tile>
                 <v-list-tile>
                   <v-list-tile-content>Period:</v-list-tile-content>
-                  <v-list-tile-content class="align-end">{{ props.item.period }}</v-list-tile-content>
+                  <v-list-tile-content class="align-end">{{ props.item.period.split("#p_")[1] }}</v-list-tile-content>
                 </v-list-tile>
                 <v-list-tile>
                   <v-list-tile-content>Atomic weight:</v-list-tile-content>
@@ -107,7 +107,7 @@
         <template v-slot:items="props">
           <tr @click="rowClicked(props.item)">
             <td class="subheading">
-              {{ props.item.mol.split("#")[1].replace('/___/g',props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
+              {{ props.item.mol.split("#mol_")[1].replace('/___/g',props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
             </td>
           </tr>
         </template>
@@ -125,39 +125,6 @@
 <script>
   import axios from 'axios'
   
-  const ontologyLink = "http://localhost:7200/repositories/Projeto-Final-elements-molecules"
-
-  var query1 = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
-              "select * where {\n" 
-
-  var query2 = ":elemental_symbol ?symbol;\n" +
-            "  :elemental_name ?name;\n" +
-            "  :elemental_atomic_number_Z ?atm_number\n" +
-            "  :isElementFromGroup ?group ;\n" +
-            "  :isElementFromPeriod ?period;\n" +
-            "  :elemental_abundunce_on_earth ?abundance;\n" +
-            "  :elemental_atomic_weight ?atm_weight;\n" +
-            "  :elemental_boiling_point ?boiling_point_K;\n" +
-            "  :elemental_density ?density;\n" +
-            "  :elemental_eletro-negativity ?electro_negativity;\n" +
-            "  :elemental_heat_capacity_C ?heat_capacity_C;\n" +
-            "  :elemental_melting_point ?melting_point;\n" +
-            "  :elemental_origin ?origin\n" +
-            "}"
-
-
-    var molQuery1 = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
-                    "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\n" +
-                    "PREFIX owl: <http://www.w3.org/2002/07/owl#>\n" +
-                    "select distinct ?mol where {\n" 
-
-    var molQuery2 = " :isElementinElementQuantity ?e_Q .\n" +
-                    "  ?e_Q :isElementQuantityOf ?sM_P.\n" +
-                    "  ?sM_P :isParentesesSubMoleculeOf ?sM_D.\n" +
-                    "  ?sM_D :isDotSubMoleculeOf ?mol\n" +
-                    "}"
-
-
 	export default {
     props: ["idElemento"],
     data:() =>({
@@ -169,33 +136,11 @@
     }),
     mounted: async function() {
       try {        
-        var completedElemQuery = query1 + this.idElemento + query2
-        var encoded = encodeURIComponent(completedElemQuery)
-        // var response = await axios.get(ontologyLink + '?query=' + encoded)
-        //  this.element = [response.data]
+        var response = await axios.get('http://localhost:8000/api/elements/' + this.idElemento)
+        this.element = response.data
 
-        var completedMoleculeQuery = molQuery1 + this.idElemento + molQuery2
-        var encoded2 = encodeURIComponent(completedMoleculeQuery)
-        // var response2 = await axios.get(ontologyLink + '?query=' + encoded2)
-        // this.molecules = response2.data
-
-        //
-        var testElem = {
-          'symbol': 'D',
-          'name' : 'diam',
-          'atm_number': 11111,
-          'group': -1,
-          'period':-1,
-          'abundance':1,
-          'atm_weight': 2,
-          'boiling_point_K':1000,
-          'density':23,
-          'electro_negativity':2,
-          'heat_capacity_C':3,
-          'melting_point':1200,
-          'origin':'somewhere in france, probably'
-        }
-        this.element = [testElem]
+        var response2 = await axios.get('http://localhost:8000/api/elements/' + this.idElemento + '/moleculeList')
+        this.molecules = response2.data
       } catch (error) {
         alert(error)
         return error
@@ -206,5 +151,5 @@
         this.$router.push('/molecules/' + item.mol.split('#')[1])
       }
     }
-	}
+}
 </script>

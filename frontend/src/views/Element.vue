@@ -1,7 +1,7 @@
 <template>
   <v-container>   
     <Toolbar />
-    <ElementPage />
+    <ElementPage :idElemento="$route.params.id"/>
   </v-container>
 </template>
 
