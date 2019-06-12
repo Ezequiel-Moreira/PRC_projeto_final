@@ -1,0 +1,44 @@
+[
+	[{
+			"Name": "Melting point[48]",
+			"Scandium": "1814 K, 1541 °C",
+			"Yttrium": "1799 K, 1526 °C",
+			"Lanthanum": "1193 K, 920 °C",
+			"Actinium": "1323 K, 1050 °C"
+		}, {
+			"Name": "Boiling point[49]",
+			"Scandium": "3109 K, 2836 °C",
+			"Yttrium": "3609 K, 3336 °C",
+			"Lanthanum": "3737 K, 3464 °C",
+			"Actinium": "3471 K, 3198 °C"
+		}, {
+			"Name": "Density",
+			"Scandium": "2.99 g·cm−3[52]",
+			"Yttrium": "4.47 g·cm−3[53]",
+			"Lanthanum": "6.162 g·cm−3",
+			"Actinium": "10 g·cm−3"
+		}, {
+			"Name": "Appearance",
+			"Scandium": "silver metallic",
+			"Yttrium": "silver white",
+			"Lanthanum": "gray",
+			"Actinium": "silvery"
+		}, {
+			"Name": "Atomic radius[47]",
+			"Scandium": "162 pm",
+			"Yttrium": "180 pm",
+			"Lanthanum": "187 pm",
+			"Actinium": "215 pm"
+		}
+	],
+	[{
+			"Z": "71",
+			"Element": "lutetium",
+			"Electron configuration": "2, 8, 18, 32, 9, 2"
+		}, {
+			"Z": "103",
+			"Element": "lawrencium",
+			"Electron configuration": "2, 8, 18, 32, 32, 8, 3"
+		}
+	]
+]

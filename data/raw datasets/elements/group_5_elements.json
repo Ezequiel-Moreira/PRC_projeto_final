@@ -1,0 +1,20 @@
+[
+	[{
+			"Z": "23",
+			"Element": "vanadium",
+			"No. of electrons/shell": "2, 8, 11, 2"
+		}, {
+			"Z": "41",
+			"Element": "niobium",
+			"No. of electrons/shell": "2, 8, 18, 12, 1"
+		}, {
+			"Z": "73",
+			"Element": "tantalum",
+			"No. of electrons/shell": "2, 8, 18, 32, 11, 2"
+		}, {
+			"Z": "105",
+			"Element": "dubnium",
+			"No. of electrons/shell": "2, 8, 18, 32, 32, 11, 2"
+		}
+	]
+]

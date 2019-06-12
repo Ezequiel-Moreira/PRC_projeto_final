@@ -1,0 +1,402 @@
+[{
+		"Chemical formula": "SCN−",
+		"Synonyms": "thiocyanate",
+		"CAS number": "302-04-5"
+	}, {
+		"Chemical formula": "SF4",
+		"Synonyms": "sulfur tetrafluoride",
+		"CAS number": "7783-60-0"
+	}, {
+		"Chemical formula": "SF6",
+		"Synonyms": "sulfur hexafluoride",
+		"CAS number": "2551-62-4"
+	}, {
+		"Chemical formula": "SOF2",
+		"Synonyms": "thionyl difluoride",
+		"CAS number": "7783-42-8"
+	}, {
+		"Chemical formula": "SO2",
+		"Synonyms": "sulfur dioxide",
+		"CAS number": "7446-09-5"
+	}, {
+		"Chemical formula": "SO2Cl2",
+		"Synonyms": "sulfuryl chloride",
+		"CAS number": "7791-25-5"
+	}, {
+		"Chemical formula": "SO2F2",
+		"Synonyms": "sulfuryl difluoride",
+		"CAS number": "2699-79-8"
+	}, {
+		"Chemical formula": "SO2OOH−",
+		"Synonyms": "peroxymonosulfurous acid (aqueous)",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SO3",
+		"Synonyms": "sulfur trioxide",
+		"CAS number": "7446-11-9"
+	}, {
+		"Chemical formula": "SO32−",
+		"Synonyms": "sulfite ion",
+		"CAS number": "14265-45-3"
+	}, {
+		"Chemical formula": "SO42−",
+		"Synonyms": "sulfate ion",
+		"CAS number": "14808-79-8"
+	}, {
+		"Chemical formula": "S2Br2",
+		"Synonyms": "sulfur(II) bromide",
+		"CAS number": "71677-14-0"
+	}, {
+		"Chemical formula": "S2O32−",
+		"Synonyms": "thiosulfate ion",
+		"CAS number": "14383-50-7"
+	}, {
+		"Chemical formula": "S2O72−",
+		"Synonyms": "disulfate ion",
+		"CAS number": "16057-15-1"
+	}, {
+		"Chemical formula": "SbBr3",
+		"Synonyms": "antimony(III) bromide",
+		"CAS number": "7789-61-9"
+	}, {
+		"Chemical formula": "SbCl3",
+		"Synonyms": "antimony(III) chloride",
+		"CAS number": "10025-91-9"
+	}, {
+		"Chemical formula": "SbCl5",
+		"Synonyms": "antimony(V) chloride",
+		"CAS number": "7647-18-9"
+	}, {
+		"Chemical formula": "SbI3",
+		"Synonyms": "antimony(III) iodide",
+		"CAS number": "7790-44-5"
+	}, {
+		"Chemical formula": "SbPO4",
+		"Synonyms": "antimony(III) phosphate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sb2OS2",
+		"Synonyms": "antimony oxysulfide  kermesite",
+		"CAS number": "12196-78-0"
+	}, {
+		"Chemical formula": "Sb2O3",
+		"Synonyms": "antimony(III) oxide",
+		"CAS number": "1309-64-4"
+	}, {
+		"Chemical formula": "Sb2O5",
+		"Synonyms": "antimony(V) oxide",
+		"CAS number": "1314-60-9"
+	}, {
+		"Chemical formula": "Sb2S3",
+		"Synonyms": "antimony(III) sulfide",
+		"CAS number": "1345-04-6"
+	}, {
+		"Chemical formula": "Sb2Se3",
+		"Synonyms": "antimony(III) selenide",
+		"CAS number": "1315-05-5"
+	}, {
+		"Chemical formula": "Sb2Se5",
+		"Synonyms": "antimony(V) selenide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sb2Te3",
+		"Synonyms": "antimony(III) telluride",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sc2O3",
+		"Synonyms": "scandium oxide  scandia",
+		"CAS number": "12060-08-1"
+	}, {
+		"Chemical formula": "SeBr4",
+		"Synonyms": "selenium(IV) bromide",
+		"CAS number": "7789-65-3"
+	}, {
+		"Chemical formula": "SeCl",
+		"Synonyms": "selenium(I) chloride",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SeCl4",
+		"Synonyms": "selenium(IV) chloride",
+		"CAS number": "10026-03-6"
+	}, {
+		"Chemical formula": "SeOCl2",
+		"Synonyms": "selenium(IV) oxychloride",
+		"CAS number": "7791-23-3"
+	}, {
+		"Chemical formula": "SeOF2",
+		"Synonyms": "selenyl difluoride",
+		"CAS number": "7783-43-9"
+	}, {
+		"Chemical formula": "SeO2",
+		"Synonyms": "selenium(IV) oxide",
+		"CAS number": "7446-08-4"
+	}, {
+		"Chemical formula": "SeO42−",
+		"Synonyms": "selenate ion",
+		"CAS number": "14124-68-6"
+	}, {
+		"Chemical formula": "SeTe",
+		"Synonyms": "selenium(IV) telluride",
+		"CAS number": "12067-42-4"
+	}, {
+		"Chemical formula": "SiBr4",
+		"Synonyms": "silicon(IV) bromide",
+		"CAS number": "7789-66-4"
+	}, {
+		"Chemical formula": "SiC",
+		"Synonyms": "silicon carbide",
+		"CAS number": "409-21-2"
+	}, {
+		"Chemical formula": "SiCl4",
+		"Synonyms": "silicon(IV) chloride",
+		"CAS number": "10026-04-7"
+	}, {
+		"Chemical formula": "SiH4",
+		"Synonyms": "silane",
+		"CAS number": "7803-62-5"
+	}, {
+		"Chemical formula": "SiI4",
+		"Synonyms": "silicon(IV) iodide",
+		"CAS number": "13465-84-4"
+	}, {
+		"Chemical formula": "SiO2",
+		"Synonyms": "silicon(IV) dioxide  silica  quartz",
+		"CAS number": "7631-86-9"
+	}, {
+		"Chemical formula": "SiO44−",
+		"Synonyms": "silicate ion",
+		"CAS number": "17181-37-2"
+	}, {
+		"Chemical formula": "Si2O76−",
+		"Synonyms": "disilicate ion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Si3N4",
+		"Synonyms": "silicon nitride",
+		"CAS number": "12033-89-5"
+	}, {
+		"Chemical formula": "SnBrCl3",
+		"Synonyms": "tin(IV) bromotrichloride",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnBr2",
+		"Synonyms": "tin(II) bromide",
+		"CAS number": "10031-24-0"
+	}, {
+		"Chemical formula": "SnBr2Cl2",
+		"Synonyms": "tin(IV) dibromodichloride",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnBr3Cl",
+		"Synonyms": "tin(IV) tribromochloride",
+		"CAS number": "14779-73-8"
+	}, {
+		"Chemical formula": "SnBr4",
+		"Synonyms": "tin(IV) bromide",
+		"CAS number": "7789-67-5"
+	}, {
+		"Chemical formula": "Sn(CH3COO)2",
+		"Synonyms": "tin(II) acetate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sn(CH3COO)4",
+		"Synonyms": "tin(IV) acetate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnCl2",
+		"Synonyms": "tin(II) chloride",
+		"CAS number": "7772-99-8"
+	}, {
+		"Chemical formula": "SnCl2I2",
+		"Synonyms": "tin(IV) dichlorodiiodide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnCl4",
+		"Synonyms": "tin(IV) chloride",
+		"CAS number": "7646-78-8"
+	}, {
+		"Chemical formula": "Sn(CrO4)2",
+		"Synonyms": "tin(IV) chromate",
+		"CAS number": "10101-75-4"
+	}, {
+		"Chemical formula": "SnI4",
+		"Synonyms": "tin(IV) iodide",
+		"CAS number": "7790-47-8"
+	}, {
+		"Chemical formula": "Sn(OH)2",
+		"Synonyms": "tin(II) hydroxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sn(OH)4",
+		"Synonyms": "tin(IV) hydroxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnO",
+		"Synonyms": "tin(II) oxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnO2",
+		"Synonyms": "tin(IV) oxide",
+		"CAS number": "18282-10-5"
+	}, {
+		"Chemical formula": "SnO32−",
+		"Synonyms": "stannate ion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnS",
+		"Synonyms": "tin(II) sulfide",
+		"CAS number": "1314-95-0"
+	}, {
+		"Chemical formula": "SnS2",
+		"Synonyms": "tin(IV) sulfide",
+		"CAS number": "1315-01-1"
+	}, {
+		"Chemical formula": "Sn(SO4)2·2H2O",
+		"Synonyms": "tin(IV) sulfate dihydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SnSe",
+		"Synonyms": "tin(II) selenide",
+		"CAS number": "1315-06-6"
+	}, {
+		"Chemical formula": "SnSe2",
+		"Synonyms": "tin(IV) selenide",
+		"CAS number": "20770-09-6"
+	}, {
+		"Chemical formula": "SnTe",
+		"Synonyms": "tin(II) telluride",
+		"CAS number": "12040-02-7"
+	}, {
+		"Chemical formula": "SnTe4",
+		"Synonyms": "tin(IV) telluride",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sn(VO3)2",
+		"Synonyms": "tin(II) metavanadate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sn3Sb4",
+		"Synonyms": "tin(IV) antimonide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SrBr2",
+		"Synonyms": "strontium bromide",
+		"CAS number": "10476-81-0"
+	}, {
+		"Chemical formula": "SrBr2·6H2O",
+		"Synonyms": "strontium bromide hexahydrate",
+		"CAS number": "7789-53-9"
+	}, {
+		"Chemical formula": "SrCO3",
+		"Synonyms": "strontium carbonate",
+		"CAS number": "1633-05-2"
+	}, {
+		"Chemical formula": "SrCl2",
+		"Synonyms": "strontium chloride",
+		"CAS number": "10476-85-4"
+	}, {
+		"Chemical formula": "Sr(ClO)2",
+		"Synonyms": "strontium hypochlorite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(ClO2)2",
+		"Synonyms": "strontium chlorite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(ClO3)2",
+		"Synonyms": "strontium chlorate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(ClO4)2",
+		"Synonyms": "strontium perchlorate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SrC2O4",
+		"Synonyms": "strontium oxalate",
+		"CAS number": "814-95-9"
+	}, {
+		"Chemical formula": "SrF2",
+		"Synonyms": "strontium fluoride",
+		"CAS number": "7783-48-4"
+	}, {
+		"Chemical formula": "SrHfO3",
+		"Synonyms": "strontium hafnate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(HS)2",
+		"Synonyms": "strontium hydrosulfide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SrI2",
+		"Synonyms": "strontium iodide",
+		"CAS number": "10476-86-5"
+	}, {
+		"Chemical formula": "SrI2·6H2O",
+		"Synonyms": "strontium iodide hexahydrate",
+		"CAS number": "7790-40-1"
+	}, {
+		"Chemical formula": "Sr(IO)2",
+		"Synonyms": "strontium hypoiodite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(IO2)2",
+		"Synonyms": "strontium iodite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(IO3)2",
+		"Synonyms": "strontium iodate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(IO4)2",
+		"Synonyms": "strontium periodate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr(MnO4)2",
+		"Synonyms": "strontium permanganate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SrMoO4",
+		"Synonyms": "strontium orthomolybdate",
+		"CAS number": "13470-04-7"
+	}, {
+		"Chemical formula": "Sr(NbO3)2",
+		"Synonyms": "strontium metaniobate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SrO",
+		"Synonyms": "strontium oxide",
+		"CAS number": "1314-11-0"
+	}, {
+		"Chemical formula": "Sr(OH)2",
+		"Synonyms": "strontium hydroxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Sr2RuO4",
+		"Synonyms": "strontium ruthenate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "SrS",
+		"Synonyms": "strontium sulfide",
+		"CAS number": "1314-96-1"
+	}, {
+		"Chemical formula": "SrSeO3",
+		"Synonyms": "strontium selenite",
+		"CAS number": "14590-38-6"
+	}, {
+		"Chemical formula": "SrSeO4",
+		"Synonyms": "strontium selenate",
+		"CAS number": "7446-21-1"
+	}, {
+		"Chemical formula": "SrTeO3",
+		"Synonyms": "strontium tellurite",
+		"CAS number": "15851-40-8"
+	}, {
+		"Chemical formula": "SrTeO4",
+		"Synonyms": "strontium tellurate",
+		"CAS number": "15852-10-5"
+	}, {
+		"Chemical formula": "SrTiO3",
+		"Synonyms": "strontium metatitanate",
+		"CAS number": ""
+	}
+]

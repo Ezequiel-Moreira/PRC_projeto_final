@@ -1,0 +1,462 @@
+[{
+		"Chemical formula": "HArF",
+		"Synonyms": "argon fluorohydride",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HAt",
+		"Synonyms": "hydrogen astatide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HBr",
+		"Synonyms": "hydrogen bromide  hydrobromic acid",
+		"CAS number": "10035-10-6"
+	}, {
+		"Chemical formula": "HBrO",
+		"Synonyms": "hypobromous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HBrO2",
+		"Synonyms": "bromous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HBrO3",
+		"Synonyms": "bromic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HBrO4",
+		"Synonyms": "perbromic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HCCH",
+		"Synonyms": "acetylene  ethyne",
+		"CAS number": "74-86-2"
+	}, {
+		"Chemical formula": "HCN",
+		"Synonyms": "hydrocyanic acid  hydrogen cyanide",
+		"CAS number": "6914-07-4"
+	}, {
+		"Chemical formula": "HCNO",
+		"Synonyms": "fulminic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HCONH2",
+		"Synonyms": "formamide  methanamide",
+		"CAS number": "75-12-7"
+	}, {
+		"Chemical formula": "HCOO−",
+		"Synonyms": "formate ion",
+		"CAS number": "71-47-6"
+	}, {
+		"Chemical formula": "HCOOH",
+		"Synonyms": "formic acid  methanoic acid",
+		"CAS number": "64-18-6"
+	}, {
+		"Chemical formula": "HCOONH4",
+		"Synonyms": "ammonium formate",
+		"CAS number": "540-69-2"
+	}, {
+		"Chemical formula": "HCO3−",
+		"Synonyms": "hydrogen carbonate ion",
+		"CAS number": "71-52-3"
+	}, {
+		"Chemical formula": "HC3H5O3",
+		"Synonyms": "lactic acid",
+		"CAS number": "50-21-5"
+	}, {
+		"Chemical formula": "HC5H5N+",
+		"Synonyms": "pyridinium ion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HC6H7O6",
+		"Synonyms": "ascorbic acid",
+		"CAS number": "50-81-7"
+	}, {
+		"Chemical formula": "HC9H7O4",
+		"Synonyms": "acetylsalicylic acid",
+		"CAS number": "50-78-2"
+	}, {
+		"Chemical formula": "HC12H17ON4SCl2",
+		"Synonyms": "thiamine hydrochloride  vitamin B1 hydrochloride",
+		"CAS number": "67-03-8"
+	}, {
+		"Chemical formula": "HCl",
+		"Synonyms": "hydrochloric acid  hydrogen chloride",
+		"CAS number": "7647-01-0"
+	}, {
+		"Chemical formula": "HClO",
+		"Synonyms": "hypochlorous acid",
+		"CAS number": "7790-92-3"
+	}, {
+		"Chemical formula": "HClO2",
+		"Synonyms": "chlorous acid",
+		"CAS number": "13898-47-0"
+	}, {
+		"Chemical formula": "HClO3",
+		"Synonyms": "chloric acid",
+		"CAS number": "7790-93-4"
+	}, {
+		"Chemical formula": "HClO4",
+		"Synonyms": "perchloric acid",
+		"CAS number": "7601-90-3"
+	}, {
+		"Chemical formula": "HDO",
+		"Synonyms": "semiheavy water  water-d1",
+		"CAS number": "14940-63-7"
+	}, {
+		"Chemical formula": "HF",
+		"Synonyms": "hydrofluoric acid",
+		"CAS number": "7664-39-3"
+	}, {
+		"Chemical formula": "HI",
+		"Synonyms": "hydroiodic acid",
+		"CAS number": "10034-85-2"
+	}, {
+		"Chemical formula": "HIO",
+		"Synonyms": "hypoiodous acid",
+		"CAS number": "14332-21-9"
+	}, {
+		"Chemical formula": "HIO2",
+		"Synonyms": "iodous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HIO3",
+		"Synonyms": "iodic acid",
+		"CAS number": "7782-68-5"
+	}, {
+		"Chemical formula": "HIO4",
+		"Synonyms": "periodic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HNCO",
+		"Synonyms": "isocyanic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HNO",
+		"Synonyms": "nitroxyl",
+		"CAS number": "14332-28-6"
+	}, {
+		"Chemical formula": "HNO2",
+		"Synonyms": "nitrous acid",
+		"CAS number": "7782-77-6"
+	}, {
+		"Chemical formula": "HNO3",
+		"Synonyms": "nitric acid  hydrogen nitrate",
+		"CAS number": "7697-37-2"
+	}, {
+		"Chemical formula": "HN3",
+		"Synonyms": "hydrazoic acid",
+		"CAS number": "7782-79-8"
+	}, {
+		"Chemical formula": "HOBr",
+		"Synonyms": "hypobromous acid",
+		"CAS number": "13517-11-8"
+	}, {
+		"Chemical formula": "HOCl",
+		"Synonyms": "hypochlorous acid",
+		"CAS number": "7790-92-3"
+	}, {
+		"Chemical formula": "HOF",
+		"Synonyms": "hypofluorous acid",
+		"CAS number": "14034-79-8"
+	}, {
+		"Chemical formula": "HOOCCOOH",
+		"Synonyms": "oxalic acid",
+		"CAS number": "144-62-7"
+	}, {
+		"Chemical formula": "HPO42−",
+		"Synonyms": "hydrogen phosphate ion",
+		"CAS number": "14066-19-4"
+	}, {
+		"Chemical formula": "HSO3−",
+		"Synonyms": "hydrogen sulfite ion",
+		"CAS number": "15181-46-1"
+	}, {
+		"Chemical formula": "HSO4−",
+		"Synonyms": "hydrogen sulfate",
+		"CAS number": "12143-45-2"
+	}, {
+		"Chemical formula": "HTO",
+		"Synonyms": "partially tritiated water  water-t",
+		"CAS number": "13670-17-2"
+	}, {
+		"Chemical formula": "H2",
+		"Synonyms": "hydrogen",
+		"CAS number": "1333-74-0"
+	}, {
+		"Chemical formula": "H2C(CH)CN",
+		"Synonyms": "acrylonitrile",
+		"CAS number": "107-13-1"
+	}, {
+		"Chemical formula": "H2CO",
+		"Synonyms": "formaldehyde",
+		"CAS number": "19710-56-6"
+	}, {
+		"Chemical formula": "H2CO3",
+		"Synonyms": "carbonic acid",
+		"CAS number": "107-32-4"
+	}, {
+		"Chemical formula": "H2CSO",
+		"Synonyms": "sulfine",
+		"CAS number": "40100-16-1"
+	}, {
+		"Chemical formula": "H2C2O4",
+		"Synonyms": "oxalic acid",
+		"CAS number": "144-62-7"
+	}, {
+		"Chemical formula": "H2C4H4O6",
+		"Synonyms": "tartaric acid",
+		"CAS number": "87-69-4"
+	}, {
+		"Chemical formula": "H2C8H4O4",
+		"Synonyms": "phthalic acid  H2Ph",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H2CrO4",
+		"Synonyms": "chromic acid",
+		"CAS number": "7738-94-5"
+	}, {
+		"Chemical formula": "H2NCH2COOH",
+		"Synonyms": "glycine",
+		"CAS number": "56-40-6"
+	}, {
+		"Chemical formula": "H2N2O2",
+		"Synonyms": "hyponitrous acid",
+		"CAS number": "14448-38-5"
+	}, {
+		"Chemical formula": "H2NNH2",
+		"Synonyms": "hydrazine",
+		"CAS number": "302-01-2"
+	}, {
+		"Chemical formula": "H2O",
+		"Synonyms": "water",
+		"CAS number": "7732-18-5"
+	}, {
+		"Chemical formula": "H2O2",
+		"Synonyms": "hydrogen peroxide",
+		"CAS number": "7722-84-1"
+	}, {
+		"Chemical formula": "H2PO4−",
+		"Synonyms": "dihydrogen phosphate ion",
+		"CAS number": "14066-20-7"
+	}, {
+		"Chemical formula": "H2S",
+		"Synonyms": "hydrogen sulfide  hydrosulfuric acid",
+		"CAS number": "7783-06-4"
+	}, {
+		"Chemical formula": "H2SO3",
+		"Synonyms": "sulfurous acid",
+		"CAS number": "7782-99-2"
+	}, {
+		"Chemical formula": "H2SO4",
+		"Synonyms": "sulfuric acid  hydrogen sulfate",
+		"CAS number": "7664-93-9"
+	}, {
+		"Chemical formula": "H2S2O2",
+		"Synonyms": "thiosulfurous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H2S2O3",
+		"Synonyms": "thiosulfuric acid",
+		"CAS number": "13686-28-7"
+	}, {
+		"Chemical formula": "H2S2O4",
+		"Synonyms": "dithionous acid",
+		"CAS number": "15959-26-9"
+	}, {
+		"Chemical formula": "H2S2O5",
+		"Synonyms": "disulfurous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H2S2O6",
+		"Synonyms": "dithionic acid",
+		"CAS number": "14970-71-9"
+	}, {
+		"Chemical formula": "H2S2O7",
+		"Synonyms": "disulfuric acid",
+		"CAS number": "8014-95-7"
+	}, {
+		"Chemical formula": "H2S2O8",
+		"Synonyms": "peroxydisulfuric acid",
+		"CAS number": "13445-49-3"
+	}, {
+		"Chemical formula": "H2SeO3",
+		"Synonyms": "selenous acid",
+		"CAS number": "7783-00-8"
+	}, {
+		"Chemical formula": "H2SeO4",
+		"Synonyms": "selenic acid",
+		"CAS number": "7783-08-6"
+	}, {
+		"Chemical formula": "H2SiO3",
+		"Synonyms": "silicic acid",
+		"CAS number": "7699-41-4"
+	}, {
+		"Chemical formula": "H2TeO3",
+		"Synonyms": "tellurous acid",
+		"CAS number": "10049-23-7"
+	}, {
+		"Chemical formula": "H2TiO3",
+		"Synonyms": "titanic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H3AsO4",
+		"Synonyms": "arsenic acid",
+		"CAS number": "7778-39-4"
+	}, {
+		"Chemical formula": "H3CCH2CH3",
+		"Synonyms": "propane",
+		"CAS number": "74-98-6"
+	}, {
+		"Chemical formula": "H3N+CH2COO−",
+		"Synonyms": "zwitterion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H3O+",
+		"Synonyms": "hydronium ion",
+		"CAS number": "13968-08-6"
+	}, {
+		"Chemical formula": "H3PO2",
+		"Synonyms": "hypophosphorous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H3PO3",
+		"Synonyms": "phosphorous acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H3PO4",
+		"Synonyms": "phosphoric acid",
+		"CAS number": "7664-38-2"
+	}, {
+		"Chemical formula": "H4XeO6",
+		"Synonyms": "perxenic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "H6TeO6",
+		"Synonyms": "telluric acid",
+		"CAS number": "7803-68-1"
+	}, {
+		"Chemical formula": "HfBr4",
+		"Synonyms": "hafnium(IV) bromide",
+		"CAS number": "13777-22-5"
+	}, {
+		"Chemical formula": "HfF4",
+		"Synonyms": "hafnium(IV) fluoride",
+		"CAS number": "13709-52-9"
+	}, {
+		"Chemical formula": "HfOCl2 · 8H2O",
+		"Synonyms": "hafnium(IV) oxychloride octahydrate",
+		"CAS number": "14456-34-9"
+	}, {
+		"Chemical formula": "HfOH(C2H3O2)3",
+		"Synonyms": "hafnium(IV) acetate, basic",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Hf(SO4)2",
+		"Synonyms": "hafnium(IV) sulfate",
+		"CAS number": "15823-43-5"
+	}, {
+		"Chemical formula": "Hg(BrO3)2 · 2H2O",
+		"Synonyms": "mercury(II) bromate dihydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Hg2Br2",
+		"Synonyms": "mercury(I) bromide",
+		"CAS number": "10031-18-2"
+	}, {
+		"Chemical formula": "HgBr2",
+		"Synonyms": "mercury(II) bromide",
+		"CAS number": "7789-47-1"
+	}, {
+		"Chemical formula": "Hg(C2H3O2)2",
+		"Synonyms": "mercury(II) acetate",
+		"CAS number": "1600-27-7"
+	}, {
+		"Chemical formula": "Hg(C7H5O2)2 · H2O",
+		"Synonyms": "mercury(II) benzoate monohydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HgClO4 · 4H2O",
+		"Synonyms": "mercury(I) perchlorate tetrahydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Hg(ClO4)2 · 3H2O",
+		"Synonyms": "mercury(II) perchlorate trihydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HgCl2",
+		"Synonyms": "mercury(II) chloride",
+		"CAS number": "7487-94-7"
+	}, {
+		"Chemical formula": "Hg(IO3)2",
+		"Synonyms": "mercury(II) iodate",
+		"CAS number": "7783-32-6"
+	}, {
+		"Chemical formula": "HgI2",
+		"Synonyms": "mercury(II) iodide",
+		"CAS number": "7774-29-0"
+	}, {
+		"Chemical formula": "Hg(NO3)2 · H2O",
+		"Synonyms": "mercury(II) nitrate monohydrate",
+		"CAS number": "7783-34-8"
+	}, {
+		"Chemical formula": "Hg(CNO)2",
+		"Synonyms": "mercury(II) fulminate",
+		"CAS number": "628-86-4"
+	}, {
+		"Chemical formula": "HgO",
+		"Synonyms": "mercury(II) oxide",
+		"CAS number": "21908-53-2"
+	}, {
+		"Chemical formula": "Hg(OH)2",
+		"Synonyms": "mercury(II) hydroxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HgS",
+		"Synonyms": "mercury(II) sulfide  cinnabar",
+		"CAS number": "1344-48-5"
+	}, {
+		"Chemical formula": "Hg(SCN)2",
+		"Synonyms": "mercury(II) thiocyanate",
+		"CAS number": "592-85-8"
+	}, {
+		"Chemical formula": "HgSe",
+		"Synonyms": "mercury(II) selenide",
+		"CAS number": "20601-83-6"
+	}, {
+		"Chemical formula": "HgSeO3",
+		"Synonyms": "mercury(II) selenite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HgTe",
+		"Synonyms": "mercury(II) telluride",
+		"CAS number": "12068-90-5"
+	}, {
+		"Chemical formula": "HgTeO3",
+		"Synonyms": "mercury(II) tellurite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "HgWO4",
+		"Synonyms": "mercury(II) tungstate",
+		"CAS number": "37913-38-5"
+	}, {
+		"Chemical formula": "Hg2Br2",
+		"Synonyms": "mercury(I) bromide",
+		"CAS number": "15385-58-7"
+	}, {
+		"Chemical formula": "Hg2Cl2",
+		"Synonyms": "mercury(I) chloride",
+		"CAS number": "10112-91-1"
+	}, {
+		"Chemical formula": "Hg2I2",
+		"Synonyms": "mercury(I) iodide",
+		"CAS number": "15385-57-6"
+	}, {
+		"Chemical formula": "Hg3(AsO4)2",
+		"Synonyms": "mercury(II) orthoarsenate",
+		"CAS number": "7784-37-4"
+	}, {
+		"Chemical formula": "Hg3(PO4)2",
+		"Synonyms": "mercury(II) phosphate",
+		"CAS number": "7782-66-3"
+	}
+]

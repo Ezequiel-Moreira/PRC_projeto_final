@@ -1,0 +1,38 @@
+[
+	[{
+			"Z": "24",
+			"Element": "chromium",
+			"No. of electrons/shell": "2, 8, 13, 1"
+		}, {
+			"Z": "42",
+			"Element": "molybdenum",
+			"No. of electrons/shell": "2, 8, 18, 13, 1"
+		}, {
+			"Z": "74",
+			"Element": "tungsten",
+			"No. of electrons/shell": "2, 8, 18, 32, 12, 2"
+		}, {
+			"Z": "106",
+			"Element": "seaborgium",
+			"No. of electrons/shell": "2, 8, 18, 32, 32, 12, 2"
+		}
+	],
+	[{
+			"Z": "24",
+			"Element": "chromium",
+			"Numerical Bohr model": "2, 8, 13, 1"
+		}, {
+			"Z": "42",
+			"Element": "molybdenum",
+			"Numerical Bohr model": "2, 8, 18, 13, 1"
+		}, {
+			"Z": "74",
+			"Element": "tungsten",
+			"Numerical Bohr model": "2, 8, 18, 32, 12, 2"
+		}, {
+			"Z": "106",
+			"Element": "seaborgium",
+			"Numerical Bohr model": "2, 8, 18, 32, 32, 12, 2"
+		}
+	]
+]

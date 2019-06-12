@@ -1,0 +1,18 @@
+[{
+		"Z": "28",
+		"Element": "nickel",
+		"No. of electrons per shell": "2, 8, 16, 2"
+	}, {
+		"Z": "46",
+		"Element": "palladium",
+		"No. of electrons per shell": "2, 8, 18, 18"
+	}, {
+		"Z": "78",
+		"Element": "platinum",
+		"No. of electrons per shell": "2, 8, 18, 32, 17, 1"
+	}, {
+		"Z": "110",
+		"Element": "darmstadtium",
+		"No. of electrons per shell": "2, 8, 18, 32, 32, 16, 2 (predicted)"
+	}
+]

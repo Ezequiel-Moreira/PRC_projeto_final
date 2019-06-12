@@ -1,0 +1,128 @@
+[{
+		"NewIUPACnames": "Group 1",
+		"OldIUPAC(Europe)": "IA",
+		"CAS(U.S.)": "IA",
+		"Name by element": "lithium family",
+		"Trivial name(*=IUPAC recommended name)": "alkali metals*",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 2",
+		"OldIUPAC(Europe)": "IIA",
+		"CAS(U.S.)": "IIA",
+		"Name by element": "beryllium family",
+		"Trivial name(*=IUPAC recommended name)": "alkaline earth metals*",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 3",
+		"OldIUPAC(Europe)": "IIIA",
+		"CAS(U.S.)": "IIIB",
+		"Name by element": "scandium family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 4",
+		"OldIUPAC(Europe)": "IVA",
+		"CAS(U.S.)": "IVB",
+		"Name by element": "titanium family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 5",
+		"OldIUPAC(Europe)": "VA",
+		"CAS(U.S.)": "VB",
+		"Name by element": "vanadium family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 6",
+		"OldIUPAC(Europe)": "VIA",
+		"CAS(U.S.)": "VIB",
+		"Name by element": "chromium family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 7",
+		"OldIUPAC(Europe)": "VIIA",
+		"CAS(U.S.)": "VIIB",
+		"Name by element": "manganese family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 8",
+		"OldIUPAC(Europe)": "VIII",
+		"CAS(U.S.)": "VIIIB",
+		"Name by element": "iron family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 9",
+		"OldIUPAC(Europe)": "VIII",
+		"CAS(U.S.)": "VIIIB",
+		"Name by element": "cobalt family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 10",
+		"OldIUPAC(Europe)": "VIII",
+		"CAS(U.S.)": "VIIIB",
+		"Name by element": "nickel family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 11",
+		"OldIUPAC(Europe)": "IB",
+		"CAS(U.S.)": "IB",
+		"Name by element": "copper family",
+		"Trivial name(*=IUPAC recommended name)": "coinage metals",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 12",
+		"OldIUPAC(Europe)": "IIB",
+		"CAS(U.S.)": "IIB",
+		"Name by element": "zinc family",
+		"Trivial name(*=IUPAC recommended name)": "",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 13",
+		"OldIUPAC(Europe)": "IIIB",
+		"CAS(U.S.)": "IIIA",
+		"Name by element": "boron family",
+		"Trivial name(*=IUPAC recommended name)": "triels",
+		"note": "triels from Greek tri (three, III)"
+	}, {
+		"NewIUPACnames": "Group 14",
+		"OldIUPAC(Europe)": "IVB",
+		"CAS(U.S.)": "IVA",
+		"Name by element": "carbon family",
+		"Trivial name(*=IUPAC recommended name)": "tetrels",
+		"note": "tetrels from Greek tetra (four, IV)"
+	}, {
+		"NewIUPACnames": "Group 15",
+		"OldIUPAC(Europe)": "VB",
+		"CAS(U.S.)": "VA",
+		"Name by element": "nitrogen family",
+		"Trivial name(*=IUPAC recommended name)": "pentels, pnictogens*",
+		"note": "pentels from Greek penta (five, V)"
+	}, {
+		"NewIUPACnames": "Group 16",
+		"OldIUPAC(Europe)": "VIB",
+		"CAS(U.S.)": "VIA",
+		"Name by element": "oxygen family",
+		"Trivial name(*=IUPAC recommended name)": "chalcogens*",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 17",
+		"OldIUPAC(Europe)": "VIIB",
+		"CAS(U.S.)": "VIIA",
+		"Name by element": "fluorine family",
+		"Trivial name(*=IUPAC recommended name)": "halogens*",
+		"note": ""
+	}, {
+		"NewIUPACnames": "Group 18",
+		"OldIUPAC(Europe)": "0",
+		"CAS(U.S.)": "VIIIA",
+		"Name by element": "helium family or neon family",
+		"Trivial name(*=IUPAC recommended name)": "noble gases*",
+		"note": ""
+	}
+]

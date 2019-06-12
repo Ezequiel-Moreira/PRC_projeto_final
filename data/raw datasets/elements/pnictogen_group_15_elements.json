@@ -1,0 +1,22 @@
+[{
+		"Z": "7",
+		"Element": "nitrogen",
+		"Electrons per shell": "2, 5"
+	}, {
+		"Z": "15",
+		"Element": "phosphorus",
+		"Electrons per shell": "2, 8, 5"
+	}, {
+		"Z": "33",
+		"Element": "arsenic",
+		"Electrons per shell": "2, 8, 18, 5"
+	}, {
+		"Z": "51",
+		"Element": "antimony",
+		"Electrons per shell": "2, 8, 18, 18, 5"
+	}, {
+		"Z": "83",
+		"Element": "bismuth",
+		"Electrons per shell": "2, 8, 18, 32, 18, 5"
+	}
+]

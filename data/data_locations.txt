@@ -3,4 +3,9 @@ elements: https://en.wikipedia.org/wiki/List_of_chemical_elements
 molecules:https://en.wikipedia.org/wiki/Glossary_of_chemical_formulas
 
 
-Note: this project assumes the ontology is in a graphdb local repository named Projeto-Final-elements-molecules
+Note 1: json files where parsed using https://www.freeformatter.com/json-to-xml-converter.html 
+or http://convertjson.com/json-to-xml.htm, depending on file size
+
+
+
+Note 2: this project assumes the ontology is in a graphdb local repository named Projeto-Final-elements-molecules

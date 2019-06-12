@@ -1,0 +1,52 @@
+[
+	[{
+			"Name": "Melting point",
+			"Titanium": "1941 K (1668 °C)",
+			"Zirconium": "2130 K (1857 °C)",
+			"Hafnium": "2506 K (2233 °C)",
+			"Rutherfordium": "2400 K (2100 °C)?"
+		}, {
+			"Name": "Boiling point",
+			"Titanium": "3560 K (3287 °C)",
+			"Zirconium": "4682 K (4409 °C)",
+			"Hafnium": "4876 K (4603 °C)",
+			"Rutherfordium": "5800 K (5500 °C)?"
+		}, {
+			"Name": "Density",
+			"Titanium": "4.507 g·cm−3",
+			"Zirconium": "6.511 g·cm−3",
+			"Hafnium": "13.31 g·cm−3",
+			"Rutherfordium": "23.2 g·cm−3?"
+		}, {
+			"Name": "Appearance",
+			"Titanium": "silver metallic",
+			"Zirconium": "silver white",
+			"Hafnium": "silver gray",
+			"Rutherfordium": "?"
+		}, {
+			"Name": "Atomic radius",
+			"Titanium": "140 pm",
+			"Zirconium": "155 pm",
+			"Hafnium": "155 pm",
+			"Rutherfordium": "150 pm?"
+		}
+	],
+	[{
+			"Z": "22",
+			"Element": "titanium",
+			"No. of electrons/shell": "2, 8, 10, 2"
+		}, {
+			"Z": "40",
+			"Element": "zirconium",
+			"No. of electrons/shell": "2, 8, 18, 10, 2"
+		}, {
+			"Z": "72",
+			"Element": "hafnium",
+			"No. of electrons/shell": "2, 8, 18, 32, 10, 2"
+		}, {
+			"Z": "104",
+			"Element": "rutherfordium",
+			"No. of electrons/shell": "2, 8, 18, 32, 32, 10, 2"
+		}
+	]
+]

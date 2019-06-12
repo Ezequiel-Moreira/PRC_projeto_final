@@ -1,0 +1,34 @@
+[{
+		"Z": "26",
+		"Element": "iron",
+		"No. of electronsper shell": "2, 8, 14, 2",
+		"M.P.": "1811 K1538 °C",
+		"B.P.": "3134 K2862 °C",
+		"Year ofDiscovery": "<3000 BCE",
+		"Discoverer": "Unknown"
+	}, {
+		"Z": "44",
+		"Element": "ruthenium",
+		"No. of electronsper shell": "2, 8, 18, 15, 1",
+		"M.P.": "2607 K2334 °C",
+		"B.P.": "4423 K4150 °C",
+		"Year ofDiscovery": "1844",
+		"Discoverer": "K. E. Claus"
+	}, {
+		"Z": "76",
+		"Element": "osmium",
+		"No. of electronsper shell": "2, 8, 18, 32, 14, 2",
+		"M.P.": "3306 K3033 °C",
+		"B.P.": "5285 K5012 °C",
+		"Year ofDiscovery": "1803",
+		"Discoverer": "S. Tennant andW. H. Wollaston"
+	}, {
+		"Z": "108",
+		"Element": "hassium",
+		"No. of electronsper shell": "2, 8, 18, 32, 32, 14, 2",
+		"M.P.": "—",
+		"B.P.": "—",
+		"Year ofDiscovery": "1984",
+		"Discoverer": "P. Armbruster andG. Münzenberg"
+	}
+]

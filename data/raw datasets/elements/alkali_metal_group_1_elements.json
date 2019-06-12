@@ -1,0 +1,148 @@
+[
+	[{
+			"Name": "Atomic number",
+			"Lithium": "3",
+			"Sodium": "11",
+			"Potassium": "19",
+			"Rubidium": "37",
+			"Caesium": "55",
+			"Francium": "87"
+		}, {
+			"Name": "Standard atomic weight (u)[note 6][58][59]",
+			"Lithium": "6.94(1)[note 7]",
+			"Sodium": "22.98976928(2)",
+			"Potassium": "39.0983(1)",
+			"Rubidium": "85.4678(3)",
+			"Caesium": "132.9054519(2)",
+			"Francium": "[223][note 8]"
+		}, {
+			"Name": "Electron configuration",
+			"Lithium": "[He] 2s1",
+			"Sodium": "[Ne] 3s1",
+			"Potassium": "[Ar] 4s1",
+			"Rubidium": "[Kr] 5s1",
+			"Caesium": "[Xe] 6s1",
+			"Francium": "[Rn] 7s1"
+		}, {
+			"Name": "Melting point (°C)",
+			"Lithium": "180.54",
+			"Sodium": "97.72",
+			"Potassium": "63.38",
+			"Rubidium": "39.31",
+			"Caesium": "28.44",
+			"Francium": "?"
+		}, {
+			"Name": "Boiling point (°C)",
+			"Lithium": "1342",
+			"Sodium": "883",
+			"Potassium": "759",
+			"Rubidium": "688",
+			"Caesium": "671",
+			"Francium": "?"
+		}, {
+			"Name": "Density (g·cm−3)",
+			"Lithium": "0.534",
+			"Sodium": "0.968",
+			"Potassium": "0.89",
+			"Rubidium": "1.532",
+			"Caesium": "1.93",
+			"Francium": "?"
+		}, {
+			"Name": "Heat of fusion (kJ·mol−1)",
+			"Lithium": "3.00",
+			"Sodium": "2.60",
+			"Potassium": "2.321",
+			"Rubidium": "2.19",
+			"Caesium": "2.09",
+			"Francium": "?"
+		}, {
+			"Name": "Heat of vaporisation (kJ·mol−1)",
+			"Lithium": "136",
+			"Sodium": "97.42",
+			"Potassium": "79.1",
+			"Rubidium": "69",
+			"Caesium": "66.1",
+			"Francium": "?"
+		}, {
+			"Name": "Heat of formation of monatomic gas (kJ·mol−1)",
+			"Lithium": "162",
+			"Sodium": "108",
+			"Potassium": "89.6",
+			"Rubidium": "82.0",
+			"Caesium": "78.2",
+			"Francium": "?"
+		}, {
+			"Name": "Electrical resistivity at 25 °C (nΩ·cm)",
+			"Lithium": "94.7",
+			"Sodium": "48.8",
+			"Potassium": "73.9",
+			"Rubidium": "131",
+			"Caesium": "208",
+			"Francium": "?"
+		}, {
+			"Name": "Atomic radius (pm)",
+			"Lithium": "152",
+			"Sodium": "186",
+			"Potassium": "227",
+			"Rubidium": "248",
+			"Caesium": "265",
+			"Francium": "?"
+		}, {
+			"Name": "Ionic radius of hexacoordinate M+ ion (pm)",
+			"Lithium": "76",
+			"Sodium": "102",
+			"Potassium": "138",
+			"Rubidium": "152",
+			"Caesium": "167",
+			"Francium": "?"
+		}, {
+			"Name": "First ionisation energy (kJ·mol−1)",
+			"Lithium": "520.2",
+			"Sodium": "495.8",
+			"Potassium": "418.8",
+			"Rubidium": "403.0",
+			"Caesium": "375.7",
+			"Francium": "392.8[68]"
+		}, {
+			"Name": "Electron affinity (kJ·mol−1)",
+			"Lithium": "59.62",
+			"Sodium": "52.87",
+			"Potassium": "48.38",
+			"Rubidium": "46.89",
+			"Caesium": "45.51",
+			"Francium": "?"
+		}, {
+			"Name": "Enthalpy of dissociation of M2 (kJ·mol−1)",
+			"Lithium": "106.5",
+			"Sodium": "73.6",
+			"Potassium": "57.3",
+			"Rubidium": "45.6",
+			"Caesium": "44.77",
+			"Francium": "?"
+		}, {
+			"Name": "Pauling electronegativity",
+			"Lithium": "0.98",
+			"Sodium": "0.93",
+			"Potassium": "0.82",
+			"Rubidium": "0.82",
+			"Caesium": "0.79",
+			"Francium": "?[note 9]"
+		}, {
+			"Name": "Standard electrode potential (E°(M+→M0); V)[71]",
+			"Lithium": "−3.04",
+			"Sodium": "−2.71",
+			"Potassium": "−2.93",
+			"Rubidium": "−2.98",
+			"Caesium": "−3.03",
+			"Francium": "?"
+		}, {
+			"Name": "Flame test colourPrincipal emission/absorption wavelength (nm)",
+			"Lithium": "Crimson670.8",
+			"Sodium": "Yellow589.2",
+			"Potassium": "Violet766.5",
+			"Rubidium": "Red-violet780.0",
+			"Caesium": "Blue455.5",
+			"Francium": "?"
+		}
+	]
+]

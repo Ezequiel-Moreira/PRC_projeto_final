@@ -1,0 +1,670 @@
+[{
+		"Chemical formula": "Ac2O3",
+		"Synonyms": "Actinium(III) oxide",
+		"CAS number": "12002-61-8"
+	}, {
+		"Chemical formula": "AgBF4",
+		"Synonyms": "Silver tetrafluoroborate",
+		"CAS number": "14104-20-2"
+	}, {
+		"Chemical formula": "AgBr",
+		"Synonyms": "silver bromide",
+		"CAS number": "7785-23-1"
+	}, {
+		"Chemical formula": "AgBrO",
+		"Synonyms": "silver hypobromite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "AgBrO2",
+		"Synonyms": "silver bromite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "AgBrO3",
+		"Synonyms": "silver bromate",
+		"CAS number": "7783-89-3"
+	}, {
+		"Chemical formula": "AgBrO4",
+		"Synonyms": "silver perbromate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "AgCl",
+		"Synonyms": "silver chloride",
+		"CAS number": "7783-90-6"
+	}, {
+		"Chemical formula": "AgCl3Cu2",
+		"Synonyms": "dicopper silver trichloride",
+		"CAS number": "69569-03-5"
+	}, {
+		"Chemical formula": "AgClO3",
+		"Synonyms": "silver chlorate",
+		"CAS number": "7783-92-8"
+	}, {
+		"Chemical formula": "AgClO4",
+		"Synonyms": "silver perchlorate",
+		"CAS number": "7783-93-9"
+	}, {
+		"Chemical formula": "AgCN",
+		"Synonyms": "silver cyanide",
+		"CAS number": "506-64-9"
+	}, {
+		"Chemical formula": "AgCNO",
+		"Synonyms": "silver fulminate",
+		"CAS number": "5610-59-3"
+	}, {
+		"Chemical formula": "AgF",
+		"Synonyms": "silver fluoride",
+		"CAS number": "7775-41-9"
+	}, {
+		"Chemical formula": "AgF2",
+		"Synonyms": "silver(II) fluoride",
+		"CAS number": "7783-95-1"
+	}, {
+		"Chemical formula": "AgI",
+		"Synonyms": "silver iodide",
+		"CAS number": "7783-96-2"
+	}, {
+		"Chemical formula": "AgIO",
+		"Synonyms": "silver hypoiodite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "AgIO2",
+		"Synonyms": "silver iodite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "AgIO3",
+		"Synonyms": "silver iodate",
+		"CAS number": "7783-97-3"
+	}, {
+		"Chemical formula": "AgIO4",
+		"Synonyms": "silver periodate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "AgMnO4",
+		"Synonyms": "silver permanganate",
+		"CAS number": "7783-98-4"
+	}, {
+		"Chemical formula": "AgN3",
+		"Synonyms": "silver azide",
+		"CAS number": "13863-88-2"
+	}, {
+		"Chemical formula": "AgNO3",
+		"Synonyms": "silver nitrate",
+		"CAS number": "7761-88-8"
+	}, {
+		"Chemical formula": "Ag2O",
+		"Synonyms": "silver oxide",
+		"CAS number": "1301-96-8"
+	}, {
+		"Chemical formula": "AgO",
+		"Synonyms": "silver monoxide",
+		"CAS number": "1301-96-8"
+	}, {
+		"Chemical formula": "AgONC",
+		"Synonyms": "silver cyanate",
+		"CAS number": "3315-16-0"
+	}, {
+		"Chemical formula": "AgPF6",
+		"Synonyms": "silver hexafluorophosphate",
+		"CAS number": "26042-63-7"
+	}, {
+		"Chemical formula": "AgSNC",
+		"Synonyms": "silver thiocyanate",
+		"CAS number": "1701-93-5"
+	}, {
+		"Chemical formula": "Ag2C2",
+		"Synonyms": "silver acetylide",
+		"CAS number": "7659-31-6"
+	}, {
+		"Chemical formula": "Ag2CO3",
+		"Synonyms": "silver(I) carbonate",
+		"CAS number": "534-16-7"
+	}, {
+		"Chemical formula": "Ag2C2O4",
+		"Synonyms": "silver oxalate",
+		"CAS number": "533-51-7"
+	}, {
+		"Chemical formula": "Ag2Cl2",
+		"Synonyms": "silver(II) dichloride",
+		"CAS number": "75763-82-5"
+	}, {
+		"Chemical formula": "Ag2CrO4",
+		"Synonyms": "silver chromate",
+		"CAS number": "7784-01-2"
+	}, {
+		"Chemical formula": "Ag2Cr2O7",
+		"Synonyms": "silver dichromate",
+		"CAS number": "7784-02-3"
+	}, {
+		"Chemical formula": "Ag2F",
+		"Synonyms": "silver subfluoride",
+		"CAS number": "1302-01-8"
+	}, {
+		"Chemical formula": "Ag2MoO4",
+		"Synonyms": "silver molybdate",
+		"CAS number": "13765-74-7"
+	}, {
+		"Chemical formula": "Ag2O",
+		"Synonyms": "silver(I) oxide",
+		"CAS number": "20667-12-3"
+	}, {
+		"Chemical formula": "Ag2S",
+		"Synonyms": "silver sulfide",
+		"CAS number": "21548-73-2"
+	}, {
+		"Chemical formula": "Ag2SO4",
+		"Synonyms": "silver sulfate",
+		"CAS number": "10294-26-5"
+	}, {
+		"Chemical formula": "Ag2Se",
+		"Synonyms": "silver selenide",
+		"CAS number": "1302-09-6"
+	}, {
+		"Chemical formula": "Ag2SeO3",
+		"Synonyms": "silver selenite",
+		"CAS number": "7784-05-6"
+	}, {
+		"Chemical formula": "Ag2SeO4",
+		"Synonyms": "silver selenate",
+		"CAS number": "7784-07-8"
+	}, {
+		"Chemical formula": "Ag2Te",
+		"Synonyms": "silver(I) telluride",
+		"CAS number": "12002-99-2"
+	}, {
+		"Chemical formula": "Ag3Br2",
+		"Synonyms": "silver dibromide",
+		"CAS number": "11078-32-3"
+	}, {
+		"Chemical formula": "Ag3Br3",
+		"Synonyms": "silver tribromide",
+		"CAS number": "11078-33-4"
+	}, {
+		"Chemical formula": "Ag3Cl3",
+		"Synonyms": "silver(III) trichloride",
+		"CAS number": "12444-96-1"
+	}, {
+		"Chemical formula": "Ag3I3",
+		"Synonyms": "silver(III) triiodide",
+		"CAS number": "37375-12-5"
+	}, {
+		"Chemical formula": "Ag3PO4",
+		"Synonyms": "silver phosphate",
+		"CAS number": "7784-09-0"
+	}, {
+		"Chemical formula": "AlBO",
+		"Synonyms": "aluminium boron oxide",
+		"CAS number": "12041-48-4"
+	}, {
+		"Chemical formula": "AlBO2",
+		"Synonyms": "aluminium borate",
+		"CAS number": "61279-70-7"
+	}, {
+		"Chemical formula": "AlBr",
+		"Synonyms": "aluminium monobromide",
+		"CAS number": "22359-97-3"
+	}, {
+		"Chemical formula": "AlBr3",
+		"Synonyms": "aluminium tribromide",
+		"CAS number": "7727-15-3"
+	}, {
+		"Chemical formula": "AlCl",
+		"Synonyms": "aluminium monochloride",
+		"CAS number": "13595-81-8"
+	}, {
+		"Chemical formula": "AlClF",
+		"Synonyms": "aluminium chloride fluoride",
+		"CAS number": "22395-91-1"
+	}, {
+		"Chemical formula": "AlClF",
+		"Synonyms": "aluminium chloride fluoride",
+		"CAS number": "22395-91-1"
+	}, {
+		"Chemical formula": "AlClF2",
+		"Synonyms": "aluminium chloride fluoride",
+		"CAS number": "13814-65-8"
+	}, {
+		"Chemical formula": "AlClO",
+		"Synonyms": "aluminium chloride oxide",
+		"CAS number": "13596-11-7"
+	}, {
+		"Chemical formula": "AlCl2H",
+		"Synonyms": "Dichloroalumane",
+		"CAS number": "16603-84-2"
+	}, {
+		"Chemical formula": "AlCl3",
+		"Synonyms": "aluminium chloride",
+		"CAS number": "16603-84-2"
+	}, {
+		"Chemical formula": "AlCl2F",
+		"Synonyms": "aluminium chloride fluoride",
+		"CAS number": "13497-96-6"
+	}, {
+		"Chemical formula": "AlCl3",
+		"Synonyms": "aluminium trichloride",
+		"CAS number": "7446-70-0"
+	}, {
+		"Chemical formula": "AlCl4Cs",
+		"Synonyms": "aluminium caesium tetrachloride",
+		"CAS number": "17992-03-9"
+	}, {
+		"Chemical formula": "AlCl4K",
+		"Synonyms": "potassium tetrachloroaluminate",
+		"CAS number": "13821-13-1"
+	}, {
+		"Chemical formula": "AlCl4Na",
+		"Synonyms": "sodium tetrachloroaluminate",
+		"CAS number": "7784-16-9"
+	}, {
+		"Chemical formula": "AlCl4Rb",
+		"Synonyms": "aluminium rubidium tetrachloride",
+		"CAS number": "17992-02-8"
+	}, {
+		"Chemical formula": "AlCl6K3",
+		"Synonyms": "potassium hexachloroaluminate",
+		"CAS number": "13782-08-6"
+	}, {
+		"Chemical formula": "AlCl6Na3",
+		"Synonyms": "sodium hexachloroaluminate",
+		"CAS number": "60172-46-5"
+	}, {
+		"Chemical formula": "AlF",
+		"Synonyms": "aluminium monofluoride",
+		"CAS number": "13595-82-9"
+	}, {
+		"Chemical formula": "AlFO",
+		"Synonyms": "aluminium monofluoride monoxide",
+		"CAS number": "13596-12-8"
+	}, {
+		"Chemical formula": "AlF2",
+		"Synonyms": "aluminium difluoride",
+		"CAS number": "13569-23-8"
+	}, {
+		"Chemical formula": "AlF2O",
+		"Synonyms": "aluminium difluoride oxide",
+		"CAS number": "38344-66-0"
+	}, {
+		"Chemical formula": "AlF3",
+		"Synonyms": "aluminium trifluoride",
+		"CAS number": "7784-18-1"
+	}, {
+		"Chemical formula": "AlF4K",
+		"Synonyms": "potassium tetrafluoroaluminate",
+		"CAS number": "14484-69-6"
+	}, {
+		"Chemical formula": "AlF4Li",
+		"Synonyms": "lithium tetrafluoroaluminate",
+		"CAS number": "15138-76-8"
+	}, {
+		"Chemical formula": "AlF6K3",
+		"Synonyms": "potassium hexafluoraluminate",
+		"CAS number": "13775-52-5"
+	}, {
+		"Chemical formula": "AlF6Li3",
+		"Synonyms": "lithium hexafluoroaluminate",
+		"CAS number": "13821-20-0"
+	}, {
+		"Chemical formula": "AlF6Na3",
+		"Synonyms": "cryolite",
+		"CAS number": "15096-52-3"
+	}, {
+		"Chemical formula": "AlGaInP",
+		"Synonyms": "aluminium-gallium-indium phosphide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Al(OH)3",
+		"Synonyms": "aluminium hydroxide",
+		"CAS number": "21645-51-2"
+	}, {
+		"Chemical formula": "AlI",
+		"Synonyms": "aluminium monoiodide",
+		"CAS number": "29977-41-1"
+	}, {
+		"Chemical formula": "AlI3",
+		"Synonyms": "aluminium triiodide",
+		"CAS number": "7784-23-8"
+	}, {
+		"Chemical formula": "AlLiO2",
+		"Synonyms": "lithium aluminate",
+		"CAS number": "12003-67-7"
+	}, {
+		"Chemical formula": "AlN",
+		"Synonyms": "aluminium nitride",
+		"CAS number": "24304-00-5"
+	}, {
+		"Chemical formula": "Al(NO2)3",
+		"Synonyms": "aluminium nitrite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Al(NO3)3",
+		"Synonyms": "aluminium nitrate",
+		"CAS number": "13473-90-0"
+	}, {
+		"Chemical formula": "AlNaO2",
+		"Synonyms": "sodium aluminate",
+		"CAS number": "1302-42-7"
+	}, {
+		"Chemical formula": "AlO",
+		"Synonyms": "aluminium monoxide",
+		"CAS number": "14457-64-8"
+	}, {
+		"Chemical formula": "AlOSi",
+		"Synonyms": "aluminium silicon monoxide",
+		"CAS number": "37361-47-0"
+	}, {
+		"Chemical formula": "AlO2",
+		"Synonyms": "Aluminium(IV) oxide",
+		"CAS number": "11092-32-3"
+	}, {
+		"Chemical formula": "AlP",
+		"Synonyms": "aluminium monophosphide",
+		"CAS number": "20859-73-8"
+	}, {
+		"Chemical formula": "AlPO4",
+		"Synonyms": "aluminium phosphate",
+		"CAS number": "7784-30-7"
+	}, {
+		"Chemical formula": "AlTe",
+		"Synonyms": "aluminium monotelluride",
+		"CAS number": "23330-86-1"
+	}, {
+		"Chemical formula": "AlTe2",
+		"Synonyms": "monoaluminium ditelluride",
+		"CAS number": "39297-18-2"
+	}, {
+		"Chemical formula": "Al2BeO4",
+		"Synonyms": "beryllium aluminium oxide",
+		"CAS number": "12004-06-7"
+	}, {
+		"Chemical formula": "Al2Br6",
+		"Synonyms": "dialuminium hexabromide",
+		"CAS number": "18898-34-5"
+	}, {
+		"Chemical formula": "Al2(CO3)3",
+		"Synonyms": "aluminium carbonate",
+		"CAS number": "14455-29-9"
+	}, {
+		"Chemical formula": "Al2Cl9K3",
+		"Synonyms": "potassium aluminium chloride",
+		"CAS number": "74978-20-4"
+	}, {
+		"Chemical formula": "Al2CoO4",
+		"Synonyms": "cobalt blue",
+		"CAS number": "1333-88-6"
+	}, {
+		"Chemical formula": "Al2F6",
+		"Synonyms": "aluminium fluoride",
+		"CAS number": "17949-86-9"
+	}, {
+		"Chemical formula": "Al2I6",
+		"Synonyms": "aluminium iodide",
+		"CAS number": "18898-35-6"
+	}, {
+		"Chemical formula": "Al2MgO4",
+		"Synonyms": "magnesium aluminium oxide",
+		"CAS number": "12068-51-8"
+	}, {
+		"Chemical formula": "Al2O",
+		"Synonyms": "dialuminium monoxide",
+		"CAS number": "12004-36-3"
+	}, {
+		"Chemical formula": "Al2O2",
+		"Synonyms": "dialuminium dioxide",
+		"CAS number": "12252-63-0"
+	}, {
+		"Chemical formula": "Al2O3",
+		"Synonyms": "aluminium oxide",
+		"CAS number": "1344-28-1"
+	}, {
+		"Chemical formula": "Al2O5Si",
+		"Synonyms": "aluminium silicate",
+		"CAS number": "1302-76-7"
+	}, {
+		"Chemical formula": "Al2O5Si",
+		"Synonyms": "aluminium silicate",
+		"CAS number": "12141-46-7"
+	}, {
+		"Chemical formula": "Al2O5Si",
+		"Synonyms": "andalusite",
+		"CAS number": "12183-80-1"
+	}, {
+		"Chemical formula": "Al2O7Si2",
+		"Synonyms": "aluminium silicate",
+		"CAS number": "1332-58-7"
+	}, {
+		"Chemical formula": "Al2S",
+		"Synonyms": "dialuminium monosulfide",
+		"CAS number": "12004-45-4"
+	}, {
+		"Chemical formula": "Al2S3",
+		"Synonyms": "aluminium sulfide",
+		"CAS number": "1302-81-4"
+	}, {
+		"Chemical formula": "Al2(SO4)3",
+		"Synonyms": "aluminium sulphate",
+		"CAS number": "14455-29-9"
+	}, {
+		"Chemical formula": "Al2Se",
+		"Synonyms": "dialuminium selenide",
+		"CAS number": "12598-14-0"
+	}, {
+		"Chemical formula": "Al2Si2O5(OH)4",
+		"Synonyms": "kaolin",
+		"CAS number": "1332-58-7"
+	}, {
+		"Chemical formula": "Al2Te",
+		"Synonyms": "dialuminium telluride",
+		"CAS number": "12598-16-2"
+	}, {
+		"Chemical formula": "Al3F14Na5",
+		"Synonyms": "chiolite",
+		"CAS number": "1302-84-7"
+	}, {
+		"Chemical formula": "Al4C3",
+		"Synonyms": "aluminium carbide",
+		"CAS number": "1299-86-1"
+	}, {
+		"Chemical formula": "Al6BeO10",
+		"Synonyms": "beryllium aluminium oxide",
+		"CAS number": "12253-74-6"
+	}, {
+		"Chemical formula": "Al6O13Si2",
+		"Synonyms": "mullite",
+		"CAS number": "1302-93-8"
+	}, {
+		"Chemical formula": "ArClF",
+		"Synonyms": "argon chloride fluoride",
+		"CAS number": "53169-15-6"
+	}, {
+		"Chemical formula": "ArClH",
+		"Synonyms": "argon chloride hydride",
+		"CAS number": "163731-17-7"
+	}, {
+		"Chemical formula": "ArFH",
+		"Synonyms": "argon fluoride hydride",
+		"CAS number": "163731-16-6"
+	}, {
+		"Chemical formula": "AsBrO",
+		"Synonyms": "arsenic oxybromide",
+		"CAS number": "82868-10-8"
+	}, {
+		"Chemical formula": "AsBr3",
+		"Synonyms": "arsenic tribromide",
+		"CAS number": "7784-33-0"
+	}, {
+		"Chemical formula": "AsClO",
+		"Synonyms": "arsenic monoxide monochloride",
+		"CAS number": "14525-25-8"
+	}, {
+		"Chemical formula": "AsCl3",
+		"Synonyms": "arsenic trichloride",
+		"CAS number": "7784-34-1"
+	}, {
+		"Chemical formula": "AsCl3O",
+		"Synonyms": "arsenic oxychloride",
+		"CAS number": "60646-36-8"
+	}, {
+		"Chemical formula": "AsCl4F",
+		"Synonyms": "arsenic tetrachloride fluoride",
+		"CAS number": "87198-15-0"
+	}, {
+		"Chemical formula": "AsF3",
+		"Synonyms": "arsenic trifluoride",
+		"CAS number": "7784-35-2"
+	}, {
+		"Chemical formula": "AsF5",
+		"Synonyms": "arsenic pentafluoride",
+		"CAS number": "7784-36-3"
+	}, {
+		"Chemical formula": "AsH3",
+		"Synonyms": "arsine",
+		"CAS number": "7784-42-1"
+	}, {
+		"Chemical formula": "AsI3",
+		"Synonyms": "arsenic triiodide",
+		"CAS number": "7784-45-4"
+	}, {
+		"Chemical formula": "AsO",
+		"Synonyms": "arsenic monoxide",
+		"CAS number": "12005-99-1"
+	}, {
+		"Chemical formula": "AsO2",
+		"Synonyms": "arsenic dioxide",
+		"CAS number": "12255-12-8"
+	}, {
+		"Chemical formula": "AsP",
+		"Synonyms": "arsenic monophosphide",
+		"CAS number": "12255-33-3"
+	}, {
+		"Chemical formula": "AsP3",
+		"Synonyms": "arsenic triphosphide",
+		"CAS number": "12511-95-4"
+	}, {
+		"Chemical formula": "AsTl",
+		"Synonyms": "thallium arsenide",
+		"CAS number": "12006-09-6"
+	}, {
+		"Chemical formula": "As2I4",
+		"Synonyms": "arsenic diiodide",
+		"CAS number": "13770-56-4"
+	}, {
+		"Chemical formula": "As2O3",
+		"Synonyms": "arsenic trioxide",
+		"CAS number": "1327-53-3"
+	}, {
+		"Chemical formula": "As2P2",
+		"Synonyms": "arsenic diphosphide",
+		"CAS number": "12512-03-7"
+	}, {
+		"Chemical formula": "As2O5",
+		"Synonyms": "arsenic pentoxide",
+		"CAS number": "1303-28-2"
+	}, {
+		"Chemical formula": "As2S4",
+		"Synonyms": "arsenic tetrasulfide",
+		"CAS number": "1303-32-8"
+	}, {
+		"Chemical formula": "As2S5",
+		"Synonyms": "arsenic pentasulfide",
+		"CAS number": "1303-34-0"
+	}, {
+		"Chemical formula": "As2Se",
+		"Synonyms": "arsenic hemiselenide",
+		"CAS number": "1303-35-1"
+	}, {
+		"Chemical formula": "As2Se3",
+		"Synonyms": "arsenic triselenide",
+		"CAS number": "1303-36-2"
+	}, {
+		"Chemical formula": "As2Se5",
+		"Synonyms": "arsenic pentaselenide",
+		"CAS number": "1303-37-3"
+	}, {
+		"Chemical formula": "As3O4",
+		"Synonyms": "arsenic tetraoxide",
+		"CAS number": "83527-53-1"
+	}, {
+		"Chemical formula": "As3P",
+		"Synonyms": "arsenic(III) phosphide",
+		"CAS number": "12512-11-7"
+	}, {
+		"Chemical formula": "As4O3",
+		"Synonyms": "tetraarsenic trioxide",
+		"CAS number": "83527-54-2"
+	}, {
+		"Chemical formula": "As4O5",
+		"Synonyms": "tetraarsenic pentaoxide",
+		"CAS number": "83527-55-3"
+	}, {
+		"Chemical formula": "As4S3",
+		"Synonyms": "tetraarsenic trisulfide",
+		"CAS number": "12512-13-9"
+	}, {
+		"Chemical formula": "As4S4",
+		"Synonyms": "tetraarsenic tetrasulfide",
+		"CAS number": "12279-90-2"
+	}, {
+		"Chemical formula": "AuBO",
+		"Synonyms": "gold monoboride monoxide",
+		"CAS number": "12588-90-8"
+	}, {
+		"Chemical formula": "AuBr",
+		"Synonyms": "gold bromide",
+		"CAS number": "10294-27-6"
+	}, {
+		"Chemical formula": "AuBr3",
+		"Synonyms": "gold tribromide",
+		"CAS number": "10294-28-7"
+	}, {
+		"Chemical formula": "AuCN",
+		"Synonyms": "gold cyanide",
+		"CAS number": "506-65-0"
+	}, {
+		"Chemical formula": "AuCl",
+		"Synonyms": "gold chloride",
+		"CAS number": "10294-29-8"
+	}, {
+		"Chemical formula": "AuCl3",
+		"Synonyms": "gold trichloride",
+		"CAS number": "13453-07-1"
+	}, {
+		"Chemical formula": "AuF3",
+		"Synonyms": "gold trifluoride",
+		"CAS number": "14720-21-9"
+	}, {
+		"Chemical formula": "AuI",
+		"Synonyms": "gold iodide",
+		"CAS number": "10294-31-2"
+	}, {
+		"Chemical formula": "AuI3",
+		"Synonyms": "gold(III) iodide",
+		"CAS number": "31032-13-0"
+	}, {
+		"Chemical formula": "Au(OH)3",
+		"Synonyms": "gold hydroxide",
+		"CAS number": "1303-52-2"
+	}, {
+		"Chemical formula": "AuTe",
+		"Synonyms": "gold telluride",
+		"CAS number": "37043-71-3"
+	}, {
+		"Chemical formula": "Au2O3",
+		"Synonyms": "gold trioxide",
+		"CAS number": "1303-58-8"
+	}, {
+		"Chemical formula": "Au2S",
+		"Synonyms": "gold sulfide",
+		"CAS number": "1303-60-2"
+	}, {
+		"Chemical formula": "Au2S3",
+		"Synonyms": "gold trisulfide",
+		"CAS number": "1303-61-3"
+	}, {
+		"Chemical formula": "Au2(SeO4)3",
+		"Synonyms": "gold triselenate",
+		"CAS number": "10294-32-3"
+	}, {
+		"Chemical formula": "Au2Se3",
+		"Synonyms": "gold triselenide",
+		"CAS number": "1303-62-4"
+	}
+]

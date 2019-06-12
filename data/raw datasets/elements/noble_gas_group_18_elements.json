@@ -1,0 +1,74 @@
+[{
+		"Property[10][23]": "Density (g/dm3)",
+		"Helium": "0.1786",
+		"Neon": "0.9002",
+		"Argon": "1.7818",
+		"Krypton": "3.708",
+		"Xenon": "5.851",
+		"Radon": "9.97"
+	}, {
+		"Property[10][23]": "Boiling point (K)",
+		"Helium": "4.4",
+		"Neon": "27.3",
+		"Argon": "87.4",
+		"Krypton": "121.5",
+		"Xenon": "166.6",
+		"Radon": "211.5"
+	}, {
+		"Property[10][23]": "Melting point (K)",
+		"Helium": "0.95(at 25 bar)",
+		"Neon": "24.7",
+		"Argon": "83.6",
+		"Krypton": "115.8",
+		"Xenon": "161.7",
+		"Radon": "202.2"
+	}, {
+		"Property[10][23]": "Enthalpy of vaporization (kJ/mol)",
+		"Helium": "0.08",
+		"Neon": "1.74",
+		"Argon": "6.52",
+		"Krypton": "9.05",
+		"Xenon": "12.65",
+		"Radon": "18.1"
+	}, {
+		"Property[10][23]": "Solubility in water at 20 °C (cm3/kg)",
+		"Helium": "8.61",
+		"Neon": "10.5",
+		"Argon": "33.6",
+		"Krypton": "59.4",
+		"Xenon": "108.1",
+		"Radon": "230"
+	}, {
+		"Property[10][23]": "Atomic number",
+		"Helium": "2",
+		"Neon": "10",
+		"Argon": "18",
+		"Krypton": "36",
+		"Xenon": "54",
+		"Radon": "86"
+	}, {
+		"Property[10][23]": "Atomic radius (calculated) (pm)",
+		"Helium": "31",
+		"Neon": "38",
+		"Argon": "71",
+		"Krypton": "88",
+		"Xenon": "108",
+		"Radon": "120"
+	}, {
+		"Property[10][23]": "Ionization energy (kJ/mol)",
+		"Helium": "2372",
+		"Neon": "2080",
+		"Argon": "1520",
+		"Krypton": "1351",
+		"Xenon": "1170",
+		"Radon": "1037"
+	}, {
+		"Property[10][23]": "Allen electronegativity[24]",
+		"Helium": "4.16",
+		"Neon": "4.79",
+		"Argon": "3.24",
+		"Krypton": "2.97",
+		"Xenon": "2.58",
+		"Radon": "2.60"
+	}
+]

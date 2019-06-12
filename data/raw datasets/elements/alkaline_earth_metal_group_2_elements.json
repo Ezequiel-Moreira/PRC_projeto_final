@@ -1,0 +1,114 @@
+[
+	[{
+			"12": "",
+			"Alkaline earth metal": "Beryllium",
+			"Standard atomic weight(u)[n 3][17][18]": "9.012182(3)",
+			"Melting point(K)": "1560",
+			"Melting point(°C)": "1287",
+			"Boiling point(K)[4]": "2742",
+			"Boiling point(°C)[4]": "2469",
+			"Density(g/cm3)": "1.85",
+			"Electronegativity(Pauling)": "1.57",
+			"First ionization energy(kJ·mol−1)": "899.5",
+			"Covalent radius(pm)[19]": "105",
+			"Flame test color": "White[20]"
+		}, {
+			"12": "",
+			"Alkaline earth metal": "Magnesium",
+			"Standard atomic weight(u)[n 3][17][18]": "24.3050(6)",
+			"Melting point(K)": "923",
+			"Melting point(°C)": "650",
+			"Boiling point(K)[4]": "1363",
+			"Boiling point(°C)[4]": "1090",
+			"Density(g/cm3)": "1.738",
+			"Electronegativity(Pauling)": "1.31",
+			"First ionization energy(kJ·mol−1)": "737.7",
+			"Covalent radius(pm)[19]": "150",
+			"Flame test color": "Brilliant-white[2]"
+		}, {
+			"12": "",
+			"Alkaline earth metal": "Calcium",
+			"Standard atomic weight(u)[n 3][17][18]": "40.078(4)",
+			"Melting point(K)": "1115",
+			"Melting point(°C)": "842",
+			"Boiling point(K)[4]": "1757",
+			"Boiling point(°C)[4]": "1484",
+			"Density(g/cm3)": "1.54",
+			"Electronegativity(Pauling)": "1.00",
+			"First ionization energy(kJ·mol−1)": "589.8",
+			"Covalent radius(pm)[19]": "180",
+			"Flame test color": "Brick-red[2]"
+		}, {
+			"12": "",
+			"Alkaline earth metal": "Strontium",
+			"Standard atomic weight(u)[n 3][17][18]": "87.62(1)",
+			"Melting point(K)": "1050",
+			"Melting point(°C)": "777",
+			"Boiling point(K)[4]": "1655",
+			"Boiling point(°C)[4]": "1382",
+			"Density(g/cm3)": "2.64",
+			"Electronegativity(Pauling)": "0.95",
+			"First ionization energy(kJ·mol−1)": "549.5",
+			"Covalent radius(pm)[19]": "200",
+			"Flame test color": "Crimson[2]"
+		}, {
+			"12": "",
+			"Alkaline earth metal": "Barium",
+			"Standard atomic weight(u)[n 3][17][18]": "137.327(7)",
+			"Melting point(K)": "1000",
+			"Melting point(°C)": "727",
+			"Boiling point(K)[4]": "2170",
+			"Boiling point(°C)[4]": "1897",
+			"Density(g/cm3)": "3.594",
+			"Electronegativity(Pauling)": "0.89",
+			"First ionization energy(kJ·mol−1)": "502.9",
+			"Covalent radius(pm)[19]": "215",
+			"Flame test color": "Apple-green[2]"
+		}, {
+			"12": "",
+			"Alkaline earth metal": "Radium",
+			"Standard atomic weight(u)[n 3][17][18]": "[226][n 4]",
+			"Melting point(K)": "973",
+			"Melting point(°C)": "700",
+			"Boiling point(K)[4]": "2010",
+			"Boiling point(°C)[4]": "1737",
+			"Density(g/cm3)": "5.5",
+			"Electronegativity(Pauling)": "0.9",
+			"First ionization energy(kJ·mol−1)": "509.3",
+			"Covalent radius(pm)[19]": "221",
+			"Flame test color": "Crimson red[n 5]"
+		}
+	],
+	[{
+			"Z": "4",
+			"Element": "beryllium",
+			"No. of electrons/shell": "2, 2",
+			"Electron configuration[n 1]": "[He] 2s2"
+		}, {
+			"Z": "12",
+			"Element": "magnesium",
+			"No. of electrons/shell": "2, 8, 2",
+			"Electron configuration[n 1]": "[Ne] 3s2"
+		}, {
+			"Z": "20",
+			"Element": "calcium",
+			"No. of electrons/shell": "2, 8, 8, 2",
+			"Electron configuration[n 1]": "[Ar] 4s2"
+		}, {
+			"Z": "38",
+			"Element": "strontium",
+			"No. of electrons/shell": "2, 8, 18, 8, 2",
+			"Electron configuration[n 1]": "[Kr] 5s2"
+		}, {
+			"Z": "56",
+			"Element": "barium",
+			"No. of electrons/shell": "2, 8, 18, 18, 8, 2",
+			"Electron configuration[n 1]": "[Xe] 6s2"
+		}, {
+			"Z": "88",
+			"Element": "radium",
+			"No. of electrons/shell": "2, 8, 18, 32, 18, 8, 2",
+			"Electron configuration[n 1]": "[Rn] 7s2"
+		}
+	]
+]

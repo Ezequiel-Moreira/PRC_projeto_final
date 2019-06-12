@@ -1,0 +1,666 @@
+[{
+	"Chemical formula": "NCl3",
+	"Synonyms": "nitrogen trichloride",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NHCl2",
+	"Synonyms": "dichloramine",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NH2Cl",
+	"Synonyms": "chloramine",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NH2−",
+	"Synonyms": "amide ion",
+	"CAS number": "17655-31-1"
+}, {
+	"Chemical formula": "NH2CH2CH2NH2",
+	"Synonyms": "ethylenediamine",
+	"CAS number": "107-15-3"
+}, {
+	"Chemical formula": "NH2CH2CN",
+	"Synonyms": "aminoacetonitrile",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NH2COOH",
+	"Synonyms": "carbamic acid",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NH2CONH2",
+	"Synonyms": "urea",
+	"CAS number": "57-13-6"
+}, {
+	"Chemical formula": "NH2C6H4SO3H",
+	"Synonyms": "sulfanilic Acid",
+	"CAS number": "121-57-3"
+}, {
+	"Chemical formula": "NH2OH",
+	"Synonyms": "hydroxylamine",
+	"CAS number": "7803-49-8"
+}, {
+	"Chemical formula": "(NH2)2CO",
+	"Synonyms": "urea",
+	"CAS number": "57-13-6"
+}, {
+	"Chemical formula": "NH3",
+	"Synonyms": "ammonia",
+	"CAS number": "7664-41-7"
+}, {
+	"Chemical formula": "NH4+",
+	"Synonyms": "ammonium ion",
+	"CAS number": "14798-03-9"
+}, {
+	"Chemical formula": "(NH4)3N",
+	"Synonyms": "ammonium nitride",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NH4Br",
+	"Synonyms": "ammonium bromide",
+	"CAS number": "12124-97-9"
+}, {
+	"Chemical formula": "NH4CO2NH2",
+	"Synonyms": "ammonium carbamate",
+	"CAS number": "1111-78-0"
+}, {
+	"Chemical formula": "(NH4)2CO3",
+	"Synonyms": "ammonium carbonate",
+	"CAS number": "506-87-6"
+}, {
+	"Chemical formula": "NH4Cl",
+	"Synonyms": "ammonium chloride",
+	"CAS number": "12125-02-9"
+}, {
+	"Chemical formula": "NH4ClO4",
+	"Synonyms": "Ammonium perchlorate",
+	"CAS number": "7790-98-9"
+}, {
+	"Chemical formula": "NH4HS",
+	"Synonyms": "ammonium hydrosulfide",
+	"CAS number": "12124-99-1"
+}, {
+	"Chemical formula": "(NH4)H2AsO4",
+	"Synonyms": "ammonium dihydrogen arsenate",
+	"CAS number": "13462-93-6"
+}, {
+	"Chemical formula": "NH4NO3",
+	"Synonyms": "ammonium nitrate",
+	"CAS number": "6484-52-2"
+}, {
+	"Chemical formula": "NH4OCONH2",
+	"Synonyms": "ammonium carbamate",
+	"CAS number": "1111-78-0"
+}, {
+	"Chemical formula": "NH4OH",
+	"Synonyms": "ammonium hydroxide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "(NH4)2Ce(NO3)6",
+	"Synonyms": "ammonium cerium(IV) nitrate  ceric ammonium nitrate  CAN",
+	"CAS number": "16774-21-3"
+}, {
+	"Chemical formula": "(NH4)3PO4",
+	"Synonyms": "ammonium phosphate",
+	"CAS number": "7783-28-0"
+}, {
+	"Chemical formula": "(NH4)2CrO4",
+	"Synonyms": "ammonium chromate",
+	"CAS number": "7788-98-9"
+}, {
+	"Chemical formula": "(NH4)2Hg(SCN)4",
+	"Synonyms": "mercury(II) ammonium thiocyanate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "(NH4)2PtCl6",
+	"Synonyms": "ammonium hexachloroplatinate(IV)",
+	"CAS number": "16919-58-7"
+}, {
+	"Chemical formula": "(NH4)2Pt(SCN)6",
+	"Synonyms": "ammonium hexathiocyanoplatinate(IV)",
+	"CAS number": "19372-45-3"
+}, {
+	"Chemical formula": "(NH4)2SO4",
+	"Synonyms": "ammonium sulfate",
+	"CAS number": "7783-20-2"
+}, {
+	"Chemical formula": "NI3",
+	"Synonyms": "nitrogen triiodide",
+	"CAS number": "13444-85-4"
+}, {
+	"Chemical formula": "NO",
+	"Synonyms": "nitric oxide  nitrogen oxide  nitrogen(II) oxide",
+	"CAS number": "10102-43-9"
+}, {
+	"Chemical formula": "NOCl",
+	"Synonyms": "nitrosyl chloride",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NOBr",
+	"Synonyms": "nitrosyl bromide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NOI",
+	"Synonyms": "nitrosyl iodide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NO2",
+	"Synonyms": "nitrogen dioxide  nitrogen(IV) oxide",
+	"CAS number": "10102-44-0"
+}, {
+	"Chemical formula": "NO2−",
+	"Synonyms": "nitrite ion",
+	"CAS number": "14797-65-0"
+}, {
+	"Chemical formula": "NO2Cl",
+	"Synonyms": "nitryl chloride",
+	"CAS number": "13444-90-1"
+}, {
+	"Chemical formula": "NO3−",
+	"Synonyms": "nitrate ion",
+	"CAS number": "14797-55-8"
+}, {
+	"Chemical formula": "N2",
+	"Synonyms": "nitrogen",
+	"CAS number": "7727-37-9"
+}, {
+	"Chemical formula": "N2H2",
+	"Synonyms": "diazene",
+	"CAS number": "3618-05-1"
+}, {
+	"Chemical formula": "N2H4",
+	"Synonyms": "hydrazine",
+	"CAS number": "302-01-2"
+}, {
+	"Chemical formula": "N2O",
+	"Synonyms": "nitrous oxide  dinitrogen oxide  nitrogen(I) oxide",
+	"CAS number": "10024-97-2"
+}, {
+	"Chemical formula": "N2O3",
+	"Synonyms": "dinitrogen trioxide  nitrogen(III) oxide",
+	"CAS number": "10544-73-7"
+}, {
+	"Chemical formula": "N2O4",
+	"Synonyms": "dinitrogen tetroxide  nitrogen(IV) oxide",
+	"CAS number": "10544-72-6"
+}, {
+	"Chemical formula": "N2O5",
+	"Synonyms": "dinitrogen pentaoxide  nitrogen(V) oxide",
+	"CAS number": "10102-03-1"
+}, {
+	"Chemical formula": "N4H4",
+	"Synonyms": "trans-tetrazene",
+	"CAS number": "54410-57-0"
+}, {
+	"Chemical formula": "NaAlSi3O3",
+	"Synonyms": "albite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaAsO2",
+	"Synonyms": "sodium metaarsenite",
+	"CAS number": "7784-46-5"
+}, {
+	"Chemical formula": "NaH2AsO4",
+	"Synonyms": "sodium dihydrogen arsenate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaAu(CN)2",
+	"Synonyms": "sodium dicyanoaurate(I)",
+	"CAS number": "15280-09-8"
+}, {
+	"Chemical formula": "Na2Cr2O7 · 2H2O",
+	"Synonyms": "Sodium dichromate dihydrate",
+	"CAS number": "10588-01-9"
+}, {
+	"Chemical formula": "NaB(NO3)4",
+	"Synonyms": "sodium tetranitratoborate(III)",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaBr",
+	"Synonyms": "sodium bromide",
+	"CAS number": "7647-15-6"
+}, {
+	"Chemical formula": "NaBrO",
+	"Synonyms": "sodium hypobromite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaBrO2",
+	"Synonyms": "sodium bromite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaBrO3",
+	"Synonyms": "sodium bromate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaBrO4",
+	"Synonyms": "sodium perbromate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaCN",
+	"Synonyms": "sodium cyanide",
+	"CAS number": "143-33-9"
+}, {
+	"Chemical formula": "NaCNO",
+	"Synonyms": "sodium cyanate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaCNO",
+	"Synonyms": "sodium fulminate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaC6F5COO",
+	"Synonyms": "pentafluorobenzoate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaC6H5COO",
+	"Synonyms": "sodium benzoate",
+	"CAS number": "532-32-1"
+}, {
+	"Chemical formula": "NaC6H7O7",
+	"Synonyms": "monosodium citrate",
+	"CAS number": "18996-35-5"
+}, {
+	"Chemical formula": "NaCa2(Al5Si5O20) · 6H2O",
+	"Synonyms": "thomsonite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaCl",
+	"Synonyms": "sodium chloride  rock-salt  halite",
+	"CAS number": "7647-14-5"
+}, {
+	"Chemical formula": "NaClO2",
+	"Synonyms": "sodium chlorite",
+	"CAS number": "7758-19-2"
+}, {
+	"Chemical formula": "NaClO3",
+	"Synonyms": "sodium chlorate",
+	"CAS number": "7775-09-9"
+}, {
+	"Chemical formula": "NaClO4",
+	"Synonyms": "sodium perchlorate",
+	"CAS number": "7601-89-0"
+}, {
+	"Chemical formula": "NaF",
+	"Synonyms": "sodium fluoride",
+	"CAS number": "7681-49-4"
+}, {
+	"Chemical formula": "NaOF",
+	"Synonyms": "sodium hypofluorite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaH",
+	"Synonyms": "sodium hydride",
+	"CAS number": "7646-69-7"
+}, {
+	"Chemical formula": "NaHCOO",
+	"Synonyms": "sodium formate",
+	"CAS number": "141-53-7"
+}, {
+	"Chemical formula": "NaHCO3",
+	"Synonyms": "sodium bicarbonate  baking soda",
+	"CAS number": "144-55-8"
+}, {
+	"Chemical formula": "NaHS",
+	"Synonyms": "sodium hydrosulfide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaHSO3",
+	"Synonyms": "sodium bisulfite",
+	"CAS number": "7631-90-5"
+}, {
+	"Chemical formula": "NaHSO4",
+	"Synonyms": "sodium bisulfate",
+	"CAS number": "7681-38-1"
+}, {
+	"Chemical formula": "NaH2PO3",
+	"Synonyms": "monosodium phosphite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaH2PO4",
+	"Synonyms": "monosodium phosphate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaI",
+	"Synonyms": "sodium iodide",
+	"CAS number": "7681-82-5"
+}, {
+	"Chemical formula": "NaIO",
+	"Synonyms": "sodium hypoiodite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaIO2",
+	"Synonyms": "sodium iodite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaIO3",
+	"Synonyms": "sodium iodate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaIO4",
+	"Synonyms": "sodium periodate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaNH2C6H4SO3",
+	"Synonyms": "sodium sulfanilate",
+	"CAS number": "515-74-2"
+}, {
+	"Chemical formula": "NaNO2",
+	"Synonyms": "sodium nitrite",
+	"CAS number": "7632-00-0"
+}, {
+	"Chemical formula": "NaNO3",
+	"Synonyms": "sodium nitrate",
+	"CAS number": "7631-99-4"
+}, {
+	"Chemical formula": "NaNbO3",
+	"Synonyms": "sodium metaniobate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaNbO3 · 7H2O",
+	"Synonyms": "sodium metaniobate heptahydrate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaOCl",
+	"Synonyms": "sodium hypochlorite",
+	"CAS number": "7681-52-9"
+}, {
+	"Chemical formula": "NaOH",
+	"Synonyms": "sodium hydroxide",
+	"CAS number": "1310-73-2"
+}, {
+	"Chemical formula": "NaO2As(CH3)2 · 3H2O",
+	"Synonyms": "sodium salt of cacodylic acid",
+	"CAS number": "124-65-2"
+}, {
+	"Chemical formula": "NaSeO3",
+	"Synonyms": "sodium selenite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaTaO3",
+	"Synonyms": "sodium metatantalate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NaVO3",
+	"Synonyms": "sodium metavanadate",
+	"CAS number": "13718-26-8"
+}, {
+	"Chemical formula": "Na2CO3",
+	"Synonyms": "sodium carbonate  soda ash",
+	"CAS number": "497-19-8"
+}, {
+	"Chemical formula": "Na2C2O4",
+	"Synonyms": "sodium oxalate",
+	"CAS number": "62-76-0"
+}, {
+	"Chemical formula": "Na2C6H6O7",
+	"Synonyms": "disodium citrate",
+	"CAS number": "144-33-2"
+}, {
+	"Chemical formula": "Na2HAsO4",
+	"Synonyms": "disodium hydrogen arsenate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na2HPO3",
+	"Synonyms": "disodium phosphite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na2HPO4",
+	"Synonyms": "disodium phosphate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na2MoS4",
+	"Synonyms": "sodium thiomolybdate",
+	"CAS number": "18198-15-7"
+}, {
+	"Chemical formula": "Na2N2O2",
+	"Synonyms": "sodium hyponitrite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na2O2",
+	"Synonyms": "sodium peroxide",
+	"CAS number": "1313-60-6"
+}, {
+	"Chemical formula": "Na2O",
+	"Synonyms": "sodium oxide",
+	"CAS number": "1313-59-3"
+}, {
+	"Chemical formula": "Na2S",
+	"Synonyms": "sodium monosulfide",
+	"CAS number": "1313-82-2"
+}, {
+	"Chemical formula": "Na2SO3",
+	"Synonyms": "sodium sulfite",
+	"CAS number": "7757-83-7"
+}, {
+	"Chemical formula": "Na2SO4",
+	"Synonyms": "sodium sulfate  salt cake",
+	"CAS number": "7757-82-6"
+}, {
+	"Chemical formula": "Na2S2O3",
+	"Synonyms": "sodium thiosulfate",
+	"CAS number": "7772-98-7"
+}, {
+	"Chemical formula": "Na2S2O5",
+	"Synonyms": "sodium disulfite",
+	"CAS number": "7681-57-4"
+}, {
+	"Chemical formula": "Na2S2O8",
+	"Synonyms": "sodium persulfate",
+	"CAS number": "7775-27-1"
+}, {
+	"Chemical formula": "Na2S4",
+	"Synonyms": "sodium tetrasulfide",
+	"CAS number": "12034-39-8"
+}, {
+	"Chemical formula": "Na2SeO3",
+	"Synonyms": "sodium selenite",
+	"CAS number": "10102-18-8"
+}, {
+	"Chemical formula": "Na2SeO4",
+	"Synonyms": "sodium selenate",
+	"CAS number": "13410-01-0"
+}, {
+	"Chemical formula": "Na2TeO3",
+	"Synonyms": "sodium tellurite",
+	"CAS number": "10102-20-2"
+}, {
+	"Chemical formula": "Na2TeO4",
+	"Synonyms": "sodium tellurate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na2TiO3",
+	"Synonyms": "sodium metatitanate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na2Zn(OH)4",
+	"Synonyms": "sodium zincate",
+	"CAS number": "12179-14-5"
+}, {
+	"Chemical formula": "Na2ZnO2",
+	"Synonyms": "sodium zincate",
+	"CAS number": "37224-32-1"
+}, {
+	"Chemical formula": "Na2ZrO3",
+	"Synonyms": "sodium metazirconate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na3AlF6",
+	"Synonyms": "cryolite",
+	"CAS number": "15096-52-3"
+}, {
+	"Chemical formula": "Na3AsO4",
+	"Synonyms": "sodium arsenate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na3Co(CO3)3",
+	"Synonyms": "sodium tricarbonatocobaltate(III)",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na3VO4",
+	"Synonyms": "sodium orthovanadate",
+	"CAS number": "13721-39-6"
+}, {
+	"Chemical formula": "Na3C6H5O7",
+	"Synonyms": "trisodium citrate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na3PO3",
+	"Synonyms": "trisodium phosphite",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na3PO4",
+	"Synonyms": "trisodium phosphate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Na4V2O7",
+	"Synonyms": "sodium pyrovanadate",
+	"CAS number": "13517-26-5"
+}, {
+	"Chemical formula": "NbBr5",
+	"Synonyms": "niobium(V) bromide",
+	"CAS number": "13478-45-0"
+}, {
+	"Chemical formula": "NbCl3",
+	"Synonyms": "niobium(III) chloride",
+	"CAS number": "13569-59-0"
+}, {
+	"Chemical formula": "NbCl5",
+	"Synonyms": "niobium(V) chloride",
+	"CAS number": "10026-12-7"
+}, {
+	"Chemical formula": "NbI5",
+	"Synonyms": "niobium(V) iodide",
+	"CAS number": "13779-92-5"
+}, {
+	"Chemical formula": "Nb2O3",
+	"Synonyms": "niobium(III) oxide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NdCl2",
+	"Synonyms": "neodymium(II) chloride  neodymium dichloride",
+	"CAS number": "25469-93-6"
+}, {
+	"Chemical formula": "NdI2",
+	"Synonyms": "neodymium(III) iodide  neodymium diiodide",
+	"CAS number": "61393-36-0"
+}, {
+	"Chemical formula": "Nd(OH)3",
+	"Synonyms": "neodymium hydroxide",
+	"CAS number": "16469-17-3"
+}, {
+	"Chemical formula": "Nd2O3",
+	"Synonyms": "neodymium(III) oxide  dineodymium trioxide",
+	"CAS number": "1313-97-9"
+}, {
+	"Chemical formula": "NiAs",
+	"Synonyms": "nickel(III) arsenide",
+	"CAS number": "27016-75-7"
+}, {
+	"Chemical formula": "NiAsS",
+	"Synonyms": "nickel arsenic sulfide  gersdorffite",
+	"CAS number": "12255-10-6"
+}, {
+	"Chemical formula": "NiBr2",
+	"Synonyms": "nickel(II) bromide",
+	"CAS number": "13462-88-9"
+}, {
+	"Chemical formula": "NiBr2 · 3H2O",
+	"Synonyms": "nickel(II) bromide trihydrate",
+	"CAS number": "7789-49-3"
+}, {
+	"Chemical formula": "NiBr2 · 6H2O",
+	"Synonyms": "nickel(II) bromide hexahydrate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Ni(CO)3",
+	"Synonyms": "nickel(II) carbonate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Ni(CO)4",
+	"Synonyms": "nickel tetracarbonyl",
+	"CAS number": "13463-39-3"
+}, {
+	"Chemical formula": "NiC2O4 · 2H2O",
+	"Synonyms": "nickel(II) oxalate dihydrate",
+	"CAS number": "6018-94-6"
+}, {
+	"Chemical formula": "NiCl2",
+	"Synonyms": "nickel(II) chloride",
+	"CAS number": "7718-54-9"
+}, {
+	"Chemical formula": "NiFe2O4",
+	"Synonyms": "nickel(II) iron(III) oxide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NiI2",
+	"Synonyms": "nickel(II) iodide",
+	"CAS number": "13462-90-3"
+}, {
+	"Chemical formula": "Ni(H2PO)2 · 6H2O",
+	"Synonyms": "nickel(II) hypophosphite hexahydrate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NiMoO4",
+	"Synonyms": "nickel(II) orthomolybdate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Ni(NO3)2 · 6H2O",
+	"Synonyms": "nickel(II) nitrate hexahydrate",
+	"CAS number": "13478-00-7"
+}, {
+	"Chemical formula": "NiOOH",
+	"Synonyms": "nickel oxo-hydroxide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NiO",
+	"Synonyms": "nickel(II) oxide",
+	"CAS number": "1313-99-1"
+}, {
+	"Chemical formula": "Ni(OH)2",
+	"Synonyms": "nickel(II) hydroxide",
+	"CAS number": "12054-48-7"
+}, {
+	"Chemical formula": "NiS",
+	"Synonyms": "nickel(II) sulfide  millerite",
+	"CAS number": "16812-54-7"
+}, {
+	"Chemical formula": "NiSO4",
+	"Synonyms": "nickel sulfate",
+	"CAS number": "7786-81-4"
+}, {
+	"Chemical formula": "NiS2",
+	"Synonyms": "nickel sulfide",
+	"CAS number": "12035-51-7"
+}, {
+	"Chemical formula": "NiSb",
+	"Synonyms": "nickel antimonide",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NiSe",
+	"Synonyms": "nickel(II) selenide",
+	"CAS number": "12201-85-3"
+}, {
+	"Chemical formula": "NiTiO3",
+	"Synonyms": "nickel(II) metatitanate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Ni(VO3)2",
+	"Synonyms": "nickel(II) metavanadate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "NiWO4",
+	"Synonyms": "nickel(II) orthotungstate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Ni2SiO4",
+	"Synonyms": "nickel(II) orthosilicate",
+	"CAS number": ""
+}, {
+	"Chemical formula": "Ni3(PO4)2",
+	"Synonyms": "nickel(II) orthophosphate",
+	"CAS number": "14396-43-1"
+}, {
+	"Chemical formula": "Ni3Sb2",
+	"Synonyms": "nickel(II) antimonide",
+	"CAS number": ""
+}
+]

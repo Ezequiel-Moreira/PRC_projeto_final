@@ -1,0 +1,38 @@
+[{
+		"Chemical formula": "O",
+		"Synonyms": "oxygen",
+		"CAS number": "7782-44-7"
+	}, {
+		"Chemical formula": "O2",
+		"Synonyms": "dioxygen",
+		"CAS number": "7782-44-7"
+	}, {
+		"Chemical formula": "O2−",
+		"Synonyms": "superoxide ion",
+		"CAS number": "11062-77-4"
+	}, {
+		"Chemical formula": "O22−",
+		"Synonyms": "peroxide ion",
+		"CAS number": "14915-07-2"
+	}, {
+		"Chemical formula": "OF2",
+		"Synonyms": "oxygen difluoride",
+		"CAS number": "7783-41-7"
+	}, {
+		"Chemical formula": "O2F2",
+		"Synonyms": "dioxygen difluoride",
+		"CAS number": "7783-44-0"
+	}, {
+		"Chemical formula": "OH−",
+		"Synonyms": "hydroxide ion",
+		"CAS number": "14280-30-9"
+	}, {
+		"Chemical formula": "O3",
+		"Synonyms": "ozone",
+		"CAS number": "10028-15-6"
+	}, {
+		"Chemical formula": "O3−",
+		"Synonyms": "ozonide ion",
+		"CAS number": "12596-80-4"
+	}
+]

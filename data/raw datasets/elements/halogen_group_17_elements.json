@@ -1,0 +1,57 @@
+[{
+		"Halogen": "Fluorine",
+		"Standard atomic weight(u)[n 1][23]": "18.9984032(5)",
+		"Melting point(K)": "53.53",
+		"Melting point(°C)": "−219.62",
+		"Boiling point(K)[24]": "85.03",
+		"Boiling point(°C)[24]": "−188.12",
+		"Density(g/cm3at 25 °C)": "0.0017",
+		"Electronegativity(Pauling)": "3.98",
+		"First ionization energy(kJ·mol−1)": "1681.0",
+		"Covalent radius(pm)[25]": "71"
+	}, {
+		"Halogen": "Chlorine",
+		"Standard atomic weight(u)[n 1][23]": "[35.446; 35.457][n 2]",
+		"Melting point(K)": "171.6",
+		"Melting point(°C)": "−101.5",
+		"Boiling point(K)[24]": "239.11",
+		"Boiling point(°C)[24]": "−34.04",
+		"Density(g/cm3at 25 °C)": "0.0032",
+		"Electronegativity(Pauling)": "3.16",
+		"First ionization energy(kJ·mol−1)": "1251.2",
+		"Covalent radius(pm)[25]": "99"
+	}, {
+		"Halogen": "Bromine",
+		"Standard atomic weight(u)[n 1][23]": "79.904(1)",
+		"Melting point(K)": "265.8",
+		"Melting point(°C)": "−7.3",
+		"Boiling point(K)[24]": "332.0",
+		"Boiling point(°C)[24]": "58.8",
+		"Density(g/cm3at 25 °C)": "3.1028",
+		"Electronegativity(Pauling)": "2.96",
+		"First ionization energy(kJ·mol−1)": "1139.9",
+		"Covalent radius(pm)[25]": "114"
+	}, {
+		"Halogen": "Iodine",
+		"Standard atomic weight(u)[n 1][23]": "126.90447(3)",
+		"Melting point(K)": "386.85",
+		"Melting point(°C)": "113.7",
+		"Boiling point(K)[24]": "457.4",
+		"Boiling point(°C)[24]": "184.3",
+		"Density(g/cm3at 25 °C)": "4.933",
+		"Electronegativity(Pauling)": "2.66",
+		"First ionization energy(kJ·mol−1)": "1008.4",
+		"Covalent radius(pm)[25]": "133"
+	}, {
+		"Halogen": "Astatine",
+		"Standard atomic weight(u)[n 1][23]": "[210][n 3]",
+		"Melting point(K)": "575",
+		"Melting point(°C)": "302",
+		"Boiling point(K)[24]": "? 610",
+		"Boiling point(°C)[24]": "? 337",
+		"Density(g/cm3at 25 °C)": "? 6.2–6.5[26]",
+		"Electronegativity(Pauling)": "2.2",
+		"First ionization energy(kJ·mol−1)": "? 887.7",
+		"Covalent radius(pm)[25]": "?"
+	}
+]

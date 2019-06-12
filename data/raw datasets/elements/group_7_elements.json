@@ -1,0 +1,18 @@
+[{
+		"Z": "25",
+		"Element": "manganese",
+		"No. of electrons/shell": "2, 8, 13, 2"
+	}, {
+		"Z": "43",
+		"Element": "technetium",
+		"No. of electrons/shell": "2, 8, 18, 13, 2"
+	}, {
+		"Z": "75",
+		"Element": "rhenium",
+		"No. of electrons/shell": "2, 8, 18, 32, 13, 2"
+	}, {
+		"Z": "107",
+		"Element": "bohrium",
+		"No. of electrons/shell": "2, 8, 18, 32, 32, 13, 2"
+	}
+]

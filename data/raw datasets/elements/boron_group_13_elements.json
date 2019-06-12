@@ -1,0 +1,50 @@
+[
+	[{
+			"Element": "Boron",
+			"Boiling Point (C)": "4,000°",
+			"Density (g/cm3)": "2.46"
+		}, {
+			"Element": "Aluminium",
+			"Boiling Point (C)": "2,519°",
+			"Density (g/cm3)": "2.7"
+		}, {
+			"Element": "Gallium",
+			"Boiling Point (C)": "2,204°",
+			"Density (g/cm3)": "5.904"
+		}, {
+			"Element": "Indium",
+			"Boiling Point (C)": "2,072°",
+			"Density (g/cm3)": "7.31"
+		}, {
+			"Element": "Thallium",
+			"Boiling Point (C)": "1,473°",
+			"Density (g/cm3)": "11.85"
+		}
+	],
+	[{
+			"Z": "5",
+			"Element": "boron",
+			"No. of electrons per shell": "2, 3"
+		}, {
+			"Z": "13",
+			"Element": "aluminium",
+			"No. of electrons per shell": "2, 8, 3"
+		}, {
+			"Z": "31",
+			"Element": "gallium",
+			"No. of electrons per shell": "2, 8, 18, 3"
+		}, {
+			"Z": "49",
+			"Element": "indium",
+			"No. of electrons per shell": "2, 8, 18, 18, 3"
+		}, {
+			"Z": "81",
+			"Element": "thallium",
+			"No. of electrons per shell": "2, 8, 18, 32, 18, 3"
+		}, {
+			"Z": "113",
+			"Element": "nihonium",
+			"No. of electrons per shell": "2, 8, 18, 32, 32, 18, 3 (predicted)"
+		}
+	]
+]

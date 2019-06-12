@@ -1,0 +1,358 @@
+[{
+		"Chemical formula": "MgBr2",
+		"Synonyms": "magnesium bromide",
+		"CAS number": "7789-48-2"
+	}, {
+		"Chemical formula": "Mg(BrO)2",
+		"Synonyms": "magnesium hypobromite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(BrO2)2",
+		"Synonyms": "magnesium bromite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(BrO3)2",
+		"Synonyms": "magnesium bromate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(BrO4)2",
+		"Synonyms": "magnesium perbromate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(AlO2)2",
+		"Synonyms": "magnesium aluminate",
+		"CAS number": "12068-51-8"
+	}, {
+		"Chemical formula": "As2Mg3",
+		"Synonyms": "magnesium arsenide",
+		"CAS number": "12044-49-4"
+	}, {
+		"Chemical formula": "MgCO3",
+		"Synonyms": "magnesium carbonate  magnesite",
+		"CAS number": "546-93-0"
+	}, {
+		"Chemical formula": "MgC2O4",
+		"Synonyms": "magnesium oxalate",
+		"CAS number": "547-66-0"
+	}, {
+		"Chemical formula": "Mg(ClO)2",
+		"Synonyms": "magnesium hypochlorite",
+		"CAS number": "10233-03-1"
+	}, {
+		"Chemical formula": "Mg(ClO2)2",
+		"Synonyms": "magnesium chlorite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(ClO3)2",
+		"Synonyms": "magnesium chlorate",
+		"CAS number": "10326-21-3"
+	}, {
+		"Chemical formula": "Mg(ClO3)2·xH2O",
+		"Synonyms": "magnesium chlorate hydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(ClO4)2",
+		"Synonyms": "magnesium perchlorate",
+		"CAS number": "10034-81-8"
+	}, {
+		"Chemical formula": "MgCl2",
+		"Synonyms": "magnesium chloride",
+		"CAS number": "7786-30-3"
+	}, {
+		"Chemical formula": "MgCrO4",
+		"Synonyms": "magnesium chromate",
+		"CAS number": "13423-61-5"
+	}, {
+		"Chemical formula": "MgCrO4·5H2O",
+		"Synonyms": "magnesium chromate pentahydrate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MgF2",
+		"Synonyms": "magnesium fluoride",
+		"CAS number": "7783-40-6"
+	}, {
+		"Chemical formula": "MgHPO4",
+		"Synonyms": "dimagnesium phosphate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MgI2",
+		"Synonyms": "magnesium iodide",
+		"CAS number": "10377-58-9"
+	}, {
+		"Chemical formula": "Mg(IO)2",
+		"Synonyms": "magnesium hypoiodite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(IO2)2",
+		"Synonyms": "magnesium iodite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(IO3)2",
+		"Synonyms": "magnesium iodate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(IO4)2",
+		"Synonyms": "magnesium periodate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MgMoO4",
+		"Synonyms": "magnesium molybdate",
+		"CAS number": "13767-03-8"
+	}, {
+		"Chemical formula": "MgNH4PO4·6H2O",
+		"Synonyms": "magnesium ammonium phosphate hexahydrate",
+		"CAS number": "15490-91-2"
+	}, {
+		"Chemical formula": "Mg(NO2)2",
+		"Synonyms": "magnesium nitrite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg(NO3)2",
+		"Synonyms": "magnesium nitrate",
+		"CAS number": "10377-60-3"
+	}, {
+		"Chemical formula": "Mg(NO3)2·6H2O",
+		"Synonyms": "magnesium nitrate hexahydrate",
+		"CAS number": "13446-18-9"
+	}, {
+		"Chemical formula": "MgNaAl5(Si4O10)3(OH)6",
+		"Synonyms": "montmorillonite (clay)",
+		"CAS number": "1318-93-0"
+	}, {
+		"Chemical formula": "MgO",
+		"Synonyms": "magnesium oxide  magnesia  periclase",
+		"CAS number": "1309-48-4"
+	}, {
+		"Chemical formula": "Mg(OH)2",
+		"Synonyms": "magnesium hydroxide  milk of magnesia",
+		"CAS number": "1309-42-8"
+	}, {
+		"Chemical formula": "MgPo",
+		"Synonyms": "magnesium polonide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MgS",
+		"Synonyms": "magnesium sulfide",
+		"CAS number": "12032-36-9"
+	}, {
+		"Chemical formula": "MgSO3",
+		"Synonyms": "magnesium sulfite",
+		"CAS number": "7757-88-2"
+	}, {
+		"Chemical formula": "MgSO4",
+		"Synonyms": "magnesium sulfate",
+		"CAS number": "7487-88-9"
+	}, {
+		"Chemical formula": "MgSe",
+		"Synonyms": "magnesium selenide",
+		"CAS number": "1313-04-8"
+	}, {
+		"Chemical formula": "MgSeO3",
+		"Synonyms": "magnesium selenite",
+		"CAS number": "15593-61-0"
+	}, {
+		"Chemical formula": "MgSeO4",
+		"Synonyms": "magnesium selenate",
+		"CAS number": "14986-91-5"
+	}, {
+		"Chemical formula": "MgSiO3",
+		"Synonyms": "magnesium metasilicate  enstatite",
+		"CAS number": "13776-74-4"
+	}, {
+		"Chemical formula": "MgTiO3",
+		"Synonyms": "magnesium metatitanate",
+		"CAS number": "12032-30-3"
+	}, {
+		"Chemical formula": "Mg(VO3)2",
+		"Synonyms": "magnesium metavanadate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MgWO4",
+		"Synonyms": "magnesium tungstate",
+		"CAS number": "13573-11-0"
+	}, {
+		"Chemical formula": "Mg2Al(AlSiO5)(OH)4",
+		"Synonyms": "amesite",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mg2P2O7",
+		"Synonyms": "magnesium pyrophosphate",
+		"CAS number": "13446-24-7"
+	}, {
+		"Chemical formula": "Mg2SiO4",
+		"Synonyms": "forsterite",
+		"CAS number": "10034-94-3"
+	}, {
+		"Chemical formula": "Mg3As2",
+		"Synonyms": "magnesium arsenide",
+		"CAS number": "12044-49-4"
+	}, {
+		"Chemical formula": "Mg3Bi2",
+		"Synonyms": "magnesium bismuthide",
+		"CAS number": "12048-46-3"
+	}, {
+		"Chemical formula": "Mg3P2",
+		"Synonyms": "magnesium phosphide",
+		"CAS number": "12057-74-8"
+	}, {
+		"Chemical formula": "Mg3(Si2O5)(OH)4",
+		"Synonyms": "chrysotile",
+		"CAS number": "12001-29-5"
+	}, {
+		"Chemical formula": "Mg3(Si4O10)(OH)2",
+		"Synonyms": "talc",
+		"CAS number": "14807-96-6"
+	}, {
+		"Chemical formula": "Mg3(VO4)2",
+		"Synonyms": "magnesium orthovanadate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MnAs",
+		"Synonyms": "manganese(III) arsenide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MnBi",
+		"Synonyms": "manganese(III) bismuthide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MnBr2",
+		"Synonyms": "manganese(II) bromide",
+		"CAS number": "13446-03-2"
+	}, {
+		"Chemical formula": "MnBr2·4H2O",
+		"Synonyms": "manganese(II) bromide tetrahydrate",
+		"CAS number": "10031-20-6"
+	}, {
+		"Chemical formula": "Mn(CHO2)2",
+		"Synonyms": "manganese(II) formate",
+		"CAS number": "3251-96-5"
+	}, {
+		"Chemical formula": "Mn(CHO2)2·2H2O",
+		"Synonyms": "manganese(II) formate dihydrate",
+		"CAS number": "4247-36-3"
+	}, {
+		"Chemical formula": "MnCO3",
+		"Synonyms": "manganese(II) carbonate",
+		"CAS number": "598-62-9"
+	}, {
+		"Chemical formula": "MnCl2",
+		"Synonyms": "manganese(II) chloride",
+		"CAS number": "7773-01-5"
+	}, {
+		"Chemical formula": "MnF2",
+		"Synonyms": "manganese(II) fluoride",
+		"CAS number": "7782-64-1"
+	}, {
+		"Chemical formula": "MnI2",
+		"Synonyms": "manganese(II) iodide",
+		"CAS number": "7790-33-2"
+	}, {
+		"Chemical formula": "MnMoO4",
+		"Synonyms": "manganese(II) orthomolybdate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mn(NO3)2",
+		"Synonyms": "manganese(II) nitrate",
+		"CAS number": "10377-66-9"
+	}, {
+		"Chemical formula": "Mn(NO3)2·4H2O",
+		"Synonyms": "manganese(II) nitrate tetrahydrate",
+		"CAS number": "20694-39-7"
+	}, {
+		"Chemical formula": "MnO",
+		"Synonyms": "manganese(II) oxide",
+		"CAS number": "1344-43-0"
+	}, {
+		"Chemical formula": "Mn(OH)2",
+		"Synonyms": "manganese hydroxide",
+		"CAS number": "1310-97-0"
+	}, {
+		"Chemical formula": "MnOOH",
+		"Synonyms": "manganite",
+		"CAS number": "1310-98-1"
+	}, {
+		"Chemical formula": "MnO2",
+		"Synonyms": "manganese dioxide  pyrolusite",
+		"CAS number": "1313-13-9"
+	}, {
+		"Chemical formula": "MnO4−",
+		"Synonyms": "permanganate ion",
+		"CAS number": "14333-13-2"
+	}, {
+		"Chemical formula": "MnPb8(Si2O7)3",
+		"Synonyms": "barysilate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MnS",
+		"Synonyms": "manganese sulfide",
+		"CAS number": "18820-29-6"
+	}, {
+		"Chemical formula": "MnTe",
+		"Synonyms": "manganese(II) telluride",
+		"CAS number": "12032-88-1"
+	}, {
+		"Chemical formula": "MnZrO3",
+		"Synonyms": "manganese(II) metazirconate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mn2O3",
+		"Synonyms": "manganese(III) oxide",
+		"CAS number": "1317-34-6"
+	}, {
+		"Chemical formula": "Mn3As2",
+		"Synonyms": "manganese(II) arsenide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mn3O4",
+		"Synonyms": "manganese(II,III) oxide  trimanganese tetroxide  hausmannite",
+		"CAS number": "1317-35-7"
+	}, {
+		"Chemical formula": "Mn3P2",
+		"Synonyms": "manganese(II) phosphide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "Mn3Sb2",
+		"Synonyms": "manganese(II) antimonide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "MoBr2",
+		"Synonyms": "molybdenum(II) bromide",
+		"CAS number": "13446-56-5"
+	}, {
+		"Chemical formula": "MoBr3",
+		"Synonyms": "molybdenum(III) bromide",
+		"CAS number": "13446-57-6"
+	}, {
+		"Chemical formula": "MoCl2",
+		"Synonyms": "molybdenum(II) chloride",
+		"CAS number": "13478-17-6"
+	}, {
+		"Chemical formula": "MoCl3",
+		"Synonyms": "molybdenum(III) chloride",
+		"CAS number": "13478-18-7"
+	}, {
+		"Chemical formula": "MoCl5",
+		"Synonyms": "molybdenum(V) chloride",
+		"CAS number": "10241-05-1"
+	}, {
+		"Chemical formula": "MoO2",
+		"Synonyms": "molybdenum(IV) oxide",
+		"CAS number": "18868-43-4"
+	}, {
+		"Chemical formula": "MoO3",
+		"Synonyms": "Molybdenum trioxide",
+		"CAS number": "1313-27-5"
+	}, {
+		"Chemical formula": "MoO42−",
+		"Synonyms": "molybdate ion",
+		"CAS number": "14259-85-9"
+	}, {
+		"Chemical formula": "MoSe2",
+		"Synonyms": "molybdenum(IV) selenide",
+		"CAS number": "12058-18-3"
+	}, {
+		"Chemical formula": "MoS2",
+		"Synonyms": "molybdenum sulfide  molybdenum disulfide  molybdenite",
+		"CAS number": "1317-33-5"
+	}
+]

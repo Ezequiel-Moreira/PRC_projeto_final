@@ -1,0 +1,18 @@
+[{
+		"Z": "29",
+		"Element": "copper",
+		"No. of electrons/shell": "2, 8, 18, 1"
+	}, {
+		"Z": "47",
+		"Element": "silver",
+		"No. of electrons/shell": "2, 8, 18, 18, 1"
+	}, {
+		"Z": "79",
+		"Element": "gold",
+		"No. of electrons/shell": "2, 8, 18, 32, 18, 1"
+	}, {
+		"Z": "111",
+		"Element": "roentgenium",
+		"No. of electrons/shell": "2, 8, 18, 32, 32, 18, 1 (predicted)"
+	}
+]

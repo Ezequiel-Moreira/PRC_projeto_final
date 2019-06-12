@@ -1,0 +1,2118 @@
+[{
+		"Chemical formula": "CCl2F2",
+		"Synonyms": "dichlorodifluoromethane  freon-12",
+		"CAS number": "75-71-8"
+	}, {
+		"Chemical formula": "CCl4",
+		"Synonyms": "carbon tetrachloride  tetrachloromethane",
+		"CAS number": "56-23-5"
+	}, {
+		"Chemical formula": "C(CN)4",
+		"Synonyms": "tetracyanomethane",
+		"CAS number": "24331-09-7"
+	}, {
+		"Chemical formula": "CFCl3",
+		"Synonyms": "freon-11",
+		"CAS number": "75-69-4"
+	}, {
+		"Chemical formula": "CFCl2CF2Cl",
+		"Synonyms": "freon-13",
+		"CAS number": "75-72-9"
+	}, {
+		"Chemical formula": "CHCl3",
+		"Synonyms": "chloroform  trichloromethane  methyl trichloride",
+		"CAS number": "67-66-3"
+	}, {
+		"Chemical formula": "CHClF2",
+		"Synonyms": "chlorodifluoromethane",
+		"CAS number": "75-45-6"
+	}, {
+		"Chemical formula": "CH(CN)3",
+		"Synonyms": "cyanoform",
+		"CAS number": "454-50-2"
+	}, {
+		"Chemical formula": "CHO2−",
+		"Synonyms": "formate ion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "CH2CHCHCH2",
+		"Synonyms": "1,3-butadiene",
+		"CAS number": "106-99-0"
+	}, {
+		"Chemical formula": "CH2CO",
+		"Synonyms": "ketene",
+		"CAS number": "463-51-4"
+	}, {
+		"Chemical formula": "CH2CHOH",
+		"Synonyms": "ethenol",
+		"CAS number": "557-75-5"
+	}, {
+		"Chemical formula": "CH2ClCOOH",
+		"Synonyms": "chloroacetic acid",
+		"CAS number": "79-11-8"
+	}, {
+		"Chemical formula": "CH2Cl2",
+		"Synonyms": "dichloromethane",
+		"CAS number": "75-09-2"
+	}, {
+		"Chemical formula": "CH2ClF",
+		"Synonyms": "chlorofluoromethane",
+		"CAS number": "593-70-4"
+	}, {
+		"Chemical formula": "CH2(CN)2",
+		"Synonyms": "malononitrile",
+		"CAS number": "109-77-3"
+	}, {
+		"Chemical formula": "CH2O",
+		"Synonyms": "formaldehyde",
+		"CAS number": "19710-56-6"
+	}, {
+		"Chemical formula": "CH2(OH)2",
+		"Synonyms": "methanediol",
+		"CAS number": "463-57-0"
+	}, {
+		"Chemical formula": "CH2OHCH2OH",
+		"Synonyms": "ethylene glycol",
+		"CAS number": "107-21-1"
+	}, {
+		"Chemical formula": "CH3CCH",
+		"Synonyms": "propyne",
+		"CAS number": "74-99-7"
+	}, {
+		"Chemical formula": "CH3CdCH3",
+		"Synonyms": "dimethylcadmium",
+		"CAS number": "506-82-1"
+	}, {
+		"Chemical formula": "CH3CHCHCH3",
+		"Synonyms": "2-butene",
+		"CAS number": "107-01-7"
+	}, {
+		"Chemical formula": "CH3CHCH2",
+		"Synonyms": "propene",
+		"CAS number": "115-07-1"
+	}, {
+		"Chemical formula": "CH3CHO",
+		"Synonyms": "acetaldehyde",
+		"CAS number": "75-07-0"
+	}, {
+		"Chemical formula": "CH3CH2Br",
+		"Synonyms": "bromoethane",
+		"CAS number": "74-96-4"
+	}, {
+		"Chemical formula": "CH3CH2CH2CH2OH",
+		"Synonyms": "butan-1-ol",
+		"CAS number": "71-36-3"
+	}, {
+		"Chemical formula": "CH3CH2CH2OH",
+		"Synonyms": "1-propanol  propan-1-ol",
+		"CAS number": "71-23-8"
+	}, {
+		"Chemical formula": "CH3CH2CONH2",
+		"Synonyms": "propanamide",
+		"CAS number": "79-05-0"
+	}, {
+		"Chemical formula": "CH3CH2COOH",
+		"Synonyms": "propionic acid",
+		"CAS number": "79-09-4"
+	}, {
+		"Chemical formula": "CH3CH2OCH2CH3",
+		"Synonyms": "diethyl ether  ethoxyethane",
+		"CAS number": "60-29-7"
+	}, {
+		"Chemical formula": "CH3CH2OH",
+		"Synonyms": "ethanol",
+		"CAS number": "64-17-5"
+	}, {
+		"Chemical formula": "CH3(CH2)16COOH",
+		"Synonyms": "stearic acid",
+		"CAS number": "57-11-4"
+	}, {
+		"Chemical formula": "CH3CN",
+		"Synonyms": "acetonitrile",
+		"CAS number": "75-05-8"
+	}, {
+		"Chemical formula": "CH3COCH3",
+		"Synonyms": "acetone",
+		"CAS number": "67-64-1"
+	}, {
+		"Chemical formula": "CH3COOCH3",
+		"Synonyms": "methyl acetate",
+		"CAS number": "79-20-9"
+	}, {
+		"Chemical formula": "CH3COCl",
+		"Synonyms": "acetyl chloride",
+		"CAS number": "75-36-5"
+	}, {
+		"Chemical formula": "CH3CONH2",
+		"Synonyms": "acetamide  ethanamide",
+		"CAS number": "60-35-5"
+	}, {
+		"Chemical formula": "CH3COO−",
+		"Synonyms": "acetate ion",
+		"CAS number": "71-50-1"
+	}, {
+		"Chemical formula": "CH3COOCHCH2",
+		"Synonyms": "vinyl acetate",
+		"CAS number": "108-05-4"
+	}, {
+		"Chemical formula": "CH3COOCH2C6H5",
+		"Synonyms": "benzyl acetate",
+		"CAS number": "140-11-4"
+	}, {
+		"Chemical formula": "CH3COO(CH2)2CH(CH3)2",
+		"Synonyms": "isoamyl acetate",
+		"CAS number": "123-92-2"
+	}, {
+		"Chemical formula": "CH3COOH",
+		"Synonyms": "acetic acid  ethanoic acid",
+		"CAS number": "64-19-7"
+	}, {
+		"Chemical formula": "CH3COONa",
+		"Synonyms": "sodium acetate",
+		"CAS number": "127-09-3"
+	}, {
+		"Chemical formula": "CH3COOK",
+		"Synonyms": "potassium acetate",
+		"CAS number": "127-08-2"
+	}, {
+		"Chemical formula": "CH3COORb",
+		"Synonyms": "rubidium acetate",
+		"CAS number": "563-67-7"
+	}, {
+		"Chemical formula": "CH3COOCs",
+		"Synonyms": "caesium acetate",
+		"CAS number": "3396-11-0"
+	}, {
+		"Chemical formula": "(CH3CO)2O",
+		"Synonyms": "acetic anhydride",
+		"CAS number": "108-24-7"
+	}, {
+		"Chemical formula": "CH3Cl",
+		"Synonyms": "chloromethane  methyl chloride",
+		"CAS number": "74-87-3"
+	}, {
+		"Chemical formula": "CH3HgCH3",
+		"Synonyms": "dimethylmercury",
+		"CAS number": "593-74-8"
+	}, {
+		"Chemical formula": "CH3I",
+		"Synonyms": "iodomethane  methyl iodide",
+		"CAS number": "74-88-4"
+	}, {
+		"Chemical formula": "CH3OCH3",
+		"Synonyms": "dimethyl ether",
+		"CAS number": "115-10-6"
+	}, {
+		"Chemical formula": "CH3NH2",
+		"Synonyms": "methylamine",
+		"CAS number": "74-89-5"
+	}, {
+		"Chemical formula": "CH3NO",
+		"Synonyms": "oxaziridine",
+		"CAS number": "6827-26-5"
+	}, {
+		"Chemical formula": "CH3OCs",
+		"Synonyms": "caesium methoxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "CH3OH",
+		"Synonyms": "methanol",
+		"CAS number": "67-56-1"
+	}, {
+		"Chemical formula": "CH3OK",
+		"Synonyms": "potassium methoxide",
+		"CAS number": "865-33-8"
+	}, {
+		"Chemical formula": "CH3OLi",
+		"Synonyms": "lithium methoxide",
+		"CAS number": "865-34-9"
+	}, {
+		"Chemical formula": "CH3ONa",
+		"Synonyms": "sodium methoxide",
+		"CAS number": "124-41-4"
+	}, {
+		"Chemical formula": "CH3ORb",
+		"Synonyms": "rubidium methoxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "CH3SCH3",
+		"Synonyms": "dimethyl sulfide  DMS",
+		"CAS number": "75-18-3"
+	}, {
+		"Chemical formula": "CH3SH",
+		"Synonyms": "methanethiol",
+		"CAS number": "74-93-1"
+	}, {
+		"Chemical formula": "(CH3)2CHOH",
+		"Synonyms": "isopropyl alcohol  2-propanol  propan-2-ol  isopropanol",
+		"CAS number": "67-63-0"
+	}, {
+		"Chemical formula": "(CH3)2CO",
+		"Synonyms": "acetone",
+		"CAS number": "67-64-1"
+	}, {
+		"Chemical formula": "(CH3)2C2O4",
+		"Synonyms": "dimethyl oxalate",
+		"CAS number": "553-90-2"
+	}, {
+		"Chemical formula": "(CH3)2NNH2",
+		"Synonyms": "dimethyl hydrazine",
+		"CAS number": "30260-66-3"
+	}, {
+		"Chemical formula": "(CH3)2NH",
+		"Synonyms": "dimethylamine",
+		"CAS number": "124-40-3"
+	}, {
+		"Chemical formula": "(CH3)2S+CH2CH2COO−",
+		"Synonyms": "dimethylsulfoniopropionate  DMSP",
+		"CAS number": "7314-30-9"
+	}, {
+		"Chemical formula": "(CH3)3CCl",
+		"Synonyms": "t-butyl chloride",
+		"CAS number": "507-20-0"
+	}, {
+		"Chemical formula": "(CH)3COH",
+		"Synonyms": "t-butyl alcohol",
+		"CAS number": "75-65-0"
+	}, {
+		"Chemical formula": "(CH3)3COOC(CH3)3",
+		"Synonyms": "di-t-butyl peroxide  DTBP",
+		"CAS number": "110-05-4"
+	}, {
+		"Chemical formula": "(CH3)3N",
+		"Synonyms": "trimethylamine",
+		"CAS number": "75-50-3"
+	}, {
+		"Chemical formula": "CH4",
+		"Synonyms": "methane  natural gas",
+		"CAS number": "74-82-8"
+	}, {
+		"Chemical formula": "CH4N2O2",
+		"Synonyms": "hydroxycarbamide",
+		"CAS number": "127-07-1"
+	}, {
+		"Chemical formula": "CH5N3",
+		"Synonyms": "Guanidine",
+		"CAS number": "113-00-8"
+	}, {
+		"Chemical formula": "CN−",
+		"Synonyms": "cyanide ion",
+		"CAS number": "57-12-5"
+	}, {
+		"Chemical formula": "(CN)2",
+		"Synonyms": "cyanogen",
+		"CAS number": "460-19-5"
+	}, {
+		"Chemical formula": "C(NH2)3NO3",
+		"Synonyms": "guanidine nitrate",
+		"CAS number": "506-93-4"
+	}, {
+		"Chemical formula": "CNO−",
+		"Synonyms": "cyanate ion",
+		"CAS number": "661-20-1"
+	}, {
+		"Chemical formula": "CO",
+		"Synonyms": "carbon monoxide",
+		"CAS number": "630-08-0"
+	}, {
+		"Chemical formula": "COCl2",
+		"Synonyms": "phosgene",
+		"CAS number": "75-44-5"
+	}, {
+		"Chemical formula": "CO2",
+		"Synonyms": "carbon dioxide",
+		"CAS number": "124-38-9"
+	}, {
+		"Chemical formula": "CO3",
+		"Synonyms": "carbon trioxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "CO32−",
+		"Synonyms": "carbonate ion",
+		"CAS number": "3812-32-6"
+	}, {
+		"Chemical formula": "CS2",
+		"Synonyms": "carbon disulfide",
+		"CAS number": "75-15-0"
+	}, {
+		"Chemical formula": "C2F4",
+		"Synonyms": "tetrafluoroethylene",
+		"CAS number": "116-14-3"
+	}, {
+		"Chemical formula": "C2H2",
+		"Synonyms": "acetylene",
+		"CAS number": "74-86-2"
+	}, {
+		"Chemical formula": "C2H2O2",
+		"Synonyms": "glyoxal",
+		"CAS number": "107-22-2"
+	}, {
+		"Chemical formula": "C2H3Cl",
+		"Synonyms": "vinyl chloride",
+		"CAS number": "75-01-4"
+	}, {
+		"Chemical formula": "C2H3NO",
+		"Synonyms": "glycolonitrile",
+		"CAS number": "107-16-4"
+	}, {
+		"Chemical formula": "C2H3O2−",
+		"Synonyms": "acetate ion",
+		"CAS number": "71-50-1"
+	}, {
+		"Chemical formula": "C2H4",
+		"Synonyms": "ethylene",
+		"CAS number": "74-85-1"
+	}, {
+		"Chemical formula": "C2H4Cl2",
+		"Synonyms": "ethylene dichloride",
+		"CAS number": "107-06-2"
+	}, {
+		"Chemical formula": "C2H4N4",
+		"Synonyms": "3-amino-1,2,4-triazole",
+		"CAS number": "61-82-5"
+	}, {
+		"Chemical formula": "C2H4O",
+		"Synonyms": "ethylene oxide",
+		"CAS number": "75-21-8"
+	}, {
+		"Chemical formula": "C2H4O2",
+		"Synonyms": "acetic acid",
+		"CAS number": "64-19-7"
+	}, {
+		"Chemical formula": "C2H5Br",
+		"Synonyms": "bromoethane",
+		"CAS number": "74-96-4"
+	}, {
+		"Chemical formula": "C2H5NH2",
+		"Synonyms": "ethylamine",
+		"CAS number": "75-04-7"
+	}, {
+		"Chemical formula": "C2H5NO2",
+		"Synonyms": "glycine  Gly",
+		"CAS number": "56-40-6"
+	}, {
+		"Chemical formula": "C2H5O−",
+		"Synonyms": "ethoxide ion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C2H5OH",
+		"Synonyms": "ethanol  ethyl alcohol",
+		"CAS number": "64-17-5"
+	}, {
+		"Chemical formula": "(C2H5)2NH",
+		"Synonyms": "diethylamine",
+		"CAS number": "109-89-7"
+	}, {
+		"Chemical formula": "C2H5OCs",
+		"Synonyms": "caesium ethoxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C2H5OK",
+		"Synonyms": "potassium ethoxide",
+		"CAS number": "917-58-8"
+	}, {
+		"Chemical formula": "C2H5ONa",
+		"Synonyms": "sodium ethoxide",
+		"CAS number": "141-52-6"
+	}, {
+		"Chemical formula": "C2H5ORb",
+		"Synonyms": "rubidium ethoxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C2H6",
+		"Synonyms": "ethane",
+		"CAS number": "74-84-0"
+	}, {
+		"Chemical formula": "C2H6OS",
+		"Synonyms": "dimethyl sulfoxide  DMSO",
+		"CAS number": "67-68-5"
+	}, {
+		"Chemical formula": "C2H7NO",
+		"Synonyms": "ethanolamine",
+		"CAS number": "141-43-5"
+	}, {
+		"Chemical formula": "C2H7NO2",
+		"Synonyms": "ammonium acetate",
+		"CAS number": "631-61-8"
+	}, {
+		"Chemical formula": "C2H7NO3S",
+		"Synonyms": "taurine",
+		"CAS number": "107-35-7"
+	}, {
+		"Chemical formula": "C2O42−",
+		"Synonyms": "oxalate ion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C3H3O4−",
+		"Synonyms": "malonate ion",
+		"CAS number": "156-80-9"
+	}, {
+		"Chemical formula": "C3HN",
+		"Synonyms": "cyanopolyyne",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C3H3N",
+		"Synonyms": "azete",
+		"CAS number": "287-24-1"
+	}, {
+		"Chemical formula": "C3H4N2",
+		"Synonyms": "imidazole",
+		"CAS number": "288-32-4"
+	}, {
+		"Chemical formula": "C3H4N2S",
+		"Synonyms": "aminothiazole",
+		"CAS number": "96-50-4"
+	}, {
+		"Chemical formula": "C3H4O3",
+		"Synonyms": "pyruvic acid",
+		"CAS number": "127-17-3"
+	}, {
+		"Chemical formula": "C3H4O4",
+		"Synonyms": "malonic acid",
+		"CAS number": "141-82-2"
+	}, {
+		"Chemical formula": "C3H5NO",
+		"Synonyms": "acrylamide",
+		"CAS number": "79-06-1"
+	}, {
+		"Chemical formula": "C3H5N3",
+		"Synonyms": "3-amino-1H-pyrazole",
+		"CAS number": "1820-80-0"
+	}, {
+		"Chemical formula": "C3H5N3O9",
+		"Synonyms": "nitroglycerine",
+		"CAS number": "55-63-0"
+	}, {
+		"Chemical formula": "C3H6",
+		"Synonyms": "cyclopropane",
+		"CAS number": "75-19-4"
+	}, {
+		"Chemical formula": "C3H6O2",
+		"Synonyms": "ethyl formate",
+		"CAS number": "109-94-4"
+	}, {
+		"Chemical formula": "C3H6O2S",
+		"Synonyms": "2-Mercaptopropionic acid",
+		"CAS number": "79-42-5"
+	}, {
+		"Chemical formula": "C3H6O2S",
+		"Synonyms": "3-Mercaptopropionic acid",
+		"CAS number": "107-96-0"
+	}, {
+		"Chemical formula": "C3H7N",
+		"Synonyms": "azetidine",
+		"CAS number": "503-29-7"
+	}, {
+		"Chemical formula": "C3H7NO2",
+		"Synonyms": "α-alanine",
+		"CAS number": "56-41-7"
+	}, {
+		"Chemical formula": "C3H7NO2S",
+		"Synonyms": "cysteine  Cys",
+		"CAS number": "52-90-4"
+	}, {
+		"Chemical formula": "C3H7NO3",
+		"Synonyms": "serine  Ser",
+		"CAS number": "56-45-1"
+	}, {
+		"Chemical formula": "C3H8",
+		"Synonyms": "propane",
+		"CAS number": "74-98-6"
+	}, {
+		"Chemical formula": "C3H8NO5P",
+		"Synonyms": "glyphosate",
+		"CAS number": "1071-83-6"
+	}, {
+		"Chemical formula": "C3H8O",
+		"Synonyms": "propanol  1-propanol",
+		"CAS number": "71-23-8"
+	}, {
+		"Chemical formula": "C3H8O2",
+		"Synonyms": "propylene glycol",
+		"CAS number": "57-55-6"
+	}, {
+		"Chemical formula": "C3H8O2",
+		"Synonyms": "1,3-propanediol",
+		"CAS number": "504-63-2"
+	}, {
+		"Chemical formula": "C3H8O3",
+		"Synonyms": "glycerol",
+		"CAS number": "56-81-5"
+	}, {
+		"Chemical formula": "C3H9N3",
+		"Synonyms": "1,3,5-triazinane",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C3N3(OH)3",
+		"Synonyms": "cyanuric acid",
+		"CAS number": "108-80-5"
+	}, {
+		"Chemical formula": "C3N12",
+		"Synonyms": "cyanuric triazide",
+		"CAS number": "5637-83-2"
+	}, {
+		"Chemical formula": "C4HCl2FN2",
+		"Synonyms": "2,6-dichloro-5-fluoroacil",
+		"CAS number": "2927-71-1"
+	}, {
+		"Chemical formula": "C4H2",
+		"Synonyms": "diacetylene",
+		"CAS number": "460-12-8"
+	}, {
+		"Chemical formula": "C4I2",
+		"Synonyms": "diiodobutadiyne",
+		"CAS number": "53214-97-4"
+	}, {
+		"Chemical formula": "C4H2BrClN2",
+		"Synonyms": "5-bromo-2-chloropyrimidine",
+		"CAS number": "32779-36-5"
+	}, {
+		"Chemical formula": "C4H2Cl2N2",
+		"Synonyms": "2,4-dichloropyrimidine",
+		"CAS number": "3934-20-1"
+	}, {
+		"Chemical formula": "C4H3Cl2N3",
+		"Synonyms": "2-amino-4,6-dichloropyrimidine",
+		"CAS number": "56-05-3"
+	}, {
+		"Chemical formula": "C4H3FN2O2",
+		"Synonyms": "fluorouracil",
+		"CAS number": "51-21-8"
+	}, {
+		"Chemical formula": "C4H4",
+		"Synonyms": "vinylacetylene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H4FN3O",
+		"Synonyms": "flucytosine",
+		"CAS number": "2022-85-7"
+	}, {
+		"Chemical formula": "C4H4N2O2",
+		"Synonyms": "uracil",
+		"CAS number": "66-22-8"
+	}, {
+		"Chemical formula": "C4H4N4",
+		"Synonyms": "diaminomaleonitrile",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H4N4",
+		"Synonyms": "3-aminopyrazole-4-carbonitrile",
+		"CAS number": "16617-46-2"
+	}, {
+		"Chemical formula": "C4H4N4",
+		"Synonyms": "1,3,5,7-tetrazocine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H4O",
+		"Synonyms": "furan",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H5N3O",
+		"Synonyms": "cytosine",
+		"CAS number": "71-30-7"
+	}, {
+		"Chemical formula": "C4H6N2",
+		"Synonyms": "fomepizole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6N2",
+		"Synonyms": "1-methylimidazole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6N2",
+		"Synonyms": "4-methylimidazole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6N2S",
+		"Synonyms": "methimazole",
+		"CAS number": "60-56-0"
+	}, {
+		"Chemical formula": "C4H6N4O",
+		"Synonyms": "2,4-diamino-6-hydroxypyrimidine",
+		"CAS number": "56-06-4"
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "1,4-Butynediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "gamma-Butyrolactone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "crotonic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "diacetyl",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "diepoxybutane",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "1,4-Dioxene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "isocrotonic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "methacrylic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "methyl acrylate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "succinaldehyde",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O2",
+		"Synonyms": "vinyl acetate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H6O4",
+		"Synonyms": "succinic acid",
+		"CAS number": "110-15-6"
+	}, {
+		"Chemical formula": "C4H7BrO2",
+		"Synonyms": "2-bromobutyric acid",
+		"CAS number": "80-58-0"
+	}, {
+		"Chemical formula": "C4H7KO3",
+		"Synonyms": "potassium oxybate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H7NaO3",
+		"Synonyms": "sodium oxybate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H7NO2",
+		"Synonyms": "1-Aminocyclopropanecarboxylic acid",
+		"CAS number": "22059-21-8"
+	}, {
+		"Chemical formula": "C4H7NO3",
+		"Synonyms": "aceturic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H7NO4",
+		"Synonyms": "aspartic acid  Asp",
+		"CAS number": "56-84-8"
+	}, {
+		"Chemical formula": "C4H8",
+		"Synonyms": "cyclobutane",
+		"CAS number": "287-23-0"
+	}, {
+		"Chemical formula": "C4H8N2O3",
+		"Synonyms": "asparagine  Asn",
+		"CAS number": "70-47-3"
+	}, {
+		"Chemical formula": "C4H8O",
+		"Synonyms": "tetrahydrofuran  THF",
+		"CAS number": "109-99-9"
+	}, {
+		"Chemical formula": "C4H8O2",
+		"Synonyms": "ethyl acetate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H8O3",
+		"Synonyms": "gamma-Hydroxybutyric acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H9Li",
+		"Synonyms": "n-butyllithium",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H9NO2",
+		"Synonyms": "γ-aminobutyric acid",
+		"CAS number": "56-12-2"
+	}, {
+		"Chemical formula": "C4H9NO3",
+		"Synonyms": "threonine  Thr",
+		"CAS number": "72-19-5"
+	}, {
+		"Chemical formula": "C4H9OH",
+		"Synonyms": "butyl alcohol",
+		"CAS number": "71-36-3"
+	}, {
+		"Chemical formula": "C4H10",
+		"Synonyms": "butane",
+		"CAS number": "106-97-8"
+	}, {
+		"Chemical formula": "C4H10O",
+		"Synonyms": "diethyl ether",
+		"CAS number": "60-29-7"
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "1,2-Butanediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "1,3-Butanediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "1,4-Butanediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "2,3-Butanediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "tert-Butyl hydroperoxide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "Dimethoxyethane",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "2-Ethoxyethanol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O2",
+		"Synonyms": "1-Methoxy-2-propanol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H10O3",
+		"Synonyms": "diethylene glycol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C4H11NO2",
+		"Synonyms": "diethanolamine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H3BrN2O2",
+		"Synonyms": "2-bromo-5-nitropyridine",
+		"CAS number": "4487-59-6"
+	}, {
+		"Chemical formula": "C5H3Br2N",
+		"Synonyms": "3,5-dibromopyridine",
+		"CAS number": "625-92-3"
+	}, {
+		"Chemical formula": "C5H3ClN2O2",
+		"Synonyms": "2-chloro-5-nitropyridine",
+		"CAS number": "4585-45-2"
+	}, {
+		"Chemical formula": "C5H3ClN4",
+		"Synonyms": "6-chloropurine",
+		"CAS number": "87-42-3"
+	}, {
+		"Chemical formula": "C5H4NCOOH",
+		"Synonyms": "niacin",
+		"CAS number": "59-67-6"
+	}, {
+		"Chemical formula": "C5H4N2O2",
+		"Synonyms": "pyrazinoic acid",
+		"CAS number": "98-97-5"
+	}, {
+		"Chemical formula": "C5H4N2O4",
+		"Synonyms": "orotic acid",
+		"CAS number": "65-86-1"
+	}, {
+		"Chemical formula": "C5H4N4O",
+		"Synonyms": "allopurinol",
+		"CAS number": "315-30-0"
+	}, {
+		"Chemical formula": "C5H4N4O2",
+		"Synonyms": "xanthine",
+		"CAS number": "69-89-6"
+	}, {
+		"Chemical formula": "C5H4N4S",
+		"Synonyms": "mercaptopurine",
+		"CAS number": "50-44-2"
+	}, {
+		"Chemical formula": "C5H4O",
+		"Synonyms": "cyclopentadienone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H4O2",
+		"Synonyms": "furfural",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H4O2S",
+		"Synonyms": "b-thiophenic acid",
+		"CAS number": "88-13-1"
+	}, {
+		"Chemical formula": "C5H5−",
+		"Synonyms": "cyclopentadienyl anion",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H5BrN2",
+		"Synonyms": "2-amino-5-bromopyridine",
+		"CAS number": "1072-97-5"
+	}, {
+		"Chemical formula": "C5H5ClN2",
+		"Synonyms": "2-amino-4-chloropyridine",
+		"CAS number": "19798-80-2"
+	}, {
+		"Chemical formula": "C5H5IN2",
+		"Synonyms": "2-amino-5-iodopyridine",
+		"CAS number": "20511-12-0"
+	}, {
+		"Chemical formula": "C5H5N",
+		"Synonyms": "pyridine",
+		"CAS number": "110-86-1"
+	}, {
+		"Chemical formula": "C5H5NO",
+		"Synonyms": "2-pyridone",
+		"CAS number": "142-08-5"
+	}, {
+		"Chemical formula": "C5H5N3O",
+		"Synonyms": "pyrazinamide",
+		"CAS number": "98-96-4"
+	}, {
+		"Chemical formula": "C5H5N3O2",
+		"Synonyms": "2-amino-nitropyridine",
+		"CAS number": "4214-76-0"
+	}, {
+		"Chemical formula": "C5H5N5",
+		"Synonyms": "adenine",
+		"CAS number": "73-24-5"
+	}, {
+		"Chemical formula": "C5H5N5O",
+		"Synonyms": "guanine",
+		"CAS number": "73-40-5"
+	}, {
+		"Chemical formula": "C5H6BNO2",
+		"Synonyms": "3-pyridinylboronic acid",
+		"CAS number": "1692-25-7"
+	}, {
+		"Chemical formula": "C5H6N2",
+		"Synonyms": "1,2-diazepine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H6N2OS",
+		"Synonyms": "methylthiouracil",
+		"CAS number": "56-04-2"
+	}, {
+		"Chemical formula": "C5H6N2O2",
+		"Synonyms": "thymine",
+		"CAS number": "65-71-4"
+	}, {
+		"Chemical formula": "C5H6O",
+		"Synonyms": "cyclopentenone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H6O5",
+		"Synonyms": "α-Ketoglutaric acid",
+		"CAS number": "328-50-7"
+	}, {
+		"Chemical formula": "C5H7N3",
+		"Synonyms": "3,4-diaminopyridine",
+		"CAS number": "54-96-6"
+	}, {
+		"Chemical formula": "C5H8O2",
+		"Synonyms": "gamma-Valerolactone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H9NO2",
+		"Synonyms": "allylglycine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H9NO2",
+		"Synonyms": "proline  Pro",
+		"CAS number": "147-85-3"
+	}, {
+		"Chemical formula": "C5H9NO4",
+		"Synonyms": "glutamic acid  Glu",
+		"CAS number": "56-86-0"
+	}, {
+		"Chemical formula": "C5H10",
+		"Synonyms": "cyclopentane",
+		"CAS number": "287-92-3"
+	}, {
+		"Chemical formula": "C5H10N2O3",
+		"Synonyms": "glutamine  Gln",
+		"CAS number": "56-85-9"
+	}, {
+		"Chemical formula": "C5H10O2",
+		"Synonyms": "pivalic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H10O2",
+		"Synonyms": "valeric acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H10O2",
+		"Synonyms": "3-Methylbutanoic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H10O4",
+		"Synonyms": "deoxyribose",
+		"CAS number": "533-67-5"
+	}, {
+		"Chemical formula": "C5H11NO2",
+		"Synonyms": "valine  Val",
+		"CAS number": "660-88-8"
+	}, {
+		"Chemical formula": "C5H11NO2S",
+		"Synonyms": "methionine  Met",
+		"CAS number": "25343-91-3"
+	}, {
+		"Chemical formula": "C5H12",
+		"Synonyms": "pentane",
+		"CAS number": "109-66-0"
+	}, {
+		"Chemical formula": "C5H12O2",
+		"Synonyms": "neopentyl glycol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H12O4",
+		"Synonyms": "pentaerythritol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C5H12O5",
+		"Synonyms": "xylitol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6F5COOH",
+		"Synonyms": "pentafluorobenzoic acid",
+		"CAS number": "602-94-8"
+	}, {
+		"Chemical formula": "C6H3Br3O",
+		"Synonyms": "2,4,6-Tribromophenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H3Cl3O",
+		"Synonyms": "2,4,6-Trichlorophenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H4BrNO2",
+		"Synonyms": "5-bromonicotinic acid",
+		"CAS number": "20826-04-4"
+	}, {
+		"Chemical formula": "C6H4ClNO2",
+		"Synonyms": "2-chloronicotinic acid",
+		"CAS number": "2942-59-8"
+	}, {
+		"Chemical formula": "C6H4ClN3",
+		"Synonyms": "6-chloro-7-dezapurine",
+		"CAS number": "3680-69-1"
+	}, {
+		"Chemical formula": "C6H4ClNO2",
+		"Synonyms": "6-chloro-2-pyridinecarboxylic acid",
+		"CAS number": "4684-94-0"
+	}, {
+		"Chemical formula": "C6H4N4",
+		"Synonyms": "tricyanoaminopropene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H4O2",
+		"Synonyms": "orthobenzoquinone",
+		"CAS number": "583-63-1"
+	}, {
+		"Chemical formula": "C6H5Br",
+		"Synonyms": "bromobenzene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H5CHO",
+		"Synonyms": "benzaldehyde",
+		"CAS number": "100-52-7"
+	}, {
+		"Chemical formula": "C6H5CH2OH",
+		"Synonyms": "benzyl alcohol",
+		"CAS number": "100-51-6"
+	}, {
+		"Chemical formula": "C6H5Cl",
+		"Synonyms": "chlorobenzene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H5COCl",
+		"Synonyms": "benzoyl chloride",
+		"CAS number": "98-88-4"
+	}, {
+		"Chemical formula": "C6H5COO−",
+		"Synonyms": "benzoate ion",
+		"CAS number": "766-76-7"
+	}, {
+		"Chemical formula": "C6H5COOH",
+		"Synonyms": "benzoic acid",
+		"CAS number": "65-85-0"
+	}, {
+		"Chemical formula": "C6H5F",
+		"Synonyms": "fluorobenzene",
+		"CAS number": "462-06-6"
+	}, {
+		"Chemical formula": "C6H5I",
+		"Synonyms": "iodobenzene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H5NO2",
+		"Synonyms": "picolinic acid",
+		"CAS number": "98-98-6"
+	}, {
+		"Chemical formula": "C6H5NO3",
+		"Synonyms": "4-nitrophenol",
+		"CAS number": "100-02-7"
+	}, {
+		"Chemical formula": "C6H5OH",
+		"Synonyms": "phenol",
+		"CAS number": "108-95-2"
+	}, {
+		"Chemical formula": "C6H5O73−",
+		"Synonyms": "citrate ion",
+		"CAS number": "126-44-3"
+	}, {
+		"Chemical formula": "(C6H5)4Ge",
+		"Synonyms": "tetraphenylgermane",
+		"CAS number": "1048-05-1"
+	}, {
+		"Chemical formula": "(C6H5)2O",
+		"Synonyms": "diphenyl ether",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "(C6H5)3N",
+		"Synonyms": "triphenylamine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "(C6H5)3P",
+		"Synonyms": "triphenylphosphine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H6",
+		"Synonyms": "benzene",
+		"CAS number": "71-43-2"
+	}, {
+		"Chemical formula": "C6H6BClO2",
+		"Synonyms": "4-chlorophenylboronic acid",
+		"CAS number": "1679-18-1"
+	}, {
+		"Chemical formula": "C6H6BFO2",
+		"Synonyms": "4-fluorophenylboronic acid",
+		"CAS number": "1765-93-1"
+	}, {
+		"Chemical formula": "C6H6IN",
+		"Synonyms": "4-iodoaniline",
+		"CAS number": "540-37-4"
+	}, {
+		"Chemical formula": "C6H6N2O",
+		"Synonyms": "nicotinamide",
+		"CAS number": "98-92-0"
+	}, {
+		"Chemical formula": "C6H6N2O2",
+		"Synonyms": "6-aminonicotinic acid",
+		"CAS number": "3167-49-5"
+	}, {
+		"Chemical formula": "C6H6O",
+		"Synonyms": "phenol",
+		"CAS number": "108-95-2"
+	}, {
+		"Chemical formula": "C6H6O2",
+		"Synonyms": "catechol",
+		"CAS number": "120-80-9"
+	}, {
+		"Chemical formula": "C6H6O3",
+		"Synonyms": "hydroxymethylfurfural",
+		"CAS number": "67-47-0"
+	}, {
+		"Chemical formula": "C6H7BO2",
+		"Synonyms": "phenylboronic acid",
+		"CAS number": "98-80-6"
+	}, {
+		"Chemical formula": "C6H7CsO6",
+		"Synonyms": "caesium ascorbate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H7KO6",
+		"Synonyms": "potassium ascorbate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H7LiO6",
+		"Synonyms": "lithium ascorbate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H7N3O",
+		"Synonyms": "isoniazid",
+		"CAS number": "54-85-3"
+	}, {
+		"Chemical formula": "C6H7NaO6",
+		"Synonyms": "sodium ascorbate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H7RbO6",
+		"Synonyms": "rubidium ascorbate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H8N2",
+		"Synonyms": "2-amino-3-methylpyridine",
+		"CAS number": "1603-40-3"
+	}, {
+		"Chemical formula": "C6H8N2O2S",
+		"Synonyms": "ethyl 2-aminothiazole-4-carboxylate",
+		"CAS number": "5398-36-7"
+	}, {
+		"Chemical formula": "C6H8O7",
+		"Synonyms": "citric acid",
+		"CAS number": "77-92-9"
+	}, {
+		"Chemical formula": "C6H9N3O2",
+		"Synonyms": "histidine  His",
+		"CAS number": "71-00-1"
+	}, {
+		"Chemical formula": "C6H9N3O3",
+		"Synonyms": "metronidazole",
+		"CAS number": "443-48-1"
+	}, {
+		"Chemical formula": "C6H10O3",
+		"Synonyms": "4-acetylbutyric acid",
+		"CAS number": "3128-06-1"
+	}, {
+		"Chemical formula": "C6H10O4",
+		"Synonyms": "aceburic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H10O4",
+		"Synonyms": "adipic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H10O4",
+		"Synonyms": "conduritol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H10O4",
+		"Synonyms": "dianhydrohexitol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H10O4",
+		"Synonyms": "ethylidene diacetate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H10O4",
+		"Synonyms": "glucal",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H11NO2",
+		"Synonyms": "cycloleucine",
+		"CAS number": "52-52-8"
+	}, {
+		"Chemical formula": "C6H12",
+		"Synonyms": "cyclohexane",
+		"CAS number": "110-82-7"
+	}, {
+		"Chemical formula": "C6H12O3",
+		"Synonyms": "4-Hydroxy-4-methylpentanoic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H12O6",
+		"Synonyms": "fructose",
+		"CAS number": "7660-25-5"
+	}, {
+		"Chemical formula": "C6H13NO",
+		"Synonyms": "N-ethylmorpholine",
+		"CAS number": "1119-29-5"
+	}, {
+		"Chemical formula": "C6H13NO2",
+		"Synonyms": "aminocaproic acid",
+		"CAS number": "60-32-2"
+	}, {
+		"Chemical formula": "C6H14",
+		"Synonyms": "hexane",
+		"CAS number": "110-54-3"
+	}, {
+		"Chemical formula": "C6H14N2O2",
+		"Synonyms": "lysine  Lys",
+		"CAS number": "56-87-1"
+	}, {
+		"Chemical formula": "C6H14N4O2",
+		"Synonyms": "arginine  Arg",
+		"CAS number": "74-79-3"
+	}, {
+		"Chemical formula": "C6H14O2",
+		"Synonyms": "1,6-hexanediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H14O3",
+		"Synonyms": "dipropylene glycol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H14O3",
+		"Synonyms": "trimethylolpropane",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H14O4",
+		"Synonyms": "triethylene glycol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6H15NO3",
+		"Synonyms": "triethanolamine",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C6N4",
+		"Synonyms": "tetracyanoethylene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H5Br3O",
+		"Synonyms": "2,4,6-tribromoanisole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H5Cl3O",
+		"Synonyms": "2,4,6-trichloroanisole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H5F3O",
+		"Synonyms": "2,4,6-trifluoroanisole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H5FO2",
+		"Synonyms": "2-fluorobenzoic acid",
+		"CAS number": "445-29-4"
+	}, {
+		"Chemical formula": "C7H5FO2",
+		"Synonyms": "3-Fluorobenzoic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H5FO2",
+		"Synonyms": "4-fluorobenzoic acid",
+		"CAS number": "456-22-4"
+	}, {
+		"Chemical formula": "C7H5NO4",
+		"Synonyms": "quinolinic acid",
+		"CAS number": "89-00-9"
+	}, {
+		"Chemical formula": "C7H5NS2",
+		"Synonyms": "2-mercaptobenzothiazole",
+		"CAS number": "149-30-4"
+	}, {
+		"Chemical formula": "C7H5N3O2",
+		"Synonyms": "7-nitroindazole",
+		"CAS number": "2942-42-9"
+	}, {
+		"Chemical formula": "C7H6N2",
+		"Synonyms": "7-azaindole",
+		"CAS number": "271-23-6"
+	}, {
+		"Chemical formula": "C7H6O",
+		"Synonyms": "tropone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H6O2",
+		"Synonyms": "benzoic acid",
+		"CAS number": "65-85-0"
+	}, {
+		"Chemical formula": "C7H6O3",
+		"Synonyms": "salicylic acid",
+		"CAS number": "69-72-7"
+	}, {
+		"Chemical formula": "C7H6O4",
+		"Synonyms": "protocatechuic acid",
+		"CAS number": "99-50-3"
+	}, {
+		"Chemical formula": "C7H6O5",
+		"Synonyms": "gallic acid",
+		"CAS number": "149-91-7"
+	}, {
+		"Chemical formula": "C7H7BO4",
+		"Synonyms": "4-carboxyphenylboronic acid",
+		"CAS number": "14047-29-1"
+	}, {
+		"Chemical formula": "C7H7NO2",
+		"Synonyms": "4-aminobenzoic acid",
+		"CAS number": "150-13-0"
+	}, {
+		"Chemical formula": "C7H7NO3",
+		"Synonyms": "mesalazine",
+		"CAS number": "89-57-6"
+	}, {
+		"Chemical formula": "C7H7N3",
+		"Synonyms": "benomyl metabolite",
+		"CAS number": "934-32-7"
+	}, {
+		"Chemical formula": "C7H8",
+		"Synonyms": "toluene",
+		"CAS number": "108-88-3"
+	}, {
+		"Chemical formula": "C7H8ClN3O4S2",
+		"Synonyms": "hydrochlorothiazide",
+		"CAS number": "58-93-5"
+	}, {
+		"Chemical formula": "C7H8N4O2",
+		"Synonyms": "theophylline",
+		"CAS number": "58-55-9"
+	}, {
+		"Chemical formula": "C7H9BO2",
+		"Synonyms": "4-methylphenylboronic acid",
+		"CAS number": "5720-05-8"
+	}, {
+		"Chemical formula": "C7H9BO3",
+		"Synonyms": "4-boronoanisole",
+		"CAS number": "5720-07-0"
+	}, {
+		"Chemical formula": "C7H10N2",
+		"Synonyms": "4-dimethylaminopyridine",
+		"CAS number": "1122-58-3"
+	}, {
+		"Chemical formula": "C7H11NO5",
+		"Synonyms": "N-Acetylglutamic acid",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H12O4",
+		"Synonyms": "diethyl malonate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H12N2O4",
+		"Synonyms": "aceglutamide",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H14O6",
+		"Synonyms": "bornesitol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C7H16",
+		"Synonyms": "heptane",
+		"CAS number": "142-82-5"
+	}, {
+		"Chemical formula": "C8H5F3N2OS",
+		"Synonyms": "riluzole",
+		"CAS number": "1744-22-5"
+	}, {
+		"Chemical formula": "C8H5NO2",
+		"Synonyms": "isatin",
+		"CAS number": "91-56-5"
+	}, {
+		"Chemical formula": "C8H6BrN",
+		"Synonyms": "5-bromoindole",
+		"CAS number": "10075-50-0"
+	}, {
+		"Chemical formula": "C8H6ClN",
+		"Synonyms": "4-chloroindole",
+		"CAS number": "25235-85-2"
+	}, {
+		"Chemical formula": "C8H6Cl2O3",
+		"Synonyms": "2,4-dichlorophenoxyacetic acid",
+		"CAS number": "94-75-7"
+	}, {
+		"Chemical formula": "C8H6N2O",
+		"Synonyms": "4-quinazolinol",
+		"CAS number": "491-36-1"
+	}, {
+		"Chemical formula": "C8H6N2O2",
+		"Synonyms": "indazolium-3-carboxylate",
+		"CAS number": "4498-67-3"
+	}, {
+		"Chemical formula": "C8H7N",
+		"Synonyms": "indole",
+		"CAS number": "120-72-9"
+	}, {
+		"Chemical formula": "C8H7NO",
+		"Synonyms": "indol-4-ol",
+		"CAS number": "2380-94-1"
+	}, {
+		"Chemical formula": "C8H8",
+		"Synonyms": "cubane",
+		"CAS number": "277-10-1"
+	}, {
+		"Chemical formula": "C8H8N2OS",
+		"Synonyms": "2-amino-6-methoxybenzothiazole",
+		"CAS number": "1747-60-0"
+	}, {
+		"Chemical formula": "C8H8O3",
+		"Synonyms": "4-hydroxyphenylacetic acid",
+		"CAS number": "156-38-7"
+	}, {
+		"Chemical formula": "C8H8O4",
+		"Synonyms": "vanillic acid",
+		"CAS number": "121-34-6"
+	}, {
+		"Chemical formula": "C8H9NO2",
+		"Synonyms": "acetaminophen",
+		"CAS number": "103-90-2"
+	}, {
+		"Chemical formula": "C8H9NO2",
+		"Synonyms": "aminomethylbenzoic acid",
+		"CAS number": "56-91-7"
+	}, {
+		"Chemical formula": "C8H9NO2",
+		"Synonyms": "hydroxydanaidal",
+		"CAS number": "34199-35-4"
+	}, {
+		"Chemical formula": "C8H9NO2",
+		"Synonyms": "methyl anthranilate",
+		"CAS number": "134-20-3"
+	}, {
+		"Chemical formula": "C8H10N4O2",
+		"Synonyms": "caffeine",
+		"CAS number": "58-08-2"
+	}, {
+		"Chemical formula": "C8H11NO",
+		"Synonyms": "tyramine",
+		"CAS number": "51-67-2"
+	}, {
+		"Chemical formula": "C8H11N5O3",
+		"Synonyms": "aciclovir",
+		"CAS number": "59277-89-3"
+	}, {
+		"Chemical formula": "C8H16O2",
+		"Synonyms": "cyclohexanedimethanol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C8H16O6",
+		"Synonyms": "pinpollitol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C8H16O6",
+		"Synonyms": "viscumitol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C8H16O6",
+		"Synonyms": "Eleutheroside C  ethyl galactoside",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C8H18",
+		"Synonyms": "octane",
+		"CAS number": "111-65-9"
+	}, {
+		"Chemical formula": "C9H6BrN",
+		"Synonyms": "4-bromoisoquinoline",
+		"CAS number": "1532-97-4"
+	}, {
+		"Chemical formula": "C9H6N2",
+		"Synonyms": "5-cyanoindole",
+		"CAS number": "15861-24-2"
+	}, {
+		"Chemical formula": "C9H6O3",
+		"Synonyms": "umbelliferone",
+		"CAS number": "93-35-6"
+	}, {
+		"Chemical formula": "C9H6OS",
+		"Synonyms": "thiochromone",
+		"CAS number": "491-39-4"
+	}, {
+		"Chemical formula": "C9H7NO",
+		"Synonyms": "8-hydroxyquinoline",
+		"CAS number": "148-24-3"
+	}, {
+		"Chemical formula": "C9H7NO2",
+		"Synonyms": "indole-2-carboxylic acid",
+		"CAS number": "1477-50-5"
+	}, {
+		"Chemical formula": "C9H8N2",
+		"Synonyms": "5-aminoisoquinoline",
+		"CAS number": "1125-60-6"
+	}, {
+		"Chemical formula": "C9H8O2",
+		"Synonyms": "cinnamic acid",
+		"CAS number": "140-10-3"
+	}, {
+		"Chemical formula": "C9H8O3",
+		"Synonyms": "o-coumaric acid",
+		"CAS number": "614-60-8"
+	}, {
+		"Chemical formula": "C9H8O4",
+		"Synonyms": "aspirin  acetylsalicylic acid",
+		"CAS number": "50-78-2"
+	}, {
+		"Chemical formula": "C9H9N",
+		"Synonyms": "methylketol",
+		"CAS number": "95-20-5"
+	}, {
+		"Chemical formula": "C9H9NO",
+		"Synonyms": "4-methoxyindole",
+		"CAS number": "4837-90-5"
+	}, {
+		"Chemical formula": "C9H9NO3",
+		"Synonyms": "hippuric acid",
+		"CAS number": "495-69-2"
+	}, {
+		"Chemical formula": "C9H10O",
+		"Synonyms": "chavicol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C9H10O3",
+		"Synonyms": "paeonol",
+		"CAS number": "552-41-0"
+	}, {
+		"Chemical formula": "C9H11NO2",
+		"Synonyms": "phenylanine  LPA",
+		"CAS number": "63-91-2"
+	}, {
+		"Chemical formula": "C9H10O",
+		"Synonyms": "cinnamyl alcohol",
+		"CAS number": "104-54-1"
+	}, {
+		"Chemical formula": "C9H11NO3",
+		"Synonyms": "tyrosine  Tyr",
+		"CAS number": "31330-59-3"
+	}, {
+		"Chemical formula": "C9H11NO4",
+		"Synonyms": "L-DOPA",
+		"CAS number": "59-92-7"
+	}, {
+		"Chemical formula": "C9H17NO2",
+		"Synonyms": "gabapentin",
+		"CAS number": "60142-96-3"
+	}, {
+		"Chemical formula": "C9H18N2O2",
+		"Synonyms": "1-boc-piperazine",
+		"CAS number": "57260-71-6"
+	}, {
+		"Chemical formula": "C9H20",
+		"Synonyms": "nonane",
+		"CAS number": "111-84-2"
+	}, {
+		"Chemical formula": "C10H7NO2",
+		"Synonyms": "quinaldic acid",
+		"CAS number": "93-10-7"
+	}, {
+		"Chemical formula": "C10H7N3S",
+		"Synonyms": "tiabendazole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H8",
+		"Synonyms": "azulene",
+		"CAS number": "275-51-4"
+	}, {
+		"Chemical formula": "C10H8",
+		"Synonyms": "naphthalene",
+		"CAS number": "91-20-3"
+	}, {
+		"Chemical formula": "C10H8O3",
+		"Synonyms": "hymecromone",
+		"CAS number": "90-33-5"
+	}, {
+		"Chemical formula": "C10H9NO2",
+		"Synonyms": "indole-3-acetic acid",
+		"CAS number": "87-51-4"
+	}, {
+		"Chemical formula": "C10H9N5O",
+		"Synonyms": "kinetin",
+		"CAS number": "525-79-1"
+	}, {
+		"Chemical formula": "C10H9NO2",
+		"Synonyms": "5-methoxyindole-3-carboxaldehyde",
+		"CAS number": "10601-19-1"
+	}, {
+		"Chemical formula": "C10H10N2O",
+		"Synonyms": "edaravone",
+		"CAS number": "89-25-8"
+	}, {
+		"Chemical formula": "C10H10O2",
+		"Synonyms": "safrole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H10O4",
+		"Synonyms": "ferulic acid",
+		"CAS number": "1135-24-6"
+	}, {
+		"Chemical formula": "C10H11N3O3S",
+		"Synonyms": "sulfamethoxazole",
+		"CAS number": "723-46-6"
+	}, {
+		"Chemical formula": "C10H12N2",
+		"Synonyms": "tryptamine",
+		"CAS number": "61-54-1"
+	}, {
+		"Chemical formula": "C10H12O",
+		"Synonyms": "anethole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H12O",
+		"Synonyms": "estragole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H12O2",
+		"Synonyms": "hinokitiol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H12O2",
+		"Synonyms": "eugenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H12O2",
+		"Synonyms": "isoeugenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H12O2",
+		"Synonyms": "pseudoisoeugenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H12O3",
+		"Synonyms": "coniferyl alcohol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H13N5O4",
+		"Synonyms": "adenosine",
+		"CAS number": "58-61-7"
+	}, {
+		"Chemical formula": "C10H14O",
+		"Synonyms": "mentha spicata herb oil",
+		"CAS number": "8008-79-5"
+	}, {
+		"Chemical formula": "C10H15ON",
+		"Synonyms": "ephedrine",
+		"CAS number": "56370-30-0"
+	}, {
+		"Chemical formula": "C10H16",
+		"Synonyms": "limonene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C10H16O",
+		"Synonyms": "camphor",
+		"CAS number": "76-22-2"
+	}, {
+		"Chemical formula": "C10H17NO3",
+		"Synonyms": "boc-4-piperidone",
+		"CAS number": "79099-07-3"
+	}, {
+		"Chemical formula": "C10H19NO3",
+		"Synonyms": "1-boc-4-piperidinol",
+		"CAS number": "109384-19-2"
+	}, {
+		"Chemical formula": "C10H20N2O2",
+		"Synonyms": "boc-4-aminopiperidine",
+		"CAS number": "87120-72-7"
+	}, {
+		"Chemical formula": "C10H22",
+		"Synonyms": "decane",
+		"CAS number": "124-18-5"
+	}, {
+		"Chemical formula": "C11H8O2",
+		"Synonyms": "menadione",
+		"CAS number": "58-27-5"
+	}, {
+		"Chemical formula": "C11H11NO2",
+		"Synonyms": "3-indolepropionic acid",
+		"CAS number": "830-96-6"
+	}, {
+		"Chemical formula": "C11H12N2O2",
+		"Synonyms": "tryptophan  Trp",
+		"CAS number": "73-22-3"
+	}, {
+		"Chemical formula": "C11H12O3",
+		"Synonyms": "myristicin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C11H14N2O",
+		"Synonyms": "5-methoxytryptamine",
+		"CAS number": "608-07-1"
+	}, {
+		"Chemical formula": "C11H14O2",
+		"Synonyms": "methyl eugenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C11H14O2",
+		"Synonyms": "methyl isoeugenol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C11H19NO4",
+		"Synonyms": "boc-isonipecotic acid",
+		"CAS number": "84358-13-4"
+	}, {
+		"Chemical formula": "C11H24",
+		"Synonyms": "undecane",
+		"CAS number": "1120-21-4"
+	}, {
+		"Chemical formula": "C12H4N4",
+		"Synonyms": "tetracyanoquinodimethane",
+		"CAS number": "1518-16-7"
+	}, {
+		"Chemical formula": "C12H8O4",
+		"Synonyms": "methoxsalen",
+		"CAS number": "298-81-7"
+	}, {
+		"Chemical formula": "C12H10",
+		"Synonyms": "biphenyl",
+		"CAS number": "92-52-4"
+	}, {
+		"Chemical formula": "C12H10ClN2O5S",
+		"Synonyms": "furosemide",
+		"CAS number": "54-31-9"
+	}, {
+		"Chemical formula": "C12H11N5",
+		"Synonyms": "6-benzylaminopurine",
+		"CAS number": "1214-39-7"
+	}, {
+		"Chemical formula": "C12H11N7",
+		"Synonyms": "triamterene",
+		"CAS number": "396-01-0"
+	}, {
+		"Chemical formula": "C12H13NO2",
+		"Synonyms": "indole-3-butyric acid",
+		"CAS number": "133-32-4"
+	}, {
+		"Chemical formula": "C12H14CaO12",
+		"Synonyms": "calcium alginate",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H14O4",
+		"Synonyms": "apiole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H14O4",
+		"Synonyms": "dillapiole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H15NO",
+		"Synonyms": "1-benzyl-4-piperidone",
+		"CAS number": "3612-20-2"
+	}, {
+		"Chemical formula": "C12H16N2",
+		"Synonyms": "N,N-Dimethyltryptamine",
+		"CAS number": "61-50-7"
+	}, {
+		"Chemical formula": "C12H16O3",
+		"Synonyms": "asarone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H16O3",
+		"Synonyms": "elemicin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H16O3",
+		"Synonyms": "isoelemicin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H16O3",
+		"Synonyms": "oudenone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H16O4",
+		"Synonyms": "2,4,5-Trimethoxypropiophenone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C12H16O7",
+		"Synonyms": "arbutin",
+		"CAS number": "497-76-7"
+	}, {
+		"Chemical formula": "C12H18O",
+		"Synonyms": "propofol",
+		"CAS number": "2078-54-8"
+	}, {
+		"Chemical formula": "C12H22O11",
+		"Synonyms": "maltose",
+		"CAS number": "69-79-4"
+	}, {
+		"Chemical formula": "C12H26",
+		"Synonyms": "dodecane",
+		"CAS number": "112-40-3"
+	}, {
+		"Chemical formula": "C13H10O",
+		"Synonyms": "benzophenone",
+		"CAS number": "119-61-9"
+	}, {
+		"Chemical formula": "C13H12F2N6O",
+		"Synonyms": "fluconazole",
+		"CAS number": "86386-73-4"
+	}, {
+		"Chemical formula": "C13H12O",
+		"Synonyms": "β-ionone",
+		"CAS number": "2484-16-4"
+	}, {
+		"Chemical formula": "C13H12O2",
+		"Synonyms": "monobenzone",
+		"CAS number": "103-16-2"
+	}, {
+		"Chemical formula": "C13H14N2O",
+		"Synonyms": "harmaline",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C13H16N2O2",
+		"Synonyms": "melatonin",
+		"CAS number": "73-31-4"
+	}, {
+		"Chemical formula": "C13H18O2",
+		"Synonyms": "ibuprofen",
+		"CAS number": "15687-27-1"
+	}, {
+		"Chemical formula": "C13H28",
+		"Synonyms": "tridecane",
+		"CAS number": "629-50-5"
+	}, {
+		"Chemical formula": "C14H10",
+		"Synonyms": "anthracene",
+		"CAS number": "120-12-7"
+	}, {
+		"Chemical formula": "C14H10",
+		"Synonyms": "phenanthrene",
+		"CAS number": "85-01-8"
+	}, {
+		"Chemical formula": "C14H10O14",
+		"Synonyms": "benzoyl peroxide",
+		"CAS number": "94-36-0"
+	}, {
+		"Chemical formula": "C14H12O3",
+		"Synonyms": "resveratrol",
+		"CAS number": "501-36-0"
+	}, {
+		"Chemical formula": "C14H14Cl2N2O",
+		"Synonyms": "enilconazole",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C14H18N2O5",
+		"Synonyms": "aspartame",
+		"CAS number": "81-14-1"
+	}, {
+		"Chemical formula": "C14H18N4O3",
+		"Synonyms": "trimethoprim",
+		"CAS number": "738-70-5"
+	}, {
+		"Chemical formula": "C14H30",
+		"Synonyms": "tetradecane",
+		"CAS number": "629-59-4"
+	}, {
+		"Chemical formula": "C15H10O4",
+		"Synonyms": "daidzein",
+		"CAS number": "486-66-8"
+	}, {
+		"Chemical formula": "C15H10O5",
+		"Synonyms": "apigenin",
+		"CAS number": "520-36-5"
+	}, {
+		"Chemical formula": "C15H10O6",
+		"Synonyms": "luteolin",
+		"CAS number": "491-70-3"
+	}, {
+		"Chemical formula": "C15H10O7",
+		"Synonyms": "quercetin",
+		"CAS number": "117-39-5"
+	}, {
+		"Chemical formula": "C15H12N2O",
+		"Synonyms": "carbamazepine",
+		"CAS number": "298-46-4"
+	}, {
+		"Chemical formula": "C15H12N2O2",
+		"Synonyms": "phenytoin",
+		"CAS number": "57-41-0"
+	}, {
+		"Chemical formula": "C15H32",
+		"Synonyms": "pentadecane",
+		"CAS number": "629-62-9"
+	}, {
+		"Chemical formula": "C16H14O3",
+		"Synonyms": "ketoprofen",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C16H28N2O6Zn",
+		"Synonyms": "zinc acexamate",
+		"CAS number": "70020-71-2"
+	}, {
+		"Chemical formula": "C16H34",
+		"Synonyms": "hexadecane",
+		"CAS number": "544-76-3"
+	}, {
+		"Chemical formula": "C17H13ClN4",
+		"Synonyms": "alprazolam",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C17H14F3N3O2S",
+		"Synonyms": "celecoxib",
+		"CAS number": "169590-42-5"
+	}, {
+		"Chemical formula": "C17H18N2O6",
+		"Synonyms": "nifedipine",
+		"CAS number": "21829-25-4"
+	}, {
+		"Chemical formula": "C17H19N3O3S",
+		"Synonyms": "omeprazole",
+		"CAS number": "73590-58-6"
+	}, {
+		"Chemical formula": "C17H22O2",
+		"Synonyms": "cicutoxin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C17H22O2",
+		"Synonyms": "oenanthotoxin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C17H24O",
+		"Synonyms": "falcarinol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C17H24O9",
+		"Synonyms": "Eleutheroside B  syringin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C17H36",
+		"Synonyms": "heptadecane",
+		"CAS number": "629-78-7"
+	}, {
+		"Chemical formula": "C18H22O2",
+		"Synonyms": "estrone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C18H24O2",
+		"Synonyms": "estradiol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C18H24O3",
+		"Synonyms": "estriol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C18H24O4",
+		"Synonyms": "estetrol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C18H27NO3",
+		"Synonyms": "capsaicin",
+		"CAS number": "404-86-4"
+	}, {
+		"Chemical formula": "C18H32O2",
+		"Synonyms": "linoleic acid",
+		"CAS number": "60-33-3"
+	}, {
+		"Chemical formula": "C18H36O2",
+		"Synonyms": "stearic acid",
+		"CAS number": "57-11-4"
+	}, {
+		"Chemical formula": "C18H38",
+		"Synonyms": "octadecane",
+		"CAS number": "593-45-3"
+	}, {
+		"Chemical formula": "C19H16ClNO4",
+		"Synonyms": "indometacin",
+		"CAS number": "53-86-1"
+	}, {
+		"Chemical formula": "C19H26O2",
+		"Synonyms": "androstenedione",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C19H28O2",
+		"Synonyms": "dehydroepiandrosterone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C19H28O2",
+		"Synonyms": "testosterone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C19H30O2",
+		"Synonyms": "androstenediol",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C19H30O2",
+		"Synonyms": "dihydrotestosterone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C19H40",
+		"Synonyms": "nonadecane",
+		"CAS number": "629-92-5"
+	}, {
+		"Chemical formula": "C20H24O2N2",
+		"Synonyms": "quinine",
+		"CAS number": "130-95-0"
+	}, {
+		"Chemical formula": "C20H27NO11",
+		"Synonyms": "amygdalin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C20H28O2",
+		"Synonyms": "tretinoin",
+		"CAS number": "302-79-4"
+	}, {
+		"Chemical formula": "C20H32O5",
+		"Synonyms": "prostacyclin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C20H32O5",
+		"Synonyms": "prostaglandin E2",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C20H34O5",
+		"Synonyms": "dinoprost",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C20H42",
+		"Synonyms": "eicosane",
+		"CAS number": "112-95-8"
+	}, {
+		"Chemical formula": "C21H20O6",
+		"Synonyms": "curcumin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C21H30O2",
+		"Synonyms": "progesterone",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C21H36N7O16P3S",
+		"Synonyms": "Coenzyme A",
+		"CAS number": "31416-98-5"
+	}, {
+		"Chemical formula": "C21H30O2",
+		"Synonyms": "tetrahydrocannabinol",
+		"CAS number": "1972-08-3"
+	}, {
+		"Chemical formula": "C22H23ClN2O2",
+		"Synonyms": "loratadine",
+		"CAS number": "79794-75-5"
+	}, {
+		"Chemical formula": "C23H19ClF3NO3",
+		"Synonyms": "cyhalothrin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C30H19NO9",
+		"Synonyms": "Dynemicin A",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C34H46O18",
+		"Synonyms": "Eleutheroside D",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C35H60O6",
+		"Synonyms": "Eleutheroside A",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C40H56",
+		"Synonyms": "lycopene",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C44H69N15O9S",
+		"Synonyms": "adrenorphin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C55H74IN3O21S4",
+		"Synonyms": "calicheamicin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C59H80N4O22S4",
+		"Synonyms": "esperamicin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C62H89CoN13O15P",
+		"Synonyms": "hydroxocobalamin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C63H88CoN14O14P",
+		"Synonyms": "Vitamin B12",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C63H88CoN14O14P",
+		"Synonyms": "cyanocobalamin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C63H91CoN13O14P",
+		"Synonyms": "methylcobalamin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C72H100CoN18O17P",
+		"Synonyms": "adenosylcobalamin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C77H120N18O26S",
+		"Synonyms": "alpha-Endorphin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C83H131N19O27S",
+		"Synonyms": "gamma-Endorphin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C131H200N30O43S2",
+		"Synonyms": "amidorphin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C158H251N39O46S",
+		"Synonyms": "beta-Endorphin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C161H236N42O48",
+		"Synonyms": "leumorphin",
+		"CAS number": ""
+	}, {
+		"Chemical formula": "C164H256Na2O68S2",
+		"Synonyms": "maitotoxin",
+		"CAS number": "59392-53-9"
+	}
+]

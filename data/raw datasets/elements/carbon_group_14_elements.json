@@ -1,0 +1,26 @@
+[{
+		"Z": "6",
+		"Element": "Carbon",
+		"No. of electrons/shell": "2, 4"
+	}, {
+		"Z": "14",
+		"Element": "Silicon",
+		"No. of electrons/shell": "2, 8, 4"
+	}, {
+		"Z": "32",
+		"Element": "Germanium",
+		"No. of electrons/shell": "2, 8, 18, 4"
+	}, {
+		"Z": "50",
+		"Element": "Tin",
+		"No. of electrons/shell": "2, 8, 18, 18, 4"
+	}, {
+		"Z": "82",
+		"Element": "Lead",
+		"No. of electrons/shell": "2, 8, 18, 32, 18, 4"
+	}, {
+		"Z": "114",
+		"Element": "Flerovium",
+		"No. of electrons/shell": "2, 8, 18, 32, 32, 18, 4 (predicted)"
+	}
+]

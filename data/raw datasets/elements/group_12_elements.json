@@ -1,0 +1,52 @@
+[
+	[{
+			"Name": "Melting point",
+			"Zinc": "693 K (420 °C)",
+			"Cadmium": "594 K (321 °C)",
+			"Mercury": "234 K (−39 °C)",
+			"Copernicium": "?"
+		}, {
+			"Name": "Boiling point",
+			"Zinc": "1180 K (907 °C)",
+			"Cadmium": "1040 K (767 °C)",
+			"Mercury": "630 K (357 °C)",
+			"Copernicium": "357+112−108 K (84+112−108 °C)"
+		}, {
+			"Name": "Density",
+			"Zinc": "7.14 g·cm−3",
+			"Cadmium": "8.65 g·cm−3",
+			"Mercury": "13.534 g·cm−3",
+			"Copernicium": "? 23.7 g·cm−3"
+		}, {
+			"Name": "Appearance",
+			"Zinc": "silvery bluish-gray metallic",
+			"Cadmium": "silver-gray",
+			"Mercury": "silvery",
+			"Copernicium": "?"
+		}, {
+			"Name": "Atomic radius",
+			"Zinc": "135 pm",
+			"Cadmium": "155 pm",
+			"Mercury": "150 pm",
+			"Copernicium": "? 147 pm"
+		}
+	],
+	[{
+			"Z": "30",
+			"Element": "zinc",
+			"No. of electrons/shell": "2, 8, 18, 2"
+		}, {
+			"Z": "48",
+			"Element": "cadmium",
+			"No. of electrons/shell": "2, 8, 18, 18, 2"
+		}, {
+			"Z": "80",
+			"Element": "mercury",
+			"No. of electrons/shell": "2, 8, 18, 32, 18, 2"
+		}, {
+			"Z": "112",
+			"Element": "copernicium",
+			"No. of electrons/shell": "2, 8, 18, 32, 32, 18, 2 (predicted)"
+		}
+	]
+]
