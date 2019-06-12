@@ -1,6 +1,6 @@
 <template>
 	<v-container >    
-	<h1>{{ molecule[0].name }}</h1>
+	<h1>{{ molecule[0].formula }}({{ molecule[0].name }})</h1>
 		
 		<v-container fluid grid-list-md>
 			<v-data-iterator
@@ -34,6 +34,10 @@
 										{{ props.item.formula}}
 									</v-list-tile-content>
 								</v-list-tile>
+								<v-list-tile>
+                  <v-list-tile-content>Dot value:</v-list-tile-content>
+                  <v-list-tile-content class="align-end">{{ props.item.dot_val }}</v-list-tile-content>
+                </v-list-tile>
 							</v-list>
 						</v-card>
 					</v-flex>
