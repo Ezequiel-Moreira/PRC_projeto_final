@@ -1,10 +1,9 @@
 <template>
-	<v-container >    
-
-	<h1>{{ period[0].split("p_")[1] }}</h1>
+	<v-container >  
+	<h1>Period {{ period[0].split("p_")[1] }}</h1>
     
     <v-container>
-      <h1>Elements associated to this group</h1>
+      <h1>Elements associated to this period</h1>
       <v-data-table
         :headers="headers"
         :items="elements"
@@ -49,12 +48,14 @@
         {text:'Name',align:'left',sortable:true,value:'name',class:'title'}
       ],
       elements: [],
-      period: [this.idPeriod]
+      period: []
     }),
     mounted: async function() {
       try {        
+	this.period = [this.idPeriod]
         var response = await axios.get('http://localhost:8000/api/periods/' + this.idPeriod )
         this.elements = response.data
+
       } catch (error) {
         alert(error)
         return error

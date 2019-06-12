@@ -1,13 +1,13 @@
 <template>
 	<v-container >
-    <v-card>
       <v-flex xs3>
+    <v-card>
         <div class="search-wrapper">
           <v-icon>search</v-icon>
           <input type="text" v-model="search" placeholder="Search molecule name"/>
         </div>
-      </v-flex>
     </v-card>
+      </v-flex>
     <h1>
       Results from search
     </h1> 

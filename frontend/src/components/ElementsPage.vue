@@ -1,13 +1,13 @@
 <template>
 	<v-container >
-    <v-card>
       <v-flex xs3>
+    <v-card>
         <div class="search-wrapper">
           <v-icon>search</v-icon>
           <input type="text" v-model="search" placeholder="Search element name"/>
         </div>
-      </v-flex>
     </v-card>
+      </v-flex>
     <h1>
       Results from search
     </h1> 
@@ -25,8 +25,8 @@
 
       <template v-slot:items="props">
         <tr @click="rowClicked(props.item)">
-          <td class="subheading">{{ props.item.symbol }}</td>
           <td class="subheading">{{ props.item.name }}</td>
+          <td class="subheading">{{ props.item.symbol }}</td>
           <td class="subheading">{{ props.item.atm_number }}</td>
         </tr>
       </template>
@@ -42,8 +42,8 @@
 	export default {
     data:() =>({
       headers:[
-        {text:'Symbol',align:'left',sortable:false,value:'symbol',class:'title'},
         {text:'Name',align:'left',sortable:true,value:'name',class:'title'},
+        {text:'Symbol',align:'left',sortable:false,value:'symbol',class:'title'},
         {text:'Atomic Number',align:'left',sortable:true,value:'atm_number',class:'title'}
       ],
       elements: [],

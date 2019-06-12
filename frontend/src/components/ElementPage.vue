@@ -47,11 +47,11 @@
                   <v-list-tile-content>Atomic number:</v-list-tile-content>
                   <v-list-tile-content class="align-end">{{ props.item.atm_number }}</v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile>
+                <v-list-tile @click="getGroup(props.item)">
                   <v-list-tile-content>Group:</v-list-tile-content>
                   <v-list-tile-content class="align-end">{{ props.item.group.split("#g_")[1] }}</v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile>
+                <v-list-tile @click="getPeriod(props.item)">
                   <v-list-tile-content>Period:</v-list-tile-content>
                   <v-list-tile-content class="align-end">{{ props.item.period.split("#p_")[1] }}</v-list-tile-content>
                 </v-list-tile>
@@ -160,7 +160,13 @@
     methods: {
       rowClicked: function(item){
         this.$router.push('/molecules/' + item.mol.split('#')[1])
-      }
+      },
+	getGroup: function(item){
+		this.$router.push('/groups/' + item.group.split('#')[1])
+	},
+	getPeriod: function(item){
+		this.$router.push('/periods/' + item.period.split('#')[1])
+	}
     }
 }
 </script>

@@ -115,7 +115,6 @@ router.get('/:id/elementCount',function(req, res){
 
   var encoded = encodeURIComponent(query)
 
-console.log(ontologyLink + '?query=' + encoded)
 
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {

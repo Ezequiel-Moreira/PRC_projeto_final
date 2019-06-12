@@ -17,8 +17,8 @@
 
       <template v-slot:items="props">
         <tr @click="rowClicked(props.item)">
-          <td class="subheading">{{ props.item.group.split("#g_")[1] }}</td>
           <td class="subheading">{{ props.item.name }}</td>
+          <td class="subheading">{{ props.item.group.split("#g_")[1] }}</td>
         </tr>
       </template>
 
@@ -35,8 +35,8 @@
 	export default {
     data:() =>({
       headers:[
-        {text:'Number',align:'left',sortable:true,value:'num',class:'title'}
-        {text:'Name',align:'left',sortable:true,value:'name',class:'title'}
+        {text:'Name',align:'left',sortable:true,value:'name',class:'title'},
+        {text:'Number',align:'left',sortable:false,value:'num',class:'title'}
       ],
       groups:[]
     }),

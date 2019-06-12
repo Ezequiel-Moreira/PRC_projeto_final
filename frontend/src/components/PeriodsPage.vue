@@ -1,12 +1,13 @@
 <template>
 	<v-container >
     <h1>
-      Group Listing
+      Period Listing
     </h1> 
     <v-data-table
       :headers="headers"
-      :items="groups"
+      :items="periods"
       class="elevation-1"
+	disable-initial-sort=true
     >
 
       <template v-slot:no-data>
@@ -17,7 +18,7 @@
 
       <template v-slot:items="props">
         <tr @click="rowClicked(props.item)">
-          <td class="subheading">Periodo {{ props.item.period.split("#p_")[1]}}</td>
+          <td class="subheading">{{ props.item.period.split("#p_")[1]}}</td>
         </tr>
       </template>
 
@@ -34,7 +35,7 @@
 	export default {
     data:() =>({
       headers:[
-        {text:'Name',align:'left',sortable:true,value:'name',class:'title'}
+        {text:'Number',align:'left',sortable:false,value:'num',class:'title'}
       ],
       periods:[]
     }),
@@ -42,6 +43,7 @@
       try {
         var response = await axios.get('http://localhost:8000/api/periods')
         this.periods = response.data
+	
         
       } catch (error) {
         alert(error)

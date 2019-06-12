@@ -36,10 +36,6 @@
                     {{ props.item.formula}}
                   </v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile>
-                  <v-list-tile-content>Dot value:</v-list-tile-content>
-                  <v-list-tile-content class="align-end">{{ props.item.dot_val }}</v-list-tile-content>
-                </v-list-tile>
               </v-list>
             </v-card>
           </v-flex>

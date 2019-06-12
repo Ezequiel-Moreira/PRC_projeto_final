@@ -127,3 +127,5 @@ router.get('/:id/elementList', function(req, res) {
        })
 
 })
+
+module.exports = router
