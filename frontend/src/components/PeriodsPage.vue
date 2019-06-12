@@ -43,8 +43,6 @@
       try {
         var response = await axios.get('http://localhost:8000/api/periods')
         this.periods = response.data
-	
-        
       } catch (error) {
         alert(error)
         return error

@@ -53,9 +53,8 @@
     mounted: async function() {
       try {        
 	this.period = [this.idPeriod]
-        var response = await axios.get('http://localhost:8000/api/periods/' + this.idPeriod )
+        var response = await axios.get('http://localhost:8000/api/periods/' + this.idPeriod)
         this.elements = response.data
-
       } catch (error) {
         alert(error)
         return error

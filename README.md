@@ -1,32 +1,17 @@
-# server
+# PRC_projeto_final
 
-Projeto final de PRC usando vue e vuetify
+Final project for PRC by Ezequiel Moreira(PG38413)
 
+##Setup for project
 
-## Project setup
-```
-npm install
-```
+1- pull the repository
+2- add the ontology to a local graphdb repository named Projeto-Final-elements-molecules
+3- run npm install in both the backend and frontend directories
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+##Running the application
 
-### Compiles and minifies for production
-```
-npm run build
-```
+0- start the graphdb service locally
+1- run the command 'npm run start' in the backend directory
+2- run the command 'npm run serve' in the frontend directory
+3- open your browser in 'http://localhost:8080'
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

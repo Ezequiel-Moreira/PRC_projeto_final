@@ -44,7 +44,6 @@
       try {
         var response = await axios.get('http://localhost:8000/api/groups')
         this.groups = response.data
-        
       } catch (error) {
         alert(error)
         return error
