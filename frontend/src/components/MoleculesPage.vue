@@ -4,7 +4,7 @@
       <v-flex xs3>
         <div class="search-wrapper">
           <v-icon>search</v-icon>
-          <input type="text" v-model="search" placeholder="Search element name"/>
+          <input type="text" v-model="search" placeholder="Search molecule name"/>
         </div>
       </v-flex>
     </v-card>
@@ -55,11 +55,15 @@
       try {
         var response = await axios.get('http://localhost:8000/api/molecules')
         this.molecules = response.data
-        //tratar de dados da formula
+
+
+        // tratar de dados da formula
         for(var i in this.molecules){
-          var old_formula = this.molecules[i].formula
-          var new_formula = old_formula.replace(/_([a-zA-Z0-9]+)_/gi,'\($1\)').replace(/___/g,"·" + this.molecules[i].dot_val)
-          this.molecules[i].formula = new_formula
+		if(this.molecules[i].dot_val){
+          		this.molecules[i].formula = this.molecules[i].mol.split("mol_")[1].replace(/_([a-zA-Z0-9]+)_/gi,'($1)').replace(/___/g,"·" + this.molecules[i].dot_val).replace('minus','− ').replace('plus','+')
+		}else{
+			this.molecules[i].formula = this.molecules[i].mol.split("mol_")[1].replace(/_([a-zA-Z0-9]+)_/gi,'($1)').replace(/___/g,"·").replace('minus','−').replace('plus','+')
+		}
         }
       } catch (error) {
         alert(error)
@@ -68,12 +72,12 @@
     },
     methods: {
       rowClicked: function(item){
-        this.$router.push('/molecules/' + item.s.split('#')[1])
+        this.$router.push('/molecules/' + item.mol.split('#')[1])
       }
     },
     computed:{
       filteredMolecules(){
-        return this.elements.filter(mol => { return mol.name.toLowerCase().includes(this.search.toLowerCase()) })
+        return this.molecules.filter(mol => { return mol.name.toLowerCase().includes(this.search.toLowerCase()) })
       }
     }
 	}

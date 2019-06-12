@@ -107,8 +107,9 @@
         <template v-slot:items="props">
           <tr @click="rowClicked(props.item)">
             <td class="subheading">
-              {{ props.item.mol.split("#mol_")[1].replace('/___/g',props.item.dot_val).replace('/_(\w+)_/gi','\($1\)') }}
+              {{ props.item.formula}}
             </td>
+	    <td class="subheading">{{ props.item.name }}</td>
           </tr>
         </template>
 
@@ -129,6 +130,7 @@
     props: ["idElemento"],
     data:() =>({
       headers:[
+        {text:'Formula',align:'left',sortable:true,value:'formula',class:'title'},
         {text:'Name',align:'left',sortable:true,value:'name',class:'title'}
       ],
       element: [],
@@ -141,6 +143,15 @@
 
         var response2 = await axios.get('http://localhost:8000/api/elements/' + this.idElemento + '/moleculeList')
         this.molecules = response2.data
+
+        // tratar de dados da formula
+        for(var i in this.molecules){
+		if(this.molecules[i].dot_val){
+          		this.molecules[i].formula = this.molecules[i].mol.split("#mol_")[1].replace(/_([a-zA-Z0-9]+)_/gi,'($1)').replace(/___/g,"·" + this.molecules[i].dot_val).replace('minus','− ').replace('plus','+')
+		}else{
+			this.molecules[i].formula = this.molecules[i].mol.split("#mol_")[1].replace(/_([a-zA-Z0-9]+)_/gi,'($1)').replace(/___/g,"·").replace('minus','− ').replace('plus','+')
+		}
+        }
       } catch (error) {
         alert(error)
         return error

@@ -9,8 +9,8 @@ router.get('/', function(req, res) {
   //executes the query for the molecule listing
   var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" + 
               "select *  where {\n" +
-              "  ?s a :Molecule .\n" +
-              "  ?s :molecule_name ?name;\n" +
+              "  ?mol a :Molecule .\n" +
+              "  ?mol :molecule_name ?name;\n" +
               "     :molecule_number ?number;\n" +
               "     :molecule_formula ?formula;\n" +
               "     :molecule_dot-val ?dot_val;\n" +
@@ -61,6 +61,7 @@ router.get('/:id', function(req, res) {
               "}"
 
   var encoded = encodeURIComponent(query)
+	
 
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {
@@ -80,6 +81,7 @@ router.get('/:id', function(req, res) {
          tempResult[key] = 'undefined'
        }
        }
+       tempResult['mol'] = mol
        results[i]=tempResult
        }	
        res.json(results)
@@ -97,20 +99,23 @@ router.get('/:id/elementCount',function(req, res){
   
   var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
               "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\n" +
-              "select ?elem (SUM(?result) AS ?sum)  where { \n" +
+              "select ?elem ?name (SUM(?result) AS ?sum) where { \n" +
               "BIND(xsd:integer(?quant)*xsd:integer(?submolQuant) AS ?result)\n" +
-              ": " + mol + " :hasDotSubMolecule ?sM_D .\n" +
+              " :" + mol + " :hasDotSubMolecule ?sM_D .\n" +
               "    ?sM_D :hasParentesesSubMolecule ?sM_P.\n" +
               "    ?sM_P :parentesesSubMolecule_quant ?submolQuant;\n" +
               "        :hasElementQuantity ?e_Q.\n" +
               "    ?e_Q :elementQuantity_quant ?quant;\n" +
               "         :elementQuantity_pol-quant ?pol_quant;\n" +
               "         :elementQuantity_pol ?pol;\n" +
-              "         :hasElementinElementQuantity ?elem\n" +
+              "         :hasElementinElementQuantity ?elem.\n" +
+	      "    ?elem :elemental_name ?name\n" +
               "} \n" +
-              "group by ?elem"
+              "group by ?elem ?name"
 
   var encoded = encodeURIComponent(query)
+
+console.log(ontologyLink + '?query=' + encoded)
 
   axios.get(ontologyLink + '?query=' + encoded)
        .then(response => {

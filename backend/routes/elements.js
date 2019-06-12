@@ -108,11 +108,12 @@ router.get('/:id/moleculeList',function(req,res){
   var query = "PREFIX : <http://www.semanticweb.org/iamtruth/ontologies/2019/4/final_project#>\n" +
                  "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\n" +
                  "PREFIX owl: <http://www.w3.org/2002/07/owl#>\n" +
-                 "select distinct ?mol where {\n" +
+                 "select distinct ?mol ?name where {\n" +
                  "  :" + elem + " :isElementinElementQuantity ?e_Q .\n" +
                  "  ?e_Q :isElementQuantityOf ?sM_P.\n" +
                  "  ?sM_P :isParentesesSubMoleculeOf ?sM_D.\n" +
-                 "  ?sM_D :isDotSubMoleculeOf ?mol\n" +
+                 "  ?sM_D :isDotSubMoleculeOf ?mol.\n" +
+		 "  ?mol :molecule_name ?name\n" +
                  "}"
 
 

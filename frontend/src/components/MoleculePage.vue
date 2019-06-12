@@ -1,5 +1,8 @@
 <template>
 	<v-container >    
+
+
+	<h1>{{ molecule[0].name }}</h1>
     
     <v-container fluid grid-list-md>
       <v-data-iterator
@@ -30,7 +33,7 @@
                 <v-list-tile>
                   <v-list-tile-content>Formula:</v-list-tile-content>
                   <v-list-tile-content class="align-end">
-                    {{ props.item.formula.replace(/_([a-zA-Z0-9]+)_/gi,'\($1\)').replace(/___/g,"·" + this.molecules[i].dot_val) }}
+                    {{ props.item.formula}}
                   </v-list-tile-content>
                 </v-list-tile>
                 <v-list-tile>
@@ -45,7 +48,7 @@
     </v-container>
 
     <v-container>
-      <h1>Molecules associated to this element</h1>
+      <h1>Elements associated to this molecule</h1>
       <v-data-table
         :headers="headers"
         :items="elements"
@@ -61,9 +64,12 @@
         <template v-slot:items="props">
           <tr @click="rowClicked(props.item)">
             <td class="subheading">
+              {{ props.item.name }}
+            </td>
+            <td class="subheading">
               {{ props.item.elem.split("#e_")[1] }}
             </td>
-            <td>
+            <td class="subheading">
               {{ props.item.sum }}
             </td>
           </tr>
@@ -86,17 +92,27 @@
     props: ["idMolecule"],
     data:() =>({
       headers:[
-        {text:'Name',align:'left',sortable:true,value:'name',class:'title'}
+        {text:'Name',align:'left',sortable:true,value:'name',class:'title'},
+        {text:'Formula',align:'left',sortable:false,value:'formula',class:'title'},
+        {text:'Quantity',align:'left',sortable:false,value:'num',class:'title'}
       ],
       elements: [],
       molecule: []
     }),
     mounted: async function() {
       try {        
-        var response = await axios.get('http://localhost:8000/api/molecules/' + this.idElemento)
+        var response = await axios.get('http://localhost:8000/api/molecules/' + this.idMolecule)
         this.molecule = response.data
+	
 
-        var response2 = await axios.get('http://localhost:8000/api/molecules/' + this.idElemento + '/moleculeList')
+        // tratar de dados da formula
+		if(this.molecule[0].dot_val){
+          		this.molecule[0].formula = this.molecule[0].mol.split("mol_")[1].replace(/_([a-zA-Z0-9]+)_/gi,'($1)').replace(/___/g,"·" + this.molecule[0].dot_val).replace('minus','−').replace('plus','+')
+		}else{
+			this.molecule[0].formula = this.molecule[0].mol.split("mol_")[1].replace(/_([a-zA-Z0-9]+)_/gi,'($1)').replace(/___/g,"·").replace('minus','−').replace('plus','+')
+		}
+
+        var response2 = await axios.get('http://localhost:8000/api/molecules/' + this.idMolecule + '/elementCount')
         this.elements = response2.data
       } catch (error) {
         alert(error)
@@ -105,7 +121,7 @@
     },
     methods: {
       rowClicked: function(item){
-        this.$router.push('/elements/' + item.mol.split('#')[1])
+        this.$router.push('/elements/' + item.elem.split('#')[1])
       }
     }
 }
