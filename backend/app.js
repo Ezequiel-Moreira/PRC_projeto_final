@@ -13,6 +13,10 @@ var elementsRouter = require('./routes/elements')
 
 var moleculesRouter = require('./routes/molecules')
 
+var groupsRouter = require('./routes/groups')
+
+var periodsRouter = require('./routes/periods')
+
 // var usersRouter = require('./routes/users') 
 
 var app = express() 
@@ -45,6 +49,10 @@ app.use('/api', homepageRouter)
 app.use('/api/elements',elementsRouter)
 
 app.use('/api/molecules',moleculesRouter)
+
+app.use('/api/groups',groupsRouter)
+
+app.use('/api/periods',periodsRouter)
 
 
 // app.use('/users', usersRouter) 
