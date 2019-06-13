@@ -56,7 +56,7 @@
 									<v-list-tile-content class="align-end">{{ props.item.period.split("#p_")[1] }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
-									<v-list-tile-content>Atomic weight:</v-list-tile-content>
+									<v-list-tile-content>Atomic weight(u):</v-list-tile-content>
 									<v-list-tile-content class="align-end">{{ props.item.atm_weight }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
@@ -68,19 +68,19 @@
 									<v-list-tile-content class="align-end">{{ props.item.melting_point }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
-									<v-list-tile-content>Density:</v-list-tile-content>
+									<v-list-tile-content>Density(g/cm<sup>3</sup>):</v-list-tile-content>
 									<v-list-tile-content class="align-end">{{ props.item.density }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
-									<v-list-tile-content>Heat capacity(C):</v-list-tile-content>
+									<v-list-tile-content>Heat capacity(J/g·K):</v-list-tile-content>
 									<v-list-tile-content class="align-end">{{ props.item.heat_capacity_C }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
-									<v-list-tile-content>Eletro-negativity:</v-list-tile-content>
+									<v-list-tile-content>Eletro-negativity(X):</v-list-tile-content>
 									<v-list-tile-content class="align-end">{{ props.item.electro_negativity }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
-									<v-list-tile-content>Abundance on earth:</v-list-tile-content>
+									<v-list-tile-content>Abundance on earth(mg/kg):</v-list-tile-content>
 									<v-list-tile-content class="align-end">{{ props.item.abundance }}</v-list-tile-content>
 								</v-list-tile>
 							</v-list>
