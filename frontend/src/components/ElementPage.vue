@@ -90,11 +90,21 @@
 			</v-data-iterator>
 		</v-container>
 
+
+		<v-flex xs3>
+			<v-card>
+				<div class="search-wrapper">
+					<v-icon>search</v-icon>
+					<input type="text" v-model="search" placeholder="Search molecule name"/>
+				</div>
+			</v-card>
+		</v-flex>
+
 		<v-container>
 			<h1>Molecules associated to this element</h1>
 			<v-data-table
 				:headers="headers"
-				:items="molecules"
+				:items="filteredMolecules"
 				class="elevation-1"
 			>
 
@@ -106,10 +116,10 @@
 
 				<template v-slot:items="props">
 					<tr @click="rowClicked(props.item)">
+						<td class="subheading">{{ props.item.name }}</td>
 						<td class="subheading">
 							{{ props.item.formula}}
 						</td>
-						<td class="subheading">{{ props.item.name }}</td>
 					</tr>
 				</template>
 
@@ -129,12 +139,13 @@
 	export default {
 		props: ["idElemento"],
 		data:() =>({
-			headers:[
-				{text:'Formula',align:'left',sortable:true,value:'formula',class:'title'},
-				{text:'Name',align:'left',sortable:true,value:'name',class:'title'}
+			headers:[,
+				{text:'Name',align:'left',sortable:true,value:'name',class:'title'},
+				{text:'Formula',align:'left',sortable:true,value:'formula',class:'title'}
 			],
 			element: [],
-			molecules: []
+			molecules: [],
+			search: ""
 		}),
 		mounted: async function() {
 			try {        
@@ -161,12 +172,17 @@
 			rowClicked: function(item){
 				this.$router.push('/molecules/' + item.mol.split('#')[1])
 			},
-	getGroup: function(item){
-		this.$router.push('/groups/' + item.group.split('#')[1])
-	},
-	getPeriod: function(item){
-		this.$router.push('/periods/' + item.period.split('#')[1])
-	}
+			getGroup: function(item){
+				this.$router.push('/groups/' + item.group.split('#')[1])
+			},
+			getPeriod: function(item){
+				this.$router.push('/periods/' + item.period.split('#')[1])
+			}
+		},
+		computed:{
+			filteredMolecules(){
+				return this.molecules.filter(mol => { return mol.name.toLowerCase().includes(this.search.toLowerCase()) })
+			}
 		}
 }
 </script>
