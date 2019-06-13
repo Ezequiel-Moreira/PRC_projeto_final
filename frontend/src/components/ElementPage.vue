@@ -139,7 +139,7 @@
 	export default {
 		props: ["idElemento"],
 		data:() =>({
-			headers:[,
+			headers:[
 				{text:'Name',align:'left',sortable:true,value:'name',class:'title'},
 				{text:'Formula',align:'left',sortable:true,value:'formula',class:'title'}
 			],
