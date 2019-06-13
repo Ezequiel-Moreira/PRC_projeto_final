@@ -68,7 +68,7 @@
 									<v-list-tile-content class="align-end">{{ props.item.melting_point }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>
-									<v-list-tile-content>Density(g/cm<sup>3</sup>):</v-list-tile-content>
+									<v-list-tile-content>Density(g/cm^3 ):</v-list-tile-content>
 									<v-list-tile-content class="align-end">{{ props.item.density }}</v-list-tile-content>
 								</v-list-tile>
 								<v-list-tile>

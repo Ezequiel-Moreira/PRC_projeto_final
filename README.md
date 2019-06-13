@@ -6,7 +6,7 @@ Final project for PRC by Ezequiel Moreira(PG38413)
 
 1- pull the repository
 
-2- add the ontology to a local graphdb repository named Projeto-Final-elements-molecules
+2- import data from 'final_ontology.ttl' to a local graphdb repository named Projeto-Final-elements-molecules
 
 3- run npm install in both the backend and frontend directories
 
