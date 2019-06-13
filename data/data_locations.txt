@@ -2,10 +2,14 @@ elements: https://en.wikipedia.org/wiki/List_of_chemical_elements
 
 molecules:https://en.wikipedia.org/wiki/Glossary_of_chemical_formulas
 
+groups: https://en.wikipedia.org/wiki/Glossary_of_chemical_formulas
 
-Note 1: json files transformed to xml using https://www.freeformatter.com/json-to-xml-converter.html 
+
+Note 1: data was extracted from wiki tables using https://www.wikitable2json.com/
+
+Note 2: json files transformed to xml using https://www.freeformatter.com/json-to-xml-converter.html 
 or http://convertjson.com/json-to-xml.htm, depending on file size
 
-Note 2: some data from the original datasets was manually removed, mostly for edge cases
+Note 3: some data from the original datasets was manually removed, mostly for edge cases
 
-Note 3: this project assumes the ontology is in a graphdb local repository named Projeto-Final-elements-molecules
+Note 4: this project assumes the ontology is in a graphdb local repository named Projeto-Final-elements-molecules
